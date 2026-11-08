@@ -1,0 +1,63 @@
+{
+  "rubric_source": "Scoring criteria for assessing.docx",
+  "rubric_verbatim": "Table 4: Scoring criteria for assessing the extent to which studies address the identified research gaps.\nScore\nScoring rule\nEvidence required\n0 — Not relevant\nThe study does not discuss the specific gap or provide a contribution addressing it.\nA full-text relevance check. Similar keywords alone are not sufficient.\n1 — Recognition only\nThe study identifies the gap but does not provide a contribution addressing it.\nA direct quotation identifying the gap, with its page and section.\n2 — Contribution proposed\nThe study presents a method, framework, algorithm or data contribution addressing the gap but does not evaluate it.\nA description of the contribution and how it relates to the gap.\n3 — Contribution evaluated\nThe contribution is implemented and tested, but its performance is not checked against observations or data from an actual deconstruction project.\nThe evaluation method, test setting and results. Tests may use simulations or laboratory demonstrations.\n4 — Contribution evaluated using actual project observations\nThe contribution is implemented and tested against recorded observations or data from an actual deconstruction project.\nThe project-data source, measured information, evaluation method and results.\n",
+  "score_table": [
+    [
+      "Score",
+      "Scoring rule",
+      "Evidence required"
+    ],
+    [
+      "0 — Not relevant",
+      "The study does not discuss the specific gap or provide a contribution addressing it.",
+      "A full-text relevance check. Similar keywords alone are not sufficient."
+    ],
+    [
+      "1 — Recognition only",
+      "The study identifies the gap but does not provide a contribution addressing it.",
+      "A direct quotation identifying the gap, with its page and section."
+    ],
+    [
+      "2 — Contribution proposed",
+      "The study presents a method, framework, algorithm or data contribution addressing the gap but does not evaluate it.",
+      "A description of the contribution and how it relates to the gap."
+    ],
+    [
+      "3 — Contribution evaluated",
+      "The contribution is implemented and tested, but its performance is not checked against observations or data from an actual deconstruction project.",
+      "The evaluation method, test setting and results. Tests may use simulations or laboratory demonstrations."
+    ],
+    [
+      "4 — Contribution evaluated using actual project observations",
+      "The contribution is implemented and tested against recorded observations or data from an actual deconstruction project.",
+      "The project-data source, measured information, evaluation method and results."
+    ]
+  ],
+  "subgroups": {
+    "SG01": "Automating disassembly model preparation",
+    "SG02": "Incomplete or insufficiently detailed building models",
+    "SG03": "Reliable empirical planning data",
+    "SG04": "Economic and environmental objectives in selective planning",
+    "SG05": "Resources, equipment and site constraints",
+    "SG06": "Extension to complete and complex buildings",
+    "SG07": "Connecting sequence planning with robotic execution",
+    "SG08": "Representing dependencies and component completeness",
+    "SG09": "Structural stability during removal",
+    "SG10": "Optimisation quality and computational scalability",
+    "SG11": "Disassembly information standards and taxonomies",
+    "SG12": "Interoperability and data requirements across digital tools",
+    "SG13": "Capturing practitioners' knowledge in ontologies",
+    "SG14": "Immersive visualisation for recovery and reuse planning",
+    "SG15": "Developing automated and practice-ready planning workflows",
+    "SG16": "Field validation and evidence across building contexts",
+    "SG17": "Robotic perception and adaptation to site conditions",
+    "SG18": "Coordinating robots and human workers",
+    "SG19": "Enriching voxel models with lifecycle and structural data",
+    "SG20": "Early project decisions for circular delivery",
+    "SG21": "Alternative dismantling techniques in planning",
+    "SG22": "Modular disassembly and complex extraction paths",
+    "SG23": "Scheduling under uncertainty and weak data",
+    "SG24": "Sensor-based acquisition and semantic BIM generation",
+    "SG25": "Connection lock-in stress affecting disassembly"
+  }
+}

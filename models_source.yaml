@@ -1,0 +1,38 @@
+# Gemini model settings copied from Markings config_a2.yaml.
+models:
+  flash:
+    id: gemini-3.8-flash
+    thinking_level: high
+    max_output_tokens: 65536
+    request_timeout_s: 600
+    max_retries: 8
+    max_concurrent_requests: 20
+    requests_per_minute: 1800
+    tokens_per_minute: 2700000
+    requests_per_day: 95000
+    estimated_tokens_per_call: 30000
+    quota_is_per_key: false
+  argon:
+    id: gemini-4-argon
+    thinking_level: high
+    max_output_tokens: 65536
+    request_timeout_s: 1200
+    max_retries: 8
+    max_concurrent_requests: 6
+    requests_per_minute: 120
+    tokens_per_minute: 1000000
+    requests_per_day: 5000
+    estimated_tokens_per_call: 60000
+    quota_is_per_key: false
+
+# Paid-tier USD pricing per 1,000,000 tokens (audited 2026-11-08; output rate applies to candidates + thoughts tokens).
+pricing:
+  gemini-3.8-flash:
+    uncached_input_usd_per_1m: 0.75
+    cached_input_usd_per_1m: 0.075
+    output_plus_thoughts_usd_per_1m: 3.75
+  gemini-4-argon:
+    uncached_input_usd_per_1m: 2.00
+    cached_input_usd_per_1m: 0.10
+    output_plus_thoughts_usd_per_1m: 10.00
+

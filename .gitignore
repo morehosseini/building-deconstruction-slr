@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+work/
+*.env
+private_keys/
+private_mapping.json
+AUTHOR_DECISION_LIST.md

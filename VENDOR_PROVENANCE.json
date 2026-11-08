@@ -1,0 +1,24 @@
+{
+  "gemini.py": {
+    "source": "marking_pipeline/markpipe/gemini.py",
+    "sha256": "a678c08f2b154bfa4ddcf1abe5e85da7eed6dfac89f275321662c1b5a619f1af",
+    "adaptation": "Preserve every raw provider response before parsing, settle usage_metadata (including cached_content_token_count and thoughts_token_count) immediately upon response receipt prior to STOP/JSON validation, enforce pre-call and shared-ledger provider attempt and USD spending ceilings (BudgetLedger / BudgetExceededError), reject finish reasons other than STOP, and strip OpenAPI-only additionalProperties fields when sending response_schema.",
+    "delivered_sha256": "901db9dceebdad70d0462d393b48729bca8d4b5be7962b43557788ae95cf67d9"
+  },
+  "ratelimit.py": {
+    "source": "marking_pipeline/markpipe/ratelimit.py",
+    "sha256": "b1cd08b9b05da05a1ff5e33c92cf5135999715de19b343e5d3fcc70b1c625ec0",
+    "delivered_sha256": "b1cd08b9b05da05a1ff5e33c92cf5135999715de19b343e5d3fcc70b1c625ec0"
+  },
+  "util.py": {
+    "source": "marking_pipeline/markpipe/util.py",
+    "sha256": "23611991d20a120665db43e5f96a8ab882d4336794c03e94353c7e0bbb4338dd",
+    "delivered_sha256": "23611991d20a120665db43e5f96a8ab882d4336794c03e94353c7e0bbb4338dd"
+  },
+  "models_source.yaml": {
+    "source": "marking_pipeline/config_a2.yaml",
+    "sha256": "c5b37c93de197cb8f5500552fe7227dbe551799f745d6174e474526a9d8d193c",
+    "adaptation": "models section extracted to models_source.yaml with max_output_tokens raised to 65536 to prevent structured JSON truncation under high thinking budgets, plus paid-tier token pricing rates for runtime USD spend enforcement; serial concurrency and four-attempt maximum applied by model_config.",
+    "delivered_sha256": "ba897968ad56a6aea868ea56eafe4f6be50235520c1b1dde7e2d7f9f526174ca"
+  }
+}

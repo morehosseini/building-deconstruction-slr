@@ -1,0 +1,354 @@
+record_id,title,year_as_recorded,building_deconstruction,sequencing_or_scheduling,digital_support,decision,main_exclusion_reason,retained_with_uncertainty,database_sources,doi
+R0001,Problems of Reconstruction of Ferrous Metallurgy Enterprises,2018,Unclear,Yes,Unclear,Retain,,Yes,Scopus; WoS,10.1088/1757-899x/365/6/062017
+R0002,"International Conference on Computers and Industrial Engineering, CIE 2018",2018,No,Unclear,Unclear,Exclude,E1,No,Scopus,
+R0003,VISUAL EXPERIENCE DESIGN IN SMART TOURISM: INTELLIGENT SYSTEMS FOR PERSONALIZED CULTURAL AND TRAVEL NARRATIVES,2025,No,Unclear,Unclear,Exclude,E1,No,Scopus,10.29121/shodhkosh.v6.i5s.2025.6954
+R0004,Research Progress and Prospects of Job Shop Scheduling Algorithms,2025,No,Unclear,Unclear,Exclude,E1,No,Scopus,10.1109/icaace65325.2025.11020440
+R0005,From principles to practice: A systematic literature review of design for manufacture and assembly and design for deconstruction strategies for a circular construction industry,2026,Yes,Unclear,Unclear,Retain,,Yes,Scopus; WoS,10.1002/suco.70452
+R0006,A model for the selection of the optimum crane for construction sites,1984,No,Unclear,Unclear,Exclude,E1,No,Scopus,10.1080/01446198400000015
+R0007,Motion Performance Analysis and Control of Robotic Hydraulic Manipulator Arm; [机器人液压机械臂运动性能分析与控制],2025,No,Unclear,Unclear,Exclude,E1,No,Scopus,10.15961/j.jsuese.202300379
+R0008,Optimisation of site layout planning for multiple construction stages with safety considerations and requirements,2015,No,Unclear,Unclear,Exclude,E1,No,Scopus; WoS,10.1016/j.autcon.2015.03.005
+R0009,"Content, Methods and Strategies of Data Architecture for Library Digital Transformation; [面向图书馆数字化转型的数据架构内涵、 方法与策略]",2024,No,Unclear,Unclear,Exclude,E1,No,Scopus,10.16353/j.cnki.1000-7490.2024.03.004
+R0010,Temporary facility planning of a construction project using BIM (Building Information Modeling),2011,Yes,Unclear,Unclear,Retain,,Yes,Scopus,10.1061/41182(416)77
+R0011,Integrated survey and semantic deconstruction: The bell tower of the Melfi Cathedral (PZ) between HBIM informative digitalization and virtual fruition,2025,No,Unclear,Unclear,Exclude,E1,No,Scopus; WoS,10.21014/actaimeko.v14i4.2129
+R0012,Automatically Transforming Virtual RealitySimulations into Project Schedules,2026,Unclear,Yes,Yes,Retain,,Yes,Scopus; WoS,10.1061/jcemd4.coeng-17813
+R0013,The framework of green deconstruction planning system in Indonesia: Maximizing the conservation of construction resources,2023,Yes,Unclear,Unclear,Retain,,Yes,Scopus,10.1063/5.0165463
+R0014,Choosing a sustainable demolition waste management strategy using multicriteria decision analysis,2009,Yes,No,Unclear,Exclude,E2,No,Scopus,10.1016/j.wasman.2008.04.010
+R0015,Aspects of digitalization and information technology in the field of engineering surveys,2024,No,Unclear,Unclear,Exclude,E1,No,Scopus,10.24887/0028-2448-2024-7-114-119
+R0016,Co-Robotic Assembly of Nonstandard Timber Structures,2023,No,Unclear,Unclear,Exclude,E1,No,Scopus,
+R0017,A BIM-Based Assessment Method for Reusing Components from Existing Precast Concrete Buildings,2025,Yes,Yes,Yes,Retain,,No,Scopus; WoS,10.1007/978-3-031-84208-5_20
+R0018,"2013 4th International Conference on Computing, Control and Industrial Engineering, CCIE 2013",2013,No,Unclear,Unclear,Exclude,E1,No,Scopus,
+R0019,Discrete Circular Scaffolding A reflection on discrete systems in construction,2023,Yes,Yes,Yes,Retain,,No,Scopus,10.52842/conf.ecaade.2023.1.559
+R0020,Selective disassembly strategy based on the CAD model assembly building,2012,Yes,Yes,Yes,Retain,,No,Scopus,10.4028/www.scientific.net/amm.193-194.1095
+R0021,BIM and Cost Estimation Issues (5D): Case of Armenia,2019,No,Unclear,Unclear,Exclude,E1,No,Scopus,10.1088/1757-899x/698/2/022076
+R0022,Integrated optimisation of human-robot collaborative disassembly planning and adaptive evaluation driven by a digital twin,2024,No,Unclear,Unclear,Exclude,E1,No,Scopus; WoS,10.1080/00207543.2024.2381710
+R0023,LCA and economic cradle-to-gate analysis on the reuse of a temporary building,2024,Yes,No,Unclear,Exclude,E2,No,Scopus,10.1007/s11356-024-35132-6
+R0024,Research on the assembly sequence of a ship block based on the disassembly interference matrix,2015,No,Unclear,Unclear,Exclude,E1,No,Scopus; WoS,10.5957/jspd.31.4.140009
+R0025,Applied Mechanics and Materials,2014,No,Unclear,Unclear,Exclude,E1,No,Scopus,
+R0026,Design Scenarios for a Circular Vision of Post-disaster Temporary Settlements,2023,Yes,No,Unclear,Exclude,E2,No,Scopus,10.1007/978-3-031-29515-7_43
+R0027,Mechanical product disassembly and/or graph construction,2010,No,Unclear,Unclear,Exclude,E1,No,Scopus,10.1109/icmtma.2010.633
+R0028,"Artificial intelligence for deconstruction: Current state, challenges, and opportunities",2024,Yes,Unclear,Unclear,Retain,,Yes,Scopus; WoS,10.1016/j.autcon.2024.105641
+R0029,Neighborhood Modularization-based Artificial Bee Colony Algorithm for Disassembly Planning with Operation Attributes,2022,Unclear,Yes,Yes,Retain,,Yes,Scopus,10.1186/s10033-022-00812-2
+R0030,Automated robotic deconstruction sequence planning from scan-to-BIM data for reinforced concrete structure reuse,2025,Yes,Yes,Yes,Retain,,No,Scopus; WoS,10.1016/j.autcon.2025.106548
+R0031,Advancing Circular Economy Strategies in Modular Architecture through Design for Disassembly and Reuse,2025,Yes,Unclear,Unclear,Retain,,Yes,Scopus; WoS,10.29227/im-2025-02-02-021
+R0032,BIM for deconstruction: A review and bibliometric analysis,2023,Yes,Unclear,Unclear,Retain,,Yes,Scopus; WoS,10.1016/j.jobe.2023.106683
+R0033,BIM in planning deconstruction projects,2015,Yes,Yes,Yes,Retain,,No,Scopus; WoS,10.1201/b17396-17
+R0034,A Generic Deployment Methodology for Digital Twins – First Building Blocks,2024,No,Unclear,Unclear,Exclude,E1,No,Scopus,10.1201/9781003425724-10
+R0035,Situation-based use of extended reality technologies for steel-glass structures - A report from the DigitalTWIN research project; [Situationsbezogener Einsatz von Technologien der erweiterten Realität bei Stahl-Glas-Konstruktionen – Ein Bericht aus dem Forschungsprojekt DigitalTWIN],2022,No,Unclear,Unclear,Exclude,E1,No,Scopus,10.1002/stab.202100078
+R0036,Model Construction and Empirical Study of a Three-Dimensional Spiral Model for GAI-Enhanced Information Literacy Education; [GAI赋能信息素养教育的三维螺旋模型 构建与实证研究],2026,No,Unclear,Unclear,Exclude,E1,No,Scopus,10.13998/j.cnki.issn1002-1248.26-0062
+R0037,ZeroWaste - Towards Computing Cooperative Robotic Sequences for the Disassembly and Reuse of Timber Frame Structures,2023,Yes,Yes,Yes,Retain,,No,Scopus,
+R0038,Resource efficiency in abandoned heritage buildings A review of reuse strategies and decision support methods,2026,Yes,Unclear,Unclear,Retain,,Yes,Scopus; WoS,10.1016/j.jobe.2026.115645
+R0039,Operationalising Digital Circularity: A Critical Systematic Review of Artificial Intelligence Applications to Material and Digital Product Passports,2026,Yes,Unclear,Unclear,Retain,,Yes,Scopus; WoS,10.3390/buildings16112048
+R0040,An overview of the literature on decision-making support models for deconstruction logistics,2024,Yes,Yes,Yes,Retain,,No,Scopus,
+R0041,Deconstruction project planning of existing buildings based on automated acquisition and reconstruction of building information,2018,Yes,Yes,Yes,Retain,,No,Scopus; WoS,10.1016/j.autcon.2018.03.017
+R0042,"Modeling and comparison of data obtained by GPR, for geological / structural analysis of a carbonated ornamental rock quarry - Blocometry validation - Case study in Valinho De Fátima, Portugal",2020,No,Unclear,Unclear,Exclude,E1,No,Scopus,10.1088/1755-1315/609/1/012068
+R0043,Research on Control Technology of Unmanned 'Ant Boat' for Complex Scenarios,2025,No,Unclear,Unclear,Exclude,E1,No,Scopus,10.1109/cei66465.2025.11398688
+R0044,"Computing in Civil Engineering 2023: Visualization, Information Modeling, and Simulation - Selected Papers from the ASCE International Conference on Computing in Civil Engineering 2023",2024,Yes,Unclear,Unclear,Retain,,Yes,Scopus,
+R0045,Saliency Features for 3D CAD-Data in the Context of Sampling-Based Motion Planning,2021,No,Unclear,Unclear,Exclude,E1,No,Scopus,10.1109/icra48506.2021.9560979
+R0046,Design for steel structures deconstruction: an analytics system for construction waste minimization in a circular economy through BIM technology,2024,Yes,No,Unclear,Exclude,E2,No,Scopus; WoS,10.1007/s41062-024-01703-2
+R0047,Repair of the railway bridge over the river Main near Stockstadt - Substitution of the shore spans at record speed; [Instandsetzung der Eisenbahnüberführung über den Main in Stockstadt – Austausch der Vorlandbrücken in Rekordzeit],2021,No,Unclear,Unclear,Exclude,E1,No,Scopus; WoS,10.1002/stab.202000060
+R0048,Waste management policy revisions: Lessons learned from the Katrina disaster,2008,Yes,No,Unclear,Exclude,E2,No,Scopus; WoS,10.1504/ijetm.2008.017335
+R0049,Twenty Years of Remanufacturing Footprint and Development Trends; [再制造二十年足迹及发展趋势],2023,No,Unclear,Unclear,Exclude,E1,No,Scopus,10.3901/jme.2023.20.080
+R0050,Virtual disassembly simulation of varying target component for complex products,2011,Unclear,Yes,Yes,Retain,,Yes,Scopus; WoS,10.4028/www.scientific.net/amr.189-193.2467
+R0051,Design for Circular Disassembly of High-Performance Facade Systems,2025,Yes,Yes,Yes,Retain,,No,Scopus,10.22260/isarc2025/0092
+R0052,Unified framework for mixed-reality assisted situational adaptive robotic path planning enabled by 5G networks for deconstruction tasks,2024,Yes,Yes,Yes,Retain,,No,Scopus,10.22260/isarc2024/0022
+R0053,A BIM-based framework for lift planning in topsides disassembly of offshore oil and gas platforms,2017,No,Unclear,Unclear,Exclude,E1,No,Scopus; WoS,10.1016/j.autcon.2017.02.008
+R0054,A selective disassembly multi-objective optimization approach for adaptive reuse of building components,2020,Yes,Yes,Yes,Retain,,No,Scopus; WoS,10.1016/j.resconrec.2019.104605
+R0055,A New Pareto Discrete NSGAII Algorithm for Disassembly Line Balance Problem,2023,No,Unclear,Unclear,Exclude,E1,No,Scopus; WoS,10.1155/2023/8847164
+R0056,Aspects of architecture and urbanism in the reconstruction of disaster: Comparison of L’aquila (Italy) with Kolontar/Devecser (Hungary) and Corbeni (Romania) in the context of participative reconstruction,2014,No,Unclear,Unclear,Exclude,E1,No,Scopus; WoS,10.1007/978-94-007-7981-5_14
+R0057,“Estimating the recoverable value of in-situ building materials”,2023,Yes,Yes,Yes,Retain,,No,Scopus; WoS,10.1016/j.scs.2023.104455
+R0058,A framework design for optimizing scaffolding erection by applying mathematical models and virtual simulation,2014,No,Unclear,Unclear,Exclude,E1,No,Scopus,10.1061/9780784413616.041
+R0059,Digital Technologies and Material Passports for Circularity in Buildings: An In-Depth Analysis of Current Practices and Emerging Trends,2024,Yes,Unclear,Unclear,Retain,,Yes,Scopus,10.1007/978-3-031-57800-7_64
+R0060,Comparison of options and optimization of sorting and collection of waste at demolition sites during renovation,2021,Yes,Unclear,Unclear,Retain,,Yes,Scopus,10.1051/e3sconf/202125809025
+R0061,Standardized wooden system for timber internal tension simulation,2021,No,Unclear,Unclear,Exclude,E1,No,Scopus,10.22616/erdev.2021.20.tf294
+R0062,Activation analysis of concrete and graphite in the experimental reactor RUS,2005,Yes,No,Unclear,Exclude,E2,No,Scopus,10.1093/rpd/nci049
+R0063,Machine Learning-Based Building Life-Cycle Cost Prediction: A Framework and Ontology,2020,Yes,No,Unclear,Exclude,E2,No,Scopus; WoS,
+R0064,Design and implementation of burst switching nodes for WDM optical networks,2005,No,Unclear,Unclear,Exclude,E1,No,Scopus; WoS,10.1117/12.576550
+R0065,Structural rigidity theory applied to the scaffold-free (dis)assembly of space frames using cooperative robotics,2022,Yes,Yes,Yes,Retain,,No,Scopus,10.1016/j.autcon.2022.104405
+R0066,Radio frequency identification (RFID) integrated with building information model (BIM) for open-building life cycle information management,2011,Yes,No,Unclear,Exclude,E2,No,Scopus,
+R0067,Reconfiguration planning for heterogeneous cellular space robot,2017,No,Unclear,Unclear,Exclude,E1,No,Scopus,10.1109/icar.2017.8023516
+R0068,Selective Deconstruction Programming for Adaptive Reuse of Buildings,2019,Yes,Yes,Yes,Retain,,No,Scopus; WoS,
+R0069,A decision support for multi-level capacitated disassembly lot-sizing under uncertain yields using chance-constraints and two-stage stochastic optimization,2026,No,Unclear,Unclear,Exclude,E1,No,Scopus; WoS,10.1111/itor.70178
+R0070,A complex time based construction heuristic for batch scheduling problems in the chemical industry,2006,No,Unclear,Unclear,Exclude,E1,No,Scopus; WoS,10.1016/j.ejor.2005.03.011
+R0071,Simulation-Based Evaluation of Dismantling Variants for Concrete Modules from a Production Logistics Perspective,2026,No,Unclear,Unclear,Exclude,E1,No,Scopus; WoS,10.1002/best.70133
+R0072,Research on the Construction of a Cloud-Edge Collaborative System for Intelligent Processing of Outsourced Data in Industry-Education Integration,2026,No,Unclear,Unclear,Exclude,E1,No,Scopus,10.1145/3779475.3779494
+R0073,Use of BIM to Evaluate Feasibility of Deconstruction,2025,Yes,No,Unclear,Exclude,E2,No,Scopus; WoS,10.1007/978-981-96-4051-5_149
+R0074,Uranium refining and conversion plant decommissioning project,2010,No,Unclear,Unclear,Exclude,E1,No,Scopus; WoS,10.1115/icem2010-40068
+R0075,IFC-based automated deconstructability analysis with market data integration through knowledge graphs,2026,Yes,Yes,Yes,Retain,,No,Scopus; WoS,10.1016/j.autcon.2026.107219
+R0076,Model-based topological assessment for selective deconstruction: Enhancing quantity recovery and reuse accuracy,2025,Yes,Unclear,Unclear,Retain,,Yes,Scopus; WoS,10.1016/j.autcon.2025.106438
+R0077,Research on modularization fuzzy petri net of disassembly system,2009,Unclear,Yes,Yes,Retain,,Yes,Scopus,10.1109/icieem.2009.5344474
+R0078,Waste minimisation through deconstruction: A BIM based Deconstructability Assessment Score (BIM-DAS),2015,Yes,No,Unclear,Exclude,E2,No,Scopus; WoS,10.1016/j.resconrec.2015.10.018
+R0079,"Digital technologies in circular construction: a structured mapping of technology, strategy and lifecycle integration",2026,Yes,Unclear,Unclear,Retain,,Yes,Scopus; WoS,10.1007/s11831-026-10677-6
+R0080,Augmenting materials passports to support disassembly planning based on building information modelling standards,2024,Yes,Yes,Yes,Retain,,No,Scopus; WoS,10.1016/j.jobe.2024.109083
+R0081,VPL Prototypes for Determining Disassembly Parameters of BIM Models,2022,Yes,Yes,Yes,Retain,,No,Scopus; WoS,10.1007/978-981-16-6932-3_44
+R0082,Research on the Design Method of YOLOv3 Convolutional Neural Network Virtualization Based on FPGA,2025,No,Unclear,Unclear,Exclude,E1,No,Scopus,10.1145/3724504.3724601
+R0083,Quantitative evaluation and optimization method for distributed service collaboration performance of 5G power virtual private network,2025,No,Unclear,Unclear,Exclude,E1,No,Scopus,10.1117/12.3089155
+R0084,"1st IFIP TC 5 Advanced Production Management Systems Conference, APMS 2006",2008,No,Unclear,Unclear,Exclude,E1,No,Scopus,
+R0085,Assessing life cycle related environmental impacts caused by buildings (IEA EBC annex 72),2019,Yes,No,Unclear,Exclude,E2,No,Scopus; WoS,
+R0086,BIM-Based Deconstruction of Bridge Structures Using Digital 3D-Models and Information Containers,2025,No,Unclear,Unclear,Exclude,E1,No,Scopus; WoS,10.1007/978-981-96-4051-5_39
+R0087,Energy optimization based on project life cycle (PLC): A literature review,2023,Yes,No,Unclear,Exclude,E2,No,Scopus,10.1051/e3sconf/202346704008
+R0088,Chromatin remodeling protein BPTF mediates chromatin accessibility at gene promoters in planarian stem cells,2025,No,Unclear,Unclear,Exclude,E1,No,Scopus,10.1186/s12864-025-11405-3
+R0089,Design for Reconfigurability in Digital Timber Construction: A voxel-based approach for light-frame assemblies,2026,Yes,Yes,Yes,Retain,,No,Scopus; WoS,10.1016/j.dibe.2026.100958
+R0090,Towards hybridization of multi-agent simulation and metaheuristics applied to selective deconstruction,2022,Yes,Yes,Yes,Retain,,No,Scopus; WoS,10.1109/ssci51031.2022.10022117
+R0091,Ontology for a Knowledge-Based Deconstruction of Buildings Based on BIM Models and Linked Data Principles,2025,Yes,Unclear,Unclear,Retain,,Yes,Scopus; WoS,10.3390/buildings15050720
+R0092,Seismic damage of residential land and land evaluation using an embankment map,2015,No,Unclear,Unclear,Exclude,E1,No,Scopus,10.3208/jgssp.jpn-148
+R0093,Management of deconstruction of construction objects,2020,Yes,Unclear,Unclear,Retain,,Yes,Scopus; WoS,10.1088/1757-899x/962/2/022085
+R0094,Research on the urban architecture color and chromatography -A proposal of digital environmental color taking Dandong city's building color as an example,2013,No,Unclear,Unclear,Exclude,E1,No,Scopus; WoS,10.4028/www.scientific.net/amr.671-674.2245
+R0095,A multi-stage stochastic programming for joint condition-based replacement and spare parts ordering towards complex manufacturing system with uncertain lead times,2025,No,Unclear,Unclear,Exclude,E1,No,Scopus; WoS,10.1016/j.ress.2025.111464
+R0096,A framework for quantifying the benefits of robot-assisted deconstruction and reuse of structural concrete components,2025,Yes,Yes,Yes,Retain,,No,Scopus,
+R0097,Digital Twin-Enabled Multi-Robot Systems for Safe and Efficient Nuclear Decommissioning,2025,Unclear,Yes,Yes,Retain,,Yes,Scopus,
+R0098,Multi-Robotic System for Welded Steel Disassembly,2025,Yes,Yes,Yes,Retain,,No,Scopus,10.52842/conf.caadria.2025.3.467
+R0099,"Digital Twin-Enabled Human–Robot Collaborative Assembly: A Review of Technical Systems, Application Evolution, and Future Outlook",2026,Unclear,Unclear,Unclear,Retain,,Yes,Scopus; WoS,10.3390/machines14030255
+R0100,High-speed replacement of a sulphuric acid drying tower in a nickel production plant - Case study presentation by Glencore and DuPont Clean Technologies,2018,No,Unclear,Unclear,Exclude,E1,No,Scopus,
+R0101,The construction of a collaborative-design platform to support waste electrical and electronic equipment recycling,2010,No,Unclear,Unclear,Exclude,E1,No,Scopus; WoS,10.1016/j.rcim.2009.05.004
+R0102,BIM-Driven Robotic Disassembly for Resource Recovery in End-of-Life Buildings,2025,Yes,Yes,Yes,Retain,,No,Scopus,10.22260/isarc2025/0018
+R0103,Technological Deconstruction of DIS Agent Driving the Paradigm Shift in Documentation and Information Service Work; [驱动情报工作范式变革的情报智能体技术解构],2025,No,Unclear,Unclear,Exclude,E1,No,Scopus,10.13266/j.issn.0252-3116.2025.01.001
+R0104,SUSTAINABLE AND TEMPORARY USE OF VACANT BUILDINGS AND SITES THROUGH SIMPLE AND MODULAR STRUCTURAL MEASURES,2025,Yes,Unclear,Unclear,Retain,,Yes,Scopus,10.52202/080513-0044
+R0105,Circularity triage: A multi-stage adaptive model for end-of-life products,2026,No,Unclear,Unclear,Exclude,E1,No,Scopus,10.1016/j.jmsy.2026.07.026
+R0106,Optimizing Disassembly Planning for Aluminium-Framed Windows through Automation and Collision Analysis,2025,Yes,Yes,Yes,Retain,,No,Scopus,10.17868/strath.00093311
+R0107,Intelligent selective disassembly using the ant colony algorithm,2003,No,Unclear,Unclear,Exclude,E1,No,Scopus; WoS,10.1017/s0890060403174045
+R0108,A Hybrid Genetic Approach for Bi-Level Flexible Job Shops Arising from Selective Deconstruction,2023,Yes,Yes,Yes,Retain,,No,Scopus,10.1109/cec53210.2023.10254125
+R0109,Low-tech methods for the reuse of reinforced concrete structural elements,2023,Yes,Unclear,Unclear,Retain,,Yes,Scopus,10.1088/1742-6596/2600/19/192005
+R0110,Research on disassembly sequence planning in DFD,2012,Unclear,Yes,Yes,Retain,,Yes,Scopus,10.4028/www.scientific.net/amr.516-517.1865
+R0111,A memory fuzzy learning for uncertainty management in disassembly,2006,No,Unclear,Unclear,Exclude,E1,No,Scopus; WoS,
+R0112,"Life Cycle Carbon Footprint Assessments, Case Study of Malaysian Housing Sector",2021,Yes,No,Unclear,Exclude,E2,No,Scopus; WoS,10.2478/rtuect-2021-0076
+R0113,"IFIP WG 5.7 International Conference on Advances in Production Management Systems, APMS 2014",2014,No,Unclear,Unclear,Exclude,E1,No,Scopus,
+R0114,"Optimized multi-tower crane layout planning: determine height, location and type to improve operational safety",2026,No,Unclear,Unclear,Exclude,E1,No,Scopus; WoS,10.1108/ecam-10-2024-1401
+R0115,Capture of homotopy classes with probabilistic road map,2002,Unclear,Unclear,Unclear,Retain,,Yes,Scopus; WoS,
+R0116,New opportunities for wood in digitization and in the internet of things,2016,Yes,No,Unclear,Exclude,E2,No,Scopus,
+R0117,A planning optimisation framework for construction and demolition waste management,2012,Yes,Yes,Yes,Retain,,No,Scopus,10.1504/ijise.2012.045675
+R0118,Disassembly analysis and realization of steel frame structure based on BIM; [基于 BIM 的钢框架结构的拆解分析及其实现],2022,Yes,Yes,Yes,Retain,,No,Scopus,10.14006/j.jzjgxb.2022.s1.0033
+R0119,Deconstruction of the Risk Management System for Deploying Artificial Intelligence Within the US Federal Government and Its Implications; [美国联邦政府内部部署人工智能的风险治理体系解析及其启示],2025,No,Unclear,Unclear,Exclude,E1,No,Scopus,10.3969/j.issn.1008-0821.2025.12.001
+R0120,Smart City Regulation and Environmental Sustainability in the Context of Land Use Planning in Mauritius: A Critical Review,2023,No,Unclear,Unclear,Exclude,E1,No,Scopus,10.17159/1727-3781/2023/v26i0a17151
+R0121,Prefabricated buildings selective disassembly strategy,2013,Yes,Yes,Yes,Retain,,No,Scopus; WoS,10.4028/www.scientific.net/amr.639-640.1265
+R0122,Reconfiguration algorithms for robotically manipulatable structures,2009,Unclear,Yes,Yes,Retain,,Yes,Scopus; WoS,
+R0123,Common ground on immune infiltration landscape and diagnostic biomarkers in diabetes-complicated atherosclerosis: an integrated bioinformatics analysis,2024,No,Unclear,Unclear,Exclude,E1,No,Scopus,10.3389/fendo.2024.1381229
+R0124,Optimization design and application of sluice pier sliding formwork,2013,No,Unclear,Unclear,Exclude,E1,No,Scopus,10.4028/www.scientific.net/amr.671-674.2005
+R0125,Effective hybrid particle swarm optimization algorithm for blocking flow shop scheduling problem,2012,No,Unclear,Unclear,Exclude,E1,No,Scopus,
+R0126,An Improved Metaheuristic Algorithm for On-Site Workshop Availability Cost Problem,2025,No,Unclear,Unclear,Exclude,E1,No,Scopus,10.22105/jarie.2025.488174.1707
+R0127,Research on Multi-Objective Optimal Scheduling for Power Battery Reverse Supply Chain,2023,No,Unclear,Unclear,Exclude,E1,No,Scopus; WoS,10.3390/math11040901
+R0128,Optimization of strategy planning for building deconstruction,2019,Yes,Yes,Yes,Retain,,No,Scopus; WoS,10.1016/j.autcon.2018.11.007
+R0129,"Artificial General Intelligence (AGI), Robotics and Digital Twins in Circular Construction",2026,Yes,Unclear,Unclear,Retain,,Yes,Scopus,10.1108/978-1-80592-889-820261008
+R0130,Intelligent Disassembly and Efficient Transportation Path Planning of Prefabricated Building Components Based on Computer Algorithms,2026,No,Unclear,Unclear,Exclude,E1,No,Scopus,10.1007/978-981-95-2518-8_1
+R0131,"Improved patient journeys: ERP transformation and the radical deployment of process management across 500,000 nursing days at Hirslanden",2019,No,Unclear,Unclear,Exclude,E1,No,Scopus,
+R0132,Dynamic dose equivalent rate estimation in dismantling: Physic-informed surrogate modeling,2025,Unclear,No,Unclear,Exclude,E2,No,Scopus; WoS,10.1016/j.nucengdes.2025.113971
+R0133,Sustainable design of office buildings in steel composite construction,2014,Yes,No,Unclear,Exclude,E2,No,Scopus,10.2749/222137814814069976
+R0134,The RAASCEMAN Approach: Resilient and Adaptive Supply Chains for Capability-based Manufacturing as a Service Networks,2026,No,Unclear,Unclear,Exclude,E1,No,Scopus; WoS,10.1007/s10845-026-02828-0
+R0135,RFID-based traceability system for constructional steel reuse,2023,Yes,Unclear,Unclear,Retain,,Yes,Scopus,10.1201/9781003323020-159
+R0136,Review of project planning methods for deconstruction projects of buildings,2017,Yes,Yes,Yes,Retain,,No,Scopus; WoS,10.1108/bepam-11-2016-0075
+R0137,"8th International Conference on Cooperative Design, Visualization, and Engineering, CDVE 2011",2011,Yes,Unclear,Unclear,Retain,,Yes,Scopus,
+R0138,Planning of the new Gänstor bridge in Ulm; [Planung der neuen Gänstorbrücke in Ulm],2025,No,Unclear,Unclear,Exclude,E1,No,Scopus; WoS,10.1002/bate.202400084
+R0139,Novel rocking interconnection for superior prefabricated prefinished modular building system,2025,Yes,No,Unclear,Exclude,E2,No,Scopus; WoS,10.1016/j.engstruct.2025.120934
+R0140,Reverse logistics processes of multi-type end-of-life buildings/ construction sites: An integrated optimization framework,2009,Yes,Unclear,Unclear,Retain,,Yes,Scopus,
+R0141,Knowledge Graph Construction of End-of-Life Electric Vehicle Batteries for Robotic Disassembly,2023,No,Unclear,Unclear,Exclude,E1,No,Scopus; WoS,10.3390/app132413153
+R0142,Material passports for digital and circular construction: a bibliometric and thematic analysis,2026,Yes,Unclear,Unclear,Retain,,Yes,Scopus; WoS,10.1016/j.jclepro.2026.147651
+R0143,Economic and environmental assessment of deconstruction strategies using building information modeling,2012,Yes,Unclear,Unclear,Retain,,Yes,Scopus,10.1061/9780784412329.174
+R0144,Dynamic facilities planning model for large scale construction projects,2019,No,Unclear,Unclear,Exclude,E1,No,Scopus,10.1016/j.autcon.2018.11.021
+R0145,Innovative methods in the construction of digital twin factory,2024,No,Unclear,Unclear,Exclude,E1,No,Scopus; WoS,10.1177/09544089241267144
+R0146,Revamping construction supply chain processes with circular economy strategies: A systematic literature review,2022,Yes,Unclear,Unclear,Retain,,Yes,Scopus; WoS,10.1016/j.jclepro.2021.130240
+R0147,Conserved and species-specific chromatin remodeling and regulatory dynamics during mouse and chicken limb bud development,2021,No,Unclear,Unclear,Exclude,E1,No,Scopus,10.1038/s41467-021-25935-3
+R0148,Collective construction using lego robots,2006,No,Unclear,Unclear,Exclude,E1,No,Scopus,
+R0149,Modelling structural failure with finite element analysis of controlled demolition of buildings by explosives using LS-DYNA,2010,No,Unclear,Unclear,Exclude,E1,No,Scopus,10.1007/978-3-642-04665-0_37
+R0150,Unbuilding the city: Deconstruction and the circular economy in Vancouver,2022,Yes,No,Unclear,Exclude,E2,No,Scopus; WoS,10.1177/0308518x221116891
+R0151,"eWork and eBusiness in Architecture, Engineering and Construction - Proceedings of the 10th European Conference on Product and Process Modelling, ECPPM 2014",2015,Yes,Unclear,Unclear,Retain,,Yes,Scopus,
+R0152,Building Back Circular: Post-disaster Recovery for Climate Resilience Innovation,2026,Yes,No,Unclear,Exclude,E2,No,Scopus,10.1007/978-981-92-2066-3_6
+R0153,On efficiency estimation for NPP component dismantling technique,1993,No,Unclear,Unclear,Exclude,E1,No,Scopus,
+R0154,Zoning and Consolidation Strategy of Rural Residential Areas Guiding by Planning Regulation in Lijin County; [规划引导下利津县村庄分类与整治策略],2020,No,Unclear,Unclear,Exclude,E1,No,Scopus,10.6041/j.issn.1000-1298.2020.05.026
+R0155,Nonlinear optimisation and rational cash flow,2007,Yes,No,Unclear,Exclude,E2,No,Scopus; WoS,10.1108/09699980710744917
+R0156,METHODOLOGIES AND EXAMPLE OF CONCEPTUAL DESIGN FOR A FOOT-LAUNCHABLE SPORT SAILPLANE,2022,No,Unclear,Unclear,Exclude,E1,No,Scopus,
+R0157,Risk analysis of time on road infrastructure development (Case study: Construction industry in Papua),2019,No,Unclear,Unclear,Exclude,E1,No,Scopus,10.1088/1755-1315/235/1/012077
+R0158,Carbon footprint assessment and carbon reduction strategies in the full life cycle of the automotive industry; [汽车产业全生命周期碳足迹评价及降碳策略],2026,No,Unclear,Unclear,Exclude,E1,No,Scopus,10.13374/j.issn2095-9389.2025.08.16.001
+R0159,"Methodologies to assess the interaction of network, environment and territory in planning transmission lines",2006,No,Unclear,Unclear,Exclude,E1,No,Scopus,
+R0160,Benefits derived from WASP (a Grasshopper plugin) to Design for Disassembly Principles in the Built Environment,2024,Yes,Yes,Yes,Retain,,No,Scopus,10.1088/1755-1315/1404/1/012034
+R0161,The construction schedule of medium voltage overhead distribution network is optimized based on neural network algorithm,2023,No,Unclear,Unclear,Exclude,E1,No,Scopus,10.4108/ew.3716
+R0162,A hybrid method for optimizing selective disassembly sequence planning in adaptive reuse of buildings,2022,Yes,Yes,Yes,Retain,,No,Scopus; WoS,10.1108/ecam-12-2020-1023
+R0163,Disassembly sequence planning based on Pareto ant colony algorithm,2012,No,Unclear,Unclear,Exclude,E1,No,Scopus,10.3901/jme.2012.09.186
+R0164,Disassembly System Planning for Product Portfolios Through the Systematic Generation of Disassembly Process Plans,2026,No,Unclear,Unclear,Exclude,E1,No,Scopus,10.1016/j.procir.2026.03.219
+R0165,Stage interaction multi-objective optimization of dynamic layout planning for irregular prefabricated construction site,2025,No,Unclear,Unclear,Exclude,E1,No,Scopus; WoS,10.1016/j.jobe.2025.113508
+R0166,Smart building demolition and waste management frame with image-to-BIM,2022,Yes,Yes,Yes,Retain,,No,Scopus; WoS,10.1016/j.jobe.2022.104058
+R0167,The Impact of a Construction Land Linkage Policy on the Urban–Rural Income Gap,2025,No,Unclear,Unclear,Exclude,E1,No,Scopus; WoS,10.3390/land14071354
+R0168,A Knowledge Graph-Based Intelligent Decision-Making Method for End-of-Life Power Battery Disassembly Process Planning,2027,No,Unclear,Unclear,Exclude,E1,No,Scopus,10.1007/978-981-95-7904-4_106
+R0169,Bamboo Fusion: Expanding Human-Machine Synergy by Augmented Timber-Bamboo Hybrid Structure Fabrication,2026,No,Unclear,Unclear,Exclude,E1,No,Scopus,
+R0170,Enabling circularity in construction: A technology-phase alignment of construction 4.0 and circular economy principles,2025,Yes,Unclear,Unclear,Retain,,Yes,Scopus; WoS,10.1016/j.spc.2025.10.004
+R0171,Construction site layout optimization model considering cost and safety in a dynamic environment,2021,No,Unclear,Unclear,Exclude,E1,No,Scopus,10.1007/s42107-020-00314-3
+R0172,A strategy dedicated to the concise and efficient development of the customized large-signal model for GaAs HEMTs,2022,No,Unclear,Unclear,Exclude,E1,No,Scopus,10.1088/1742-6596/2290/1/012088
+R0173,Advanced 3D modeling and simulation techniques for decommissioning of A-1 NPP,2003,Unclear,Yes,Yes,Retain,,Yes,Scopus,10.1115/icem2003-4762
+R0174,"Proceedings of 2023 Intelligent Sensing and Industrial Automation, ISIA 2023",2023,No,Unclear,Unclear,Exclude,E1,No,Scopus,
+R0175,Circularity of Construction Materials: Precedence Between Elements Based on Digital Models for Demolition,2026,Yes,Yes,Yes,Retain,,No,Scopus; WoS,10.1007/978-3-032-06802-6_27
+R0176,Using of building information modeling for existing buildings assessment,2021,Yes,No,Unclear,Exclude,E2,No,Scopus,10.1051/e3sconf/202126304053
+R0177,Urban Mining Index - Planning and assessment tool for circular construction; [Urban Mining Index – Planungs- und Bewertungsinstrument für zirkuläres Bauen],2021,Yes,No,Unclear,Exclude,E2,No,Scopus; WoS,10.1002/bapi.202100035
+R0178,Designing for robotic (dis-)assembly,2023,Yes,Unclear,Unclear,Retain,,Yes,Scopus,10.1515/9783111162683-021
+R0179,6D Building information modelling (BIM) for demolition waste management of semi-submersible wind turbines,2026,No,Unclear,Unclear,Exclude,E1,No,Scopus; WoS,10.1038/s41598-026-52117-2
+R0180,Auto(mated)nomous Assembly,2023,Yes,No,Unclear,Exclude,E2,No,Scopus,10.1007/978-3-031-20241-4_12
+R0181,Control of p53-dependent transcription and enhancer activity by the p53 family member p63,2019,No,Unclear,Unclear,Exclude,E1,No,Scopus,10.1074/jbc.ra119.007965
+R0182,"10th International XR-Metaverse Conference, XR 2025",2026,No,Unclear,Unclear,Exclude,E1,No,Scopus,
+R0183,Research on the Impact of Labor Migration on the Urban-Rural Integration of Basic Education in China,2026,No,Unclear,Unclear,Exclude,E1,No,Scopus; WoS,10.1111/joes.70156
+R0184,Finishing genomes with limited resources: Lessons from an ensemble of microbial genomes,2010,No,Unclear,Unclear,Exclude,E1,No,Scopus,10.1186/1471-2164-11-242
+R0185,Requirements for gutting and demolition cost index,2023,Yes,No,Unclear,Exclude,E2,No,Scopus,10.1201/9781003323020-153
+R0186,Spatial reconstruction of the human-land relationship based on cultural ecosystem services; [基于生态系统文化服务的人地关系空间重构],2024,No,Unclear,Unclear,Exclude,E1,No,Scopus,10.11821/dlxb202407004
+R0187,Desktop VR prototype for mechanical devices training applications,2009,No,Unclear,Unclear,Exclude,E1,No,Scopus,
+R0188,A method for human–robot complementary collaborative assembly based on knowledge graph,2025,No,Unclear,Unclear,Exclude,E1,No,Scopus; WoS,10.1007/s42486-024-00171-y
+R0189,3D SCANNING FOR BUILDING DOCUMENTATION AND PRELIMINARY REUSE PLANNING: A CASE STUDY ON AN INDUSTRIAL HALL,2025,Yes,Unclear,Unclear,Retain,,Yes,Scopus; WoS,10.59277/pra-ser.a.26.3.08
+R0190,"Advances in Production Management Systems: New Challenges, New Approaches - IFIP WG 5.7 International Conference, APMS 2009, Revised Selected Papers",2010,No,Unclear,Unclear,Exclude,E1,No,Scopus,
+R0191,Towards a standardized procedure in deconstruction: introducing DARE (Deconstruction And Reuse Evaluation),2025,Yes,Unclear,Unclear,Retain,,Yes,Scopus; WoS,10.1088/1742-6596/3140/16/162003
+R0192,Dynamic reassembly control in flexible remanufacturing systems using Ant Colony Optimisation,2026,No,Unclear,Unclear,Exclude,E1,No,Scopus; WoS,10.1016/j.cirp.2026.03.021
+R0193,Data-Driven End-of-Life Process Design for Electric Vehicle Batteries: A Unified Augmented Reality Framework,2026,No,Unclear,Unclear,Exclude,E1,No,Scopus,10.1016/j.procir.2026.05.246
+R0194,"Proceedings of the 40th International Symposium on Automation and Robotics in Construction, ISARC 2023",2023,Yes,Unclear,Unclear,Retain,,Yes,Scopus,
+R0195,Developing a methodological framework for adopting digitalization for deconstruction planning,2021,Yes,Unclear,Unclear,Retain,,Yes,Scopus,10.1063/5.0071722
+R0196,"Integrating Building Information Modeling (BIM), GIS, and Circular Economy (CE) for the Construction and Deconstruction Waste Based on Construction Methods at the Conceptual Design Stage of Buildings",2025,Yes,Unclear,Unclear,Retain,,Yes,Scopus; WoS,10.1007/978-3-031-61499-6_26
+R0197,An efficient method of assembly path planning in virtual manufacturing system,2012,No,Unclear,Unclear,Exclude,E1,No,Scopus; WoS,10.4028/www.scientific.net/amr.468-471.550
+R0198,Hemocyte Clusters Defined by scRNA-Seq in Bombyx mori: In Silico Analysis of Predicted Marker Genes and Implications for Potential Functional Roles,2022,No,Unclear,Unclear,Exclude,E1,No,Scopus,10.3389/fimmu.2022.852702
+R0199,Study in virtual assembly of hull block on DELMIA,2013,No,Unclear,Unclear,Exclude,E1,No,Scopus; WoS,10.4028/www.scientific.net/kem.568.135
+R0200,Forecast and trends related to key personnel for mechanised excavation with TBMs,2024,No,Unclear,Unclear,Exclude,E1,No,Scopus,10.1201/9781003495505-2
+R0201,"Digital Technologies Enabling Component Reuse in Circular Value Chains: Using Digital Twin, Internet of Things and Robots in Construction and Manufacturing Sectors",2025,Yes,Unclear,Unclear,Retain,,Yes,Scopus; WoS,10.1111/radm.12744
+R0202,From Data to Decisions: Leveraging Large Language Models and Digital Product Passports for Data-Driven Remanufacturing,2026,No,Unclear,Unclear,Exclude,E1,No,Scopus,10.1016/j.procir.2025.10.004
+R0203,Dual Reality for Production Verification Workshops: A Comprehensive Set of Virtual Methods,2016,No,Unclear,Unclear,Exclude,E1,No,Scopus; WoS,10.1016/j.procir.2016.02.140
+R0204,RESEARCH PROJECT – DIGITAL AUTOMATED BUILDING DOCUMENTATION,2023,Yes,No,Unclear,Exclude,E2,No,Scopus,10.14455/isec.2023.10(1).aae-20
+R0205,"Automation in Construction toward Resilience: Robotics, Smart Materials, and Intelligent Systems",2023,Yes,Unclear,Unclear,Retain,,Yes,Scopus,10.1201/9781003325246
+R0206,Knowledge Graph-based Deconstruction Planning of Building’s Products,2024,Yes,Yes,Yes,Retain,,No,Scopus,10.22260/isarc2024/0132
+R0207,Deconstruction of Road Logistics Transportation Cost Management Evaluation Based on Optimal Solution of Linear Programming,2022,No,Unclear,Unclear,Exclude,E1,No,Scopus,10.1155/2022/5784053
+R0208,Prospects of a sustainable eol-carbon footprint assessment of a tropical housing habitat,2021,Yes,No,Unclear,Exclude,E2,No,Scopus,10.1007/978-981-33-6311-3_63
+R0209,Multi-objective optimization analysis for selective disassembly planning of buildings,2019,Yes,Yes,Yes,Retain,,No,Scopus,10.22260/isarc2019/0018
+R0210,Correlation of enhanced circularity and customized prefabrication,2025,Yes,Unclear,Unclear,Retain,,Yes,Scopus; WoS,10.1088/1742-6596/3140/16/162008
+R0211,Block Planning Based on Grid's Topology for the Dismantling of Long-Span Spatial Lattice Structures,2024,Yes,Yes,Yes,Retain,,No,Scopus; WoS,10.1061/jcemd4.coeng-14537
+R0212,Evolutionary game analysis on behavioral strategies of multiple stakeholders in E-waste recycling industry,2020,No,Unclear,Unclear,Exclude,E1,No,Scopus,10.1016/j.resconrec.2019.104618
+R0213,Towards an autonomous manipulator system for decontamination and release measurement,2012,No,Unclear,Unclear,Exclude,E1,No,Scopus,10.1109/mesa.2012.6275572
+R0214,Disassembly lot sizing in remanufacturing with stochastic process routes: a simulation study,2025,No,Unclear,Unclear,Exclude,E1,No,Scopus; WoS,10.1007/s12008-024-02196-0
+R0215,Remote dismantling system using a digital manufacturing system and workpiece localization for nuclear facility decommissioning,2024,No,Unclear,Unclear,Exclude,E1,No,Scopus; WoS,10.1016/j.anucene.2023.110182
+R0216,Facility Management in the Life Cycle of Laboratory Buildings,2015,Yes,No,Unclear,Exclude,E2,No,Scopus,10.1002/9783527337095.ch35
+R0217,Closed-Loop Self-Assembly and Navigation of Magnetic Modular Millibots in Confined Environments,2026,No,Unclear,Unclear,Exclude,E1,No,Scopus; WoS,10.1109/tase.2026.3675474
+R0218,A review of cloud-based bim technology in the construction sector,2014,Yes,Unclear,Unclear,Retain,,Yes,Scopus; WoS,
+R0219,Disassembly sequence planning based on community structure algorithm and knowledge,2012,No,Unclear,Unclear,Exclude,E1,No,Scopus,
+R0220,Gamified Virtual Reality for Building Material Reuse Planning,2024,Yes,Yes,Yes,Retain,,No,Scopus; WoS,10.1061/9780784486139.048
+R0221,"A Highly Parallel Integrated Process of Unloading, Exchanging, and Collecting for Rail-Changing",2026,No,Unclear,Unclear,Exclude,E1,No,Scopus; WoS,10.3390/vehicles8060117
+R0222,Exploring UAE's transition towards circular economy through construction and demolition waste management in the pre-construction stage–A case study approach,2024,Yes,No,Unclear,Exclude,E2,No,Scopus; WoS,10.1108/sasbe-06-2022-0115
+R0223,Linguistic Petri Nets Based on Cloud Model Theory for Knowledge Representation and Reasoning,2018,No,Unclear,Unclear,Exclude,E1,No,Scopus; WoS,10.1109/tkde.2017.2778256
+R0224,Analysis of construction process planning based on geometric reasoning,2007,Yes,Yes,Yes,Retain,,No,Scopus,
+R0225,Virtual reality technologies: A way to verify dismantling operations: First application case in a highly radioactive cell,2011,Unclear,Yes,Yes,Retain,,Yes,Scopus; WoS,
+R0226,Digital rural development and the alleviation of the urban-rural digital divide: An analysis based on the theory of co-production,2026,No,Unclear,Unclear,Exclude,E1,No,Scopus; WoS,10.1016/j.indic.2025.101066
+R0227,Automating building element detection for deconstruction planning and material reuse: A case study,2023,Yes,Unclear,Unclear,Retain,,Yes,Scopus; WoS,10.1016/j.autcon.2022.104697
+R0228,Integrating industry foundation classes and knowledge graphs for automated deconstruction planning,2025,Yes,Yes,Yes,Retain,,No,Scopus; WoS,10.1016/j.jobe.2025.112564
+R0229,The role of Building Information Modelling (BIM) in waste management deconstruction plan via 3D reconstruction model,2024,Yes,Unclear,Unclear,Retain,,Yes,Scopus,10.1063/5.0205719
+R0230,Disassembly and Reuse of Demountable Modular Building Systems,2025,Yes,Yes,Unclear,Retain,,Yes,Scopus; WoS,10.1061/jmenea.meeng-6243
+R0231,Optimal Planning of Transmission Network for Evacuation of Power from High Capacity Generators in Thermal Power Stations Replacing Lower Capacity Units,2025,No,Unclear,Unclear,Exclude,E1,No,Scopus,10.1007/s40031-024-01101-3
+R0232,On-machine control and documentation systems for the quality management of roads,2005,No,Unclear,Unclear,Exclude,E1,No,Scopus,10.22260/isarc2005/0052
+R0233,BIM uses for deconstruction: an activity-theoretical perspective on reorganising end-of-life practices,2021,Yes,Yes,Yes,Retain,,No,Scopus; WoS,10.1080/01446193.2021.1876894
+R0234,Modeling of radiation fields and estimation of doses during dismantling of RBMK-1500 reactor emergency core cooling system,2009,No,Unclear,Unclear,Exclude,E1,No,Scopus; WoS,10.1115/icem2009-16247
+R0235,Using scan-to-BIM techniques to find optimal modeling effort; a methodology for adaptive reuse projects,2019,Yes,Unclear,Unclear,Retain,,Yes,Scopus,
+R0236,Toward autonomous disassembling of randomly piled objects with minimal perturbation,2013,No,Unclear,Unclear,Exclude,E1,No,Scopus; WoS,10.1109/iros.2013.6697076
+R0237,"Toward Cost-Effective Timber Shell Structures through the Integration of Computational Design, Digital Fabrication, and Mechanical Integral ‘Half-Lap’ Joints",2024,No,Unclear,Unclear,Exclude,E1,No,Scopus,10.3390/buildings14061735
+R0238,Ontology-Based Product Modeling for Disassembly Sequence Planning in Remanufacturing,2023,No,Unclear,Unclear,Exclude,E1,No,Scopus,10.1109/icac57885.2023.10275152
+R0239,An integrated decision support model for selecting the most feasible crane at heavy construction sites,2018,No,Unclear,Unclear,Exclude,E1,No,Scopus; WoS,10.1016/j.autcon.2017.12.009
+R0240,Operational strategy optimization of an existing ground source heat pump (GSHP) system using an XGBoost surrogate model,2024,No,Unclear,Unclear,Exclude,E1,No,Scopus; WoS,10.1016/j.enbuild.2024.114444
+R0241,"2015 20th International Conference on Methods and Models in Automation and Robotics, MMAR 2015",2015,Unclear,Unclear,Yes,Retain,,Yes,Scopus,
+R0242,Optimal Tower Crane Layout in Construction Sites to Reduce Operational Costs and Ensure On-Time Project Completion Considering Crane Capacity and Supply Point Constraints; [هب لیمکت و یتایلمع یاه‌هنیزه شهاک فده اب زاسو‌تخاس طیحم رد اه‌نیرکروات هنیهب نامدیچهضرع طاقن تیفرظ و اه‌نیرکروات تیفرظ نتفرگ رظنرد اب هژورپ عقوم],2026,No,Unclear,Unclear,Exclude,E1,No,Scopus,10.22060/ceej.2026.22470.7980
+R0243,The Politics of Parametricism: Digital Technologies in Architecture,2015,No,Unclear,Unclear,Exclude,E1,No,Scopus,10.5040/9781474256230
+R0244,Sensor embedded computers for better life cycle management,2004,No,Unclear,Unclear,Exclude,E1,No,Scopus; WoS,10.1117/12.579818
+R0245,BIM Model View Definition (MVD) for disassembly planning of buildings,2024,Yes,Yes,Yes,Retain,,No,Scopus,10.22260/isarc2024/0155
+R0246,"Economic competition in the transitional Slovak economy: Creation, promotion or protection?",2005,No,Unclear,Unclear,Exclude,E1,No,Scopus,10.4324/9780203985052-14
+R0247,How many lifts does a construction site need? A Global optimization approach,2026,No,Unclear,Unclear,Exclude,E1,No,Scopus; WoS,10.1108/ecam-11-2024-1570
+R0248,A Literature Review of H-BIM Strategy for Construction Maintenance,2025,Yes,Unclear,Unclear,Retain,,Yes,Scopus; WoS,10.1007/978-3-031-71867-0_37
+R0249,Specifics of information model development for functional conversion of offshore oil platforms,2023,No,Unclear,Unclear,Exclude,E1,No,Scopus,10.58224/2618-7183-2023-6-4-42-57
+R0250,Decision-Making Optimization Model Construction Based on Intelligent Algorithms,2025,No,Unclear,Unclear,Exclude,E1,No,Scopus,10.1109/eespe63401.2025.10987471
+R0251,INTEGRATION OF SEMANTIC TEMPORAL INFORMATION IN BIM USING ONTOLOGIES,2023,Yes,Unclear,Unclear,Retain,,Yes,Scopus,10.35490/ec3.2023.281
+R0252,Experimental study of a burst-switched WDM network testbed,2006,No,Unclear,Unclear,Exclude,E1,No,Scopus,
+R0253,Circular economy strategies for the design of a social housing system: a PRISMA-based systematic review,2026,Yes,Unclear,Unclear,Retain,,Yes,Scopus; WoS,10.3389/frsus.2026.1908729
+R0254,Safety Built Right in: Exploring the Occupational Health and Safety Potential of BIM-Based Platforms throughout the Building Lifecycle,2022,Yes,Unclear,Unclear,Retain,,Yes,Scopus; WoS,10.3390/su14106104
+R0255,Analysis of guidelines and identification of characteristics influencing the deconstruction potential of buildings,2018,Yes,No,Unclear,Exclude,E2,No,Scopus; WoS,10.3390/su10082604
+R0256,Development of BIM-Based 4D Simulation System for Construction Schedule Planning,2021,No,Unclear,Unclear,Exclude,E1,No,Scopus; WoS,10.1007/978-3-030-51295-8_39
+R0257,Capital project planning for a circular economy,2018,Yes,Unclear,Unclear,Retain,,Yes,Scopus; WoS,10.1080/01446193.2018.1435895
+R0258,Revamping Sustainability Efforts Post-Disaster by Adopting Circular Economy Resilience Practices,2023,Yes,No,Unclear,Exclude,E2,No,Scopus; WoS,10.3390/su152215870
+R0259,Generation of assembly graphs by systematic analysis of assembly structures,2002,No,Unclear,Unclear,Exclude,E1,No,Scopus,10.3182/20020721-6-es-1901.00017
+R0260,Scheduling of deconstruction projects under resource constraints,2002,Yes,Yes,Yes,Retain,,No,Scopus,10.1080/01446190210135913
+R0261,Research on the construction of reverse logistics network of waste household appliances under self operating mode,2023,No,Unclear,Unclear,Exclude,E1,No,Scopus,10.1117/12.2673534
+R0262,How We Simulate Nanopores,2026,No,Unclear,Unclear,Exclude,E1,No,Scopus; WoS,10.1002/smtd.70904
+R0263,Robust dynamic transmission and renewable generation expansion planning: Walking towards sustainable systems,2018,No,Unclear,Unclear,Exclude,E1,No,Scopus; WoS,10.1016/j.ijepes.2017.09.021
+R0264,Integrating complete disassembly planning with deconstructability assessment to facilitate designing deconstructable buildings,2024,Yes,Yes,Yes,Retain,,No,Scopus,10.1080/17452007.2023.2187753
+R0265,A comparison of digitalisation of structural monitoring of wind turbines and bridges; [Die Digitalisierung der Zustandsüberwachung von Windenergieanlagen und Brücken im Vergleich],2021,No,Unclear,Unclear,Exclude,E1,No,Scopus; WoS,10.1002/stab.202000093
+R0266,Research on the optimal design technology of a digital assembly sequence based on an internet of things data collection framework,2021,No,Unclear,Unclear,Exclude,E1,No,Scopus; WoS,10.1177/0954405420953298
+R0267,""" In the driver's seat"" : The Health Sector Strategic Master Plan as an instrument for aid coordination in Mongolia",2014,No,Unclear,Unclear,Exclude,E1,No,Scopus,10.1186/1744-8603-10-23
+R0268,Genome-scale analysis of cell-specific regulatory codes using nuclear enzymes,2016,No,Unclear,Unclear,Exclude,E1,No,Scopus,10.1007/978-1-4939-3578-9_12
+R0269,Circular Data Flowchart for Sustainable Ecodesign,2025,Yes,No,Unclear,Exclude,E2,No,Scopus,10.1007/978-3-032-06993-1_7
+R0270,Disassembly sequence planning using a fast and effective precedence-based disassembly subset-generation method,2020,Unclear,Yes,Yes,Retain,,Yes,Scopus; WoS,10.1177/0954405419870966
+R0271,Process approach to BIM-based management,2021,Yes,Unclear,Unclear,Retain,,Yes,Scopus,10.1201/9781003176428-59
+R0272,A high-throughput synthetic biology approach for studying combinatorial chromatin-based transcriptional regulation,2024,No,Unclear,Unclear,Exclude,E1,No,Scopus,10.1016/j.molcel.2024.05.025
+R0273,Lesson Study as a Professional Development Model for Teaching Spatial Ability in Primary STEM,2024,No,Unclear,Unclear,Exclude,E1,No,Scopus; WoS,10.3390/educsci14050512
+R0274,Search algorithm of the assembly sequence of products by using past learning results,2020,No,Unclear,Unclear,Exclude,E1,No,Scopus; WoS,10.1016/j.ijpe.2020.107615
+R0275,Research on the assembly sequence of a ship block based on the disassembly interference matrix,2015,No,Unclear,Unclear,Exclude,E1,No,Scopus,10.5957/jspd.31.1.140009
+R0276,A framework for BIM-based disassembly models to support reuse of building components,2021,Yes,Yes,Yes,Retain,,No,Scopus; WoS,10.1016/j.resconrec.2021.105825
+R0277,Optimal BIM Level of Development and Information Maturity for Evaluating the Deconstruction and Reuse Potential of Post-end-of-Life Buildings: A Case Study of Two Heritage Greenhouses,2026,Yes,Unclear,Unclear,Retain,,Yes,Scopus,10.1007/978-3-032-18712-3_7
+R0278,Multi-Criteria Decision-Making for Optimization of Product Disassembly under Multiple Situations,2003,No,Unclear,Unclear,Exclude,E1,No,Scopus,10.1021/es0345423
+R0279,System dynamics modelling of policy interventions for circular construction and demolition waste systems in Indonesia,2026,Yes,No,Unclear,Exclude,E2,No,Scopus; WoS,10.1016/j.clwas.2026.100528
+R0280,Robot assisted selective disassembly for buildings,2026,Yes,Yes,Yes,Retain,,No,Scopus,10.22260/isarc2026/0260
+R0281,Taking Account of the User's View in 3D Multimodal Instruction Dialogue,2000,No,Unclear,Unclear,Exclude,E1,No,Scopus,10.3115/990820.990903
+R0282,Construction and energy evaluation method for hybrid graph model of product disassembly,2012,No,Unclear,Unclear,Exclude,E1,No,Scopus,
+R0283,Design and stress analysis of pure bolted connection for mining TBM cutterhead under complex geological conditions; [复杂地质条件下矿用 TBM 刀盘纯栓接设计及其受力分析],2025,No,Unclear,Unclear,Exclude,E1,No,Scopus,10.12438/cst.2025-1022
+R0284,Robotic Assembly Planning of Tensegrity Structures,2019,No,Unclear,Unclear,Exclude,E1,No,Scopus; WoS,10.1109/sii.2019.8700342
+R0285,"Linking Design, Deconstruction and Characterization: A Digital Ecosystem for Sustainable Reuse of Cast-in-Place Concrete Elements",2026,Yes,Unclear,Unclear,Retain,,Yes,Scopus; WoS,10.1002/best.70129
+R0286,GRAPH BASED DISASSEMBLY SEQUENCING WITH STRUCTURAL AND STABILITY CONSTRAINTS,2025,Yes,Yes,Yes,Retain,,No,Scopus,10.35490/ec3.2025.342
+R0287,Attributes of design for construction waste minimization: A case study of waste-to-energy project,2017,Yes,No,Unclear,Exclude,E2,No,Scopus; WoS,10.1016/j.rser.2017.01.084
+R0288,Digital Twin and Circular Economy in Construction,2025,Yes,Unclear,Unclear,Retain,,Yes,Scopus,
+R0289,Design for deconstruction using integrated lean principles and bim approach,2021,Yes,Unclear,Unclear,Retain,,Yes,Scopus; WoS,10.3390/su13147856
+R0290,Deep Learning-Enabled Robotics across Construction Project Lifecycles,2026,Yes,Unclear,Unclear,Retain,,Yes,Scopus; WoS,10.1061/9780784486979.031
+R0291,A Macro-to-Micro Analytical Framework for Interpreting Context-Stratified Accident Patterns in Construction,2026,Yes,No,Unclear,Exclude,E2,No,Scopus; WoS,10.1061/jmenea.meeng-7727
+R0292,Environment-oriented project scheduling for the dismantling of buildings,2001,Yes,Yes,Yes,Retain,,No,Scopus; WoS,10.1007/pl00013345
+R0293,"Circular Economy in Rammed Earth Construction: A Life-Cycle Case Study on Demolition and Reuse Strategies of an Experimental Building in Pasłęk, Poland",2026,Yes,No,Unclear,Exclude,E2,No,Scopus; WoS,10.3390/su18020790
+R0294,Identifying key parameters for BIM-based disassembly planning,2023,Yes,Yes,Yes,Retain,,No,Scopus,10.22260/isarc2023/0007
+R0295,Study on multi-dimensional disassembly planning strategy based on disassembly hive,2009,Unclear,Yes,Yes,Retain,,Yes,Scopus,10.1109/caidcd.2009.5375137
+R0296,Model for optimization design of reverse logistics network,2007,No,Unclear,Unclear,Exclude,E1,No,Scopus,
+R0297,Crane fleet selection: the case of the PEI bridge,1997,No,Unclear,Unclear,Exclude,E1,No,Scopus,
+R0298,Feature modeling for configurable and adaptable modular buildings,2022,Yes,Unclear,Unclear,Retain,,Yes,Scopus; WoS,10.1016/j.aei.2021.101514
+R0299,“Deconstruction programming for adaptive reuse of buildings”,2019,Yes,Yes,Yes,Retain,,No,Scopus; WoS,10.1016/j.autcon.2019.102921
+R0300,A methodological approach for designing and sequencing product families in Reconfigurable Disassembly Systems,2011,No,Unclear,Unclear,Exclude,E1,No,Scopus; WoS,10.3926/jiem.2011.v4n3.p418-435
+R0301,Research on virtual haptic disassembly platform considering disassembly process,2019,No,Unclear,Unclear,Exclude,E1,No,Scopus,10.1016/j.neucom.2018.05.120
+R0302,Component-aware topology-guided task release and collision-free bimanual scheduling for cooperative disassembly of retired EV battery packs,2027,No,Unclear,Unclear,Exclude,E1,No,Scopus,10.1016/j.rcim.2026.103439
+R0303,Element approach for BIM-based life-cycle modeling of bridges,2023,No,Unclear,Unclear,Exclude,E1,No,Scopus,10.1201/9781003323020-285
+R0304,Robustness and adaptability analysis of future military modular fleet operation system,2017,No,Unclear,Unclear,Exclude,E1,No,Scopus,10.1115/dscc2017-5223
+R0305,Lifecycle Management of Industrial Facilities Using Risk Assessment with the Method of Hierarchy Analysis,2022,Yes,No,Unclear,Exclude,E2,No,Scopus,10.1007/978-3-030-96206-7_27
+R0306,Structural implementation of slender concrete shells with prefabricated elements,2017,Yes,No,Unclear,Exclude,E2,No,Scopus; WoS,10.20898/j.iass.2017.191.842
+R0307,ScanR: A composite building scanning and survey method for the evaluation of materials and reuse potentials prior to demolition and deconstruction,2022,Yes,Unclear,Unclear,Retain,,Yes,Scopus,10.1088/1755-1315/1078/1/012012
+R0308,Advancing In-Orbit Robotic Assembly and Disassembly of High-Value Infrastructures using End-Over-End Walking Manipulators,2024,No,Unclear,Unclear,Exclude,E1,No,Scopus,10.52202/078375-0001
+R0309,ReCreate: Technical and organizational framework conditions for a circular concrete value chain; [ReCreate: technische und organisatorische Rahmenbedingungen zirkulärer Betonbauteilkreisläufe],2026,Yes,Unclear,Unclear,Retain,,Yes,Scopus; WoS,10.1002/bate.70102
+R0310,Development of Virtual Experimental System for Parallel Shaft Automatic Transmission,2025,No,Unclear,Unclear,Exclude,E1,No,Scopus,10.1007/978-3-031-85225-1_1
+R0311,On-site workshop investment problem: A novel mathematical approach and solution procedure,2023,Unclear,Yes,Yes,Retain,,Yes,Scopus; WoS,10.1016/j.heliyon.2023.e22678
+R0312,Toward the Future of Mechanized Construction Introduction and Future Prospects of Mechanized Constructions Using Digital Information,2022,Yes,Unclear,Unclear,Retain,,Yes,Scopus,10.21022/ijhrb.2022.11.2.87
+R0313,A methodology of estimation to accumulated resources and dismantling materials from the existing building stock,2005,Yes,No,Unclear,Exclude,E2,No,Scopus,10.1109/ecodim.2005.1619363
+R0314,A novel ant colony algorithm for assembly sequence planning,2005,No,Unclear,Unclear,Exclude,E1,No,Scopus; WoS,10.1007/s00170-003-1952-z
+R0315,Optimizing lift operations and vessel transport schedules for disassembly of multiple offshore platforms using BIM and GIS,2018,No,Unclear,Unclear,Exclude,E1,No,Scopus; WoS,10.1016/j.autcon.2018.07.012
+R0316,DSPT: Disassembly Sequence Planning Transformer for Interaction Guidance in VR,2026,No,Unclear,Unclear,Exclude,E1,No,Scopus; WoS,10.1080/10447318.2025.2607559
+R0317,Building Information Modeling in Endof-Life Waste Management: A Brief Review,2025,Yes,Unclear,Unclear,Retain,,Yes,Scopus,10.1201/9781779643179-3
+R0318,Construction of prognostic risk prediction model based on high-throughput sequencing expression profile data in childhood acute myeloid leukemia,2019,No,Unclear,Unclear,Exclude,E1,No,Scopus,10.1016/j.bcmd.2019.03.008
+R0319,"2025 8th World Conference on Mechanical Engineering and Intelligent Manufacturing, WCMEIM 2025",2025,No,Unclear,Unclear,Exclude,E1,No,Scopus,
+R0320,Computer Vision Techniques in Manufacturing,2023,No,Unclear,Unclear,Exclude,E1,No,Scopus; WoS,10.1109/tsmc.2022.3166397
+R0321,Meeting of recycling experts in Weimar; [Treff der Recyclingexperten in Weimar],2017,Yes,Unclear,Unclear,Retain,,Yes,Scopus,
+R0322,Lightweight BIM modeling and digital twin application for precision maintenance of vertically layered GIS busbar tubes,2026,No,Unclear,Unclear,Exclude,E1,No,Scopus; WoS,10.1063/5.0313207
+R0323,Selective disassembly planning for product green manufacturing,2007,No,Unclear,Unclear,Exclude,E1,No,Scopus,
+R0324,Building Information Modeling for Existing Buildings – Deconstruction Planning and Management,2024,Yes,Unclear,Unclear,Retain,,Yes,Scopus,
+R0325,Analysis of Local Hot and Cold Spot Structures in the Urban Thermal Environment Using Spatial Blind Source Separation; [融合空间盲源分离算法的城市热环境局部冷热点 结构解析方法],2026,No,Unclear,Unclear,Exclude,E1,No,Scopus,10.12082/dqxxkx.2026.250485
+R0326,Cut Sequencing Algorithm for Safely Disassembling Large Structures,2023,Yes,Yes,Yes,Retain,,No,Scopus; WoS,10.1109/cdc49753.2023.10384301
+R0327,An automated intelligent feature-based maintenance plan generation method,2021,No,Unclear,Unclear,Exclude,E1,No,Scopus,10.14733/cadaps.2021.1373-1389
+R0328,A hierarchical optimisation model for WEEE circular plant operations: evidence from a case study in copier recovery,2026,No,Unclear,Unclear,Exclude,E1,No,Scopus,10.1080/09537287.2025.2557420
+R0329,Disassembly sequence for hydraulic pump using disassembly geometry contacting graph in augmented reality environment,2021,No,Unclear,Unclear,Exclude,E1,No,Scopus,
+R0330,Local heuristics analysis in the automatic computation of assembly sequences for building structures with multiple aerial robots,2014,Yes,Yes,Yes,Retain,,No,Scopus,10.1007/978-3-319-03413-3_7
+R0331,Automatic selective disassembly and path planning for the simulation of maintenance operations,2007,Unclear,Yes,Yes,Retain,,Yes,Scopus; WoS,10.1109/vr.2007.352503
+R0332,A heuristic and meta-heuristic based on problem-specific knowledge for distributed blocking flow-shop scheduling problem with sequence-dependent setup times,2022,No,Unclear,Unclear,Exclude,E1,No,Scopus; WoS,10.1016/j.engappai.2022.105443
+R0333,A Learning Factory Environment for Human–Robot Collaboration-Based Remanufacturing Supported by Artificial Intelligence Solutions,2025,No,Unclear,Unclear,Exclude,E1,No,Scopus; WoS,10.1007/978-3-031-98883-7_36
+R0334,A novel path planning algorithm for virtual disassembly of components within aircraft fuel tanks,2026,No,Unclear,Unclear,Exclude,E1,No,Scopus; WoS,10.1080/0305215x.2025.2562360
+R0335,Circularity of building stocks: Modelling building joints and their disassembly in a 3D city model,2022,Yes,Yes,Yes,Retain,,No,Scopus; WoS,10.1016/j.procir.2022.02.119
+R0336,Lean deconstruction approach for buildings demolition processes using BIM,2019,Yes,Unclear,Unclear,Retain,,Yes,Scopus,
+R0337,Research on bionic hive modularization technology of disassembly,2011,Unclear,Yes,Yes,Retain,,Yes,Scopus,10.4028/www.scientific.net/amm.44-47.106
+R0338,THE APPLICATION OF BIM IN THE AECO INDUSTRY,2023,Yes,Unclear,Unclear,Retain,,Yes,WoS,10.3846/jcem.2023.18076
+R0339,4D-BIM to enhance construction waste reuse and recycle planning: Case studies on concrete and drywall waste streams,2020,No,Unclear,Unclear,Exclude,E1,No,WoS,10.1016/j.wasman.2020.07.035
+R0340,A Building Information Modeling Approach for Adaptive Reuse Building Projects,2020,Yes,Unclear,Unclear,Retain,,Yes,WoS,
+R0341,Waste production simulation for building deconstruction projects,2004,Yes,Yes,Yes,Retain,,No,WoS,
+R0342,NAVIGATING BUILDING DATA FOR A CIRCULAR PRACTICE WITH USER SCENARIOS,2025,Yes,Unclear,Unclear,Retain,,Yes,WoS,10.4995/vibrarch2024.2024.18529
+R0343,Optimizing circular economy practices in construction: a systematic review of material management strategies,2025,Yes,Unclear,Unclear,Retain,,Yes,WoS,10.1108/bepam-02-2024-0026
+R0344,Usage of Interface Management System in Adaptive Reuse of Buildings,2019,Yes,Unclear,Unclear,Retain,,Yes,WoS,10.3390/buildings9050105
+R0345,Information Modelling Management and Green Public Procurement for Waste Management and Environmental Renovation of Brownfields,2021,Yes,Unclear,Unclear,Retain,,Yes,WoS,10.3390/su13158585
+R0346,FEATURES OF STANDARD TIME FORMATION TO IMPLEMENT CONSTRUCTION PROCESSES: A CASE STUDY,2022,Unclear,Yes,Unclear,Retain,,Yes,WoS,10.32347/2410-2547.2022.109.141-151
+R0347,Gray Emissions in Construction - Inventory and Optimization Strategies,2021,Yes,No,Unclear,Exclude,E2,No,WoS,10.1002/best.202100065
+R0348,On the integration of diverging material flows into resource-constrained project scheduling,2022,Yes,Yes,Yes,Retain,,No,WoS,10.1016/j.ejor.2022.03.047
+R0349,Deep learning model for Demolition Waste Prediction in a circular economy,2020,Yes,No,Unclear,Exclude,E2,No,WoS,10.1016/j.jclepro.2020.122843
+R0350,Mobile Robots for the Simultaneous Exploration and 2D Determination of Radioactivity,2009,Unclear,No,Unclear,Exclude,E2,No,WoS,
+R0351,Computer simulation as a planning tool in nuclear technology - Use of kinematic 3D CAD simulation in planning of remote-controlled disassembly for decommissioning projects,1995,Unclear,Yes,Yes,Retain,,Yes,WoS,
+R0352,Virtual disassembly based on information acquiring,2008,No,Unclear,Unclear,Exclude,E1,No,WoS,
+R0353,Polyhedral Assembly Partitioning With Infinite Translations or The Importance of Being Exact,2013,No,Unclear,Unclear,Exclude,E1,No,WoS,10.1109/tase.2013.2242327

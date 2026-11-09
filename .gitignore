@@ -7,3 +7,4 @@ work/
 private_keys/
 private_mapping.json
 AUTHOR_DECISION_LIST.md
+.claude/

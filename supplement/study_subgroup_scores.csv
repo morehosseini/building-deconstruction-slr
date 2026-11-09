@@ -1,0 +1,1501 @@
+study_id,subgroup_id,paper_title_as_supplied,year_as_recorded,first_author_score,building_scope_in_synthesis
+S02,SG01,Cut Sequencing Algorithm for Safely Disassembling Large Structures,2023,0,1
+S02,SG02,Cut Sequencing Algorithm for Safely Disassembling Large Structures,2023,0,1
+S02,SG03,Cut Sequencing Algorithm for Safely Disassembling Large Structures,2023,0,1
+S02,SG04,Cut Sequencing Algorithm for Safely Disassembling Large Structures,2023,0,1
+S02,SG05,Cut Sequencing Algorithm for Safely Disassembling Large Structures,2023,3,1
+S02,SG06,Cut Sequencing Algorithm for Safely Disassembling Large Structures,2023,0,1
+S02,SG07,Cut Sequencing Algorithm for Safely Disassembling Large Structures,2023,0,1
+S02,SG08,Cut Sequencing Algorithm for Safely Disassembling Large Structures,2023,3,1
+S02,SG09,Cut Sequencing Algorithm for Safely Disassembling Large Structures,2023,3,1
+S02,SG10,Cut Sequencing Algorithm for Safely Disassembling Large Structures,2023,3,1
+S02,SG11,Cut Sequencing Algorithm for Safely Disassembling Large Structures,2023,0,1
+S02,SG12,Cut Sequencing Algorithm for Safely Disassembling Large Structures,2023,0,1
+S02,SG13,Cut Sequencing Algorithm for Safely Disassembling Large Structures,2023,0,1
+S02,SG14,Cut Sequencing Algorithm for Safely Disassembling Large Structures,2023,0,1
+S02,SG15,Cut Sequencing Algorithm for Safely Disassembling Large Structures,2023,3,1
+S02,SG16,Cut Sequencing Algorithm for Safely Disassembling Large Structures,2023,1,1
+S02,SG17,Cut Sequencing Algorithm for Safely Disassembling Large Structures,2023,0,1
+S02,SG18,Cut Sequencing Algorithm for Safely Disassembling Large Structures,2023,0,1
+S02,SG19,Cut Sequencing Algorithm for Safely Disassembling Large Structures,2023,0,1
+S02,SG20,Cut Sequencing Algorithm for Safely Disassembling Large Structures,2023,0,1
+S02,SG21,Cut Sequencing Algorithm for Safely Disassembling Large Structures,2023,0,1
+S02,SG22,Cut Sequencing Algorithm for Safely Disassembling Large Structures,2023,0,1
+S02,SG23,Cut Sequencing Algorithm for Safely Disassembling Large Structures,2023,0,1
+S02,SG24,Cut Sequencing Algorithm for Safely Disassembling Large Structures,2023,0,1
+S02,SG25,Cut Sequencing Algorithm for Safely Disassembling Large Structures,2023,0,1
+S01,SG01,Economic and Environmental Assessment of Deconstruction Strategies Using Building Information Modeling,2012,3,1
+S01,SG02,Economic and Environmental Assessment of Deconstruction Strategies Using Building Information Modeling,2012,1,1
+S01,SG03,Economic and Environmental Assessment of Deconstruction Strategies Using Building Information Modeling,2012,1,1
+S01,SG04,Economic and Environmental Assessment of Deconstruction Strategies Using Building Information Modeling,2012,3,1
+S01,SG05,Economic and Environmental Assessment of Deconstruction Strategies Using Building Information Modeling,2012,2,1
+S01,SG06,Economic and Environmental Assessment of Deconstruction Strategies Using Building Information Modeling,2012,1,1
+S01,SG07,Economic and Environmental Assessment of Deconstruction Strategies Using Building Information Modeling,2012,0,1
+S01,SG08,Economic and Environmental Assessment of Deconstruction Strategies Using Building Information Modeling,2012,0,1
+S01,SG09,Economic and Environmental Assessment of Deconstruction Strategies Using Building Information Modeling,2012,0,1
+S01,SG10,Economic and Environmental Assessment of Deconstruction Strategies Using Building Information Modeling,2012,0,1
+S01,SG11,Economic and Environmental Assessment of Deconstruction Strategies Using Building Information Modeling,2012,2,1
+S01,SG12,Economic and Environmental Assessment of Deconstruction Strategies Using Building Information Modeling,2012,3,1
+S01,SG13,Economic and Environmental Assessment of Deconstruction Strategies Using Building Information Modeling,2012,0,1
+S01,SG14,Economic and Environmental Assessment of Deconstruction Strategies Using Building Information Modeling,2012,0,1
+S01,SG15,Economic and Environmental Assessment of Deconstruction Strategies Using Building Information Modeling,2012,3,1
+S01,SG16,Economic and Environmental Assessment of Deconstruction Strategies Using Building Information Modeling,2012,0,1
+S01,SG17,Economic and Environmental Assessment of Deconstruction Strategies Using Building Information Modeling,2012,0,1
+S01,SG18,Economic and Environmental Assessment of Deconstruction Strategies Using Building Information Modeling,2012,0,1
+S01,SG19,Economic and Environmental Assessment of Deconstruction Strategies Using Building Information Modeling,2012,0,1
+S01,SG20,Economic and Environmental Assessment of Deconstruction Strategies Using Building Information Modeling,2012,0,1
+S01,SG21,Economic and Environmental Assessment of Deconstruction Strategies Using Building Information Modeling,2012,3,1
+S01,SG22,Economic and Environmental Assessment of Deconstruction Strategies Using Building Information Modeling,2012,0,1
+S01,SG23,Economic and Environmental Assessment of Deconstruction Strategies Using Building Information Modeling,2012,0,1
+S01,SG24,Economic and Environmental Assessment of Deconstruction Strategies Using Building Information Modeling,2012,0,1
+S01,SG25,Economic and Environmental Assessment of Deconstruction Strategies Using Building Information Modeling,2012,0,1
+S03,SG01,Optimizing Disassembly Planning for Aluminium-Framed Windows through Automation and Collision Analysis,2025,3,1
+S05,SG01,Knowledge Graph-based Deconstruction Planning of Building’s Products,2024,3,1
+S06,SG01,Integrating Industry Foundation Classes and Knowledge Graphs for Automated Deconstruction Planning,2025,3,1
+S07,SG01,IFC-based automated deconstructability analysis with market data integration through knowledge graphs,2026,3,1
+S09,SG01,The Role of Building Information Modelling (BIM) in Waste Management Deconstruction Plan Via 3D Reconstruction Model,2024,2,1
+S10,SG01,Feature modeling for configurable and adaptable modular buildings,2022,3,1
+S14,SG01,Model-based topological assessment for selective deconstruction: Enhancing quantity recovery and reuse accuracy,2025,3,1
+S15,SG01,Designing for Robotic (Dis-)Assembly,2023,3,1
+S17,SG01,Automating building element detection for deconstruction planning and material reuse: A case study,2023,4,1
+S18,SG01,Design for Circular Disassembly of High-Performance Facade Systems,2025,3,1
+S19,SG01,"Linking Design, Deconstruction and Characterization: A Digital Ecosystem for Sustainable Reuse of Cast-in-Place Concrete Elements",2026,2,1
+S23,SG01,Ontology for a Knowledge-Based Deconstruction of Buildings Based on BIM Models and Linked Data Principles,2025,3,1
+S25,SG01,Automatically Transforming Virtual Reality Simulations into Project Schedules,2026,3,1
+S26,SG01,BIM-Driven Robotic Disassembly for Resource Recovery in End-of-Life Buildings,2025,3,1
+S27,SG01,Design for Reconfigurability in Digital Timber Construction: A voxel-based approach for light-frame assemblies,2026,3,1
+S30,SG01,Circularity of Construction Materials: Precedence Between Elements Based on Digital Models for Demolition and Deconstruction,2026,3,1
+S31,SG01,Design for Deconstruction Using Integrated Lean Principles and BIM Approach,2021,3,1
+S33,SG01,Automated robotic deconstruction sequence planning from scan-to-BIM data for reinforced concrete structure reuse,2025,3,1
+S34,SG01,Information Modelling Management and Green Public Procurement for Waste Management and Environmental Renovation of Brownfields,2021,3,1
+S40,SG01,A framework for BIM-based disassembly models to support reuse of building components,2021,3,1
+S41,SG01,VPL Prototypes for Determining Disassembly Parameters of BIM Models,2022,3,1
+S43,SG01,Augmenting materials passports to support disassembly planning based on building information modelling standards,2024,3,1
+S48,SG01,Benefits derived from WASP (a Grasshopper plugin) to Design for Disassembly Principles in the Built Environment,2024,3,1
+S50,SG01,Deconstruction project planning of existing buildings based on automated acquisition and reconstruction of building information,2018,4,1
+S52,SG01,Robot assisted selective disassembly for buildings,2026,3,1
+S53,SG01,Block Planning Based on Grid’s Topology for the Dismantling of Long-Span Spatial Lattice Structures,2024,3,1
+S20,SG01,Developing a Methodological Framework for Adopting Digitalization for Deconstruction Planning,2021,2,1
+S44,SG01,Circularity of building stocks: modelling building joints and their disassembly in a 3D city model,2022,2,1
+S29,SG01,Integrating Complete Disassembly Planning with Deconstructability Assessment to Facilitate Designing Deconstructable Buildings,2024,1,1
+S32,SG01,Estimating the recoverable value of in-situ building materials,2023,0,1
+S35,SG01,BIM Model View Definition (MVD) for disassembly planning of buildings,2024,1,1
+S37,SG01,Multi-objective Optimization Analysis for Selective Disassembly Planning of Buildings,2019,0,1
+S38,SG01,“Deconstruction programming for adaptive reuse of buildings”,2019,1,1
+S49,SG01,BIM uses for deconstruction: an activity-theoretical perspective on reorganising end-of-life practices,2021,1,1
+S59,SG01,Prefabricated Buildings Selective Disassembly Strategy,2013,0,1
+S09,SG02,The Role of Building Information Modelling (BIM) in Waste Management Deconstruction Plan Via 3D Reconstruction Model,2024,3,1
+S17,SG02,Automating building element detection for deconstruction planning and material reuse: A case study,2023,4,1
+S19,SG02,"Linking Design, Deconstruction and Characterization: A Digital Ecosystem for Sustainable Reuse of Cast-in-Place Concrete Elements",2026,2,1
+S34,SG02,Information Modelling Management and Green Public Procurement for Waste Management and Environmental Renovation of Brownfields,2021,3,1
+S50,SG02,Deconstruction project planning of existing buildings based on automated acquisition and reconstruction of building information,2018,4,1
+S20,SG02,Developing a Methodological Framework for Adopting Digitalization for Deconstruction Planning,2021,2,1
+S35,SG02,BIM Model View Definition (MVD) for disassembly planning of buildings,2024,3,1
+S44,SG02,Circularity of building stocks: modelling building joints and their disassembly in a 3D city model,2022,2,1
+S04,SG02,A BIM-Based Assessment Method for Reusing Components from Existing Precast Concrete Buildings,2025,0,1
+S07,SG02,IFC-based automated deconstructability analysis with market data integration through knowledge graphs,2026,3,1
+S08,SG02,The Framework of Green Deconstruction Planning System in Indonesia: Maximizing the Conservation of Construction Resources,2023,0,1
+S14,SG02,Model-based topological assessment for selective deconstruction: Enhancing quantity recovery and reuse accuracy,2025,3,1
+S40,SG02,A framework for BIM-based disassembly models to support reuse of building components,2021,3,1
+S42,SG02,Identifying Key Parameters for BIM-Based Disassembly Planning,2023,3,1
+S49,SG02,BIM uses for deconstruction: an activity-theoretical perspective on reorganising end-of-life practices,2021,4,1
+S45,SG03,"Environment-oriented project scheduling for the dismantling of buildings
+Umweltorientierte Projektplanung für die Demontage von Bauwerken",2001,4,1
+S46,SG03,Scheduling of deconstruction projects under resource constraints,2002,0,1
+S54,SG03,Disassembly and Reuse of Demountable Modular Building Systems,2025,4,1
+S06,SG03,Integrating Industry Foundation Classes and Knowledge Graphs for Automated Deconstruction Planning,2025,0,1
+S25,SG03,Automatically Transforming Virtual Reality Simulations into Project Schedules,2026,1,1
+S36,SG03,Capital project planning for a circular economy,2018,0,1
+S37,SG03,Multi-objective Optimization Analysis for Selective Disassembly Planning of Buildings,2019,1,1
+S39,SG03,A selective disassembly multi-objective optimization approach for adaptive reuse of building components,2020,0,1
+S42,SG03,Identifying Key Parameters for BIM-Based Disassembly Planning,2023,1,1
+S04,SG04,A BIM-Based Assessment Method for Reusing Components from Existing Precast Concrete Buildings,2025,2,1
+S07,SG04,IFC-based automated deconstructability analysis with market data integration through knowledge graphs,2026,1,1
+S13,SG04,Gamified Virtual Reality for Building Material Reuse Planning,2025,0,1
+S14,SG04,Model-based topological assessment for selective deconstruction: Enhancing quantity recovery and reuse accuracy,2025,3,1
+S18,SG04,Design for Circular Disassembly of High-Performance Facade Systems,2025,3,1
+S28,SG04,A Hybrid Method for Optimizing Selective Disassembly Sequence Planning in Adaptive Reuse of Buildings,2022,3,1
+S29,SG04,Integrating Complete Disassembly Planning with Deconstructability Assessment to Facilitate Designing Deconstructable Buildings,2024,3,1
+S32,SG04,Estimating the recoverable value of in-situ building materials,2023,3,1
+S37,SG04,Multi-objective Optimization Analysis for Selective Disassembly Planning of Buildings,2019,3,1
+S38,SG04,“Deconstruction programming for adaptive reuse of buildings”,2019,3,1
+S39,SG04,A selective disassembly multi-objective optimization approach for adaptive reuse of building components,2020,3,1
+S45,SG04,"Environment-oriented project scheduling for the dismantling of buildings
+Umweltorientierte Projektplanung für die Demontage von Bauwerken",2001,4,1
+S46,SG04,Scheduling of deconstruction projects under resource constraints,2002,3,1
+S08,SG04,The Framework of Green Deconstruction Planning System in Indonesia: Maximizing the Conservation of Construction Resources,2023,2,1
+S36,SG04,Capital project planning for a circular economy,2018,2,1
+S05,SG04,Knowledge Graph-based Deconstruction Planning of Building’s Products,2024,1,1
+S06,SG04,Integrating Industry Foundation Classes and Knowledge Graphs for Automated Deconstruction Planning,2025,1,1
+S20,SG04,Developing a Methodological Framework for Adopting Digitalization for Deconstruction Planning,2021,2,1
+S30,SG04,Circularity of Construction Materials: Precedence Between Elements Based on Digital Models for Demolition and Deconstruction,2026,1,1
+S31,SG04,Design for Deconstruction Using Integrated Lean Principles and BIM Approach,2021,1,1
+S53,SG04,Block Planning Based on Grid’s Topology for the Dismantling of Long-Span Spatial Lattice Structures,2024,0,1
+S54,SG04,Disassembly and Reuse of Demountable Modular Building Systems,2025,1,1
+S58,SG04,Selective Disassembly Strategy Based on the CAD Model Assembly Building,2012,0,1
+S59,SG04,Prefabricated Buildings Selective Disassembly Strategy,2013,0,1
+S45,SG05,"Environment-oriented project scheduling for the dismantling of buildings
+Umweltorientierte Projektplanung für die Demontage von Bauwerken",2001,4,1
+S46,SG05,Scheduling of deconstruction projects under resource constraints,2002,4,1
+S49,SG05,BIM uses for deconstruction: an activity-theoretical perspective on reorganising end-of-life practices,2021,4,1
+S07,SG05,IFC-based automated deconstructability analysis with market data integration through knowledge graphs,2026,1,1
+S09,SG05,The Role of Building Information Modelling (BIM) in Waste Management Deconstruction Plan Via 3D Reconstruction Model,2024,0,1
+S16,SG05,On the Integration of Diverging Material Flows into Resource-Constrained Project Scheduling,2022,3,1
+S18,SG05,Design for Circular Disassembly of High-Performance Facade Systems,2025,3,1
+S21,SG05,Towards Hybridization of Multi-Agent Simulation and Metaheuristics Applied to Selective Deconstruction,2022,3,1
+S22,SG05,A Hybrid Genetic Approach for Bi-Level Flexible Job Shops Arising from Selective Deconstruction,2023,3,1
+S23,SG05,Ontology for a Knowledge-Based Deconstruction of Buildings Based on BIM Models and Linked Data Principles,2025,3,1
+S29,SG05,Integrating Complete Disassembly Planning with Deconstructability Assessment to Facilitate Designing Deconstructable Buildings,2024,3,1
+S33,SG05,Automated robotic deconstruction sequence planning from scan-to-BIM data for reinforced concrete structure reuse,2025,3,1
+S50,SG05,Deconstruction project planning of existing buildings based on automated acquisition and reconstruction of building information,2018,3,1
+S53,SG05,Block Planning Based on Grid’s Topology for the Dismantling of Long-Span Spatial Lattice Structures,2024,3,1
+S54,SG05,Disassembly and Reuse of Demountable Modular Building Systems,2025,4,1
+S08,SG05,The Framework of Green Deconstruction Planning System in Indonesia: Maximizing the Conservation of Construction Resources,2023,2,1
+S12,SG05,Management of Deconstruction of Construction Objects,2020,2,1
+S20,SG05,Developing a Methodological Framework for Adopting Digitalization for Deconstruction Planning,2021,0,1
+S34,SG05,Information Modelling Management and Green Public Procurement for Waste Management and Environmental Renovation of Brownfields,2021,2,1
+S38,SG05,“Deconstruction programming for adaptive reuse of buildings”,2019,3,1
+S04,SG05,A BIM-Based Assessment Method for Reusing Components from Existing Precast Concrete Buildings,2025,0,1
+S05,SG05,Knowledge Graph-based Deconstruction Planning of Building’s Products,2024,0,1
+S06,SG05,Integrating Industry Foundation Classes and Knowledge Graphs for Automated Deconstruction Planning,2025,1,1
+S19,SG05,"Linking Design, Deconstruction and Characterization: A Digital Ecosystem for Sustainable Reuse of Cast-in-Place Concrete Elements",2026,2,1
+S25,SG05,Automatically Transforming Virtual Reality Simulations into Project Schedules,2026,3,1
+S26,SG05,BIM-Driven Robotic Disassembly for Resource Recovery in End-of-Life Buildings,2025,1,1
+S28,SG05,A Hybrid Method for Optimizing Selective Disassembly Sequence Planning in Adaptive Reuse of Buildings,2022,3,1
+S31,SG05,Design for Deconstruction Using Integrated Lean Principles and BIM Approach,2021,2,1
+S37,SG05,Multi-objective Optimization Analysis for Selective Disassembly Planning of Buildings,2019,0,1
+S52,SG05,Robot assisted selective disassembly for buildings,2026,2,1
+S04,SG06,A BIM-Based Assessment Method for Reusing Components from Existing Precast Concrete Buildings,2025,1,1
+S06,SG06,Integrating Industry Foundation Classes and Knowledge Graphs for Automated Deconstruction Planning,2025,3,1
+S22,SG06,A Hybrid Genetic Approach for Bi-Level Flexible Job Shops Arising from Selective Deconstruction,2023,0,1
+S29,SG06,Integrating Complete Disassembly Planning with Deconstructability Assessment to Facilitate Designing Deconstructable Buildings,2024,3,1
+S30,SG06,Circularity of Construction Materials: Precedence Between Elements Based on Digital Models for Demolition and Deconstruction,2026,3,1
+S32,SG06,Estimating the recoverable value of in-situ building materials,2023,1,1
+S50,SG06,Deconstruction project planning of existing buildings based on automated acquisition and reconstruction of building information,2018,1,1
+S53,SG06,Block Planning Based on Grid’s Topology for the Dismantling of Long-Span Spatial Lattice Structures,2024,0,1
+S44,SG06,Circularity of building stocks: modelling building joints and their disassembly in a 3D city model,2022,2,1
+S03,SG06,Optimizing Disassembly Planning for Aluminium-Framed Windows through Automation and Collision Analysis,2025,0,1
+S05,SG06,Knowledge Graph-based Deconstruction Planning of Building’s Products,2024,1,1
+S10,SG06,Feature modeling for configurable and adaptable modular buildings,2022,1,1
+S11,SG06,Bruun et al. - 2022 - Structural rigidity theory applied to the scaffold-free (dis)assembly of space frames using cooperat.pdf,2022,1,1
+S15,SG06,Designing for Robotic (Dis-)Assembly,2023,0,1
+S35,SG06,BIM Model View Definition (MVD) for disassembly planning of buildings,2024,1,1
+S39,SG06,A selective disassembly multi-objective optimization approach for adaptive reuse of building components,2020,0,1
+S40,SG06,A framework for BIM-based disassembly models to support reuse of building components,2021,1,1
+S41,SG06,VPL Prototypes for Determining Disassembly Parameters of BIM Models,2022,1,1
+S43,SG06,Augmenting materials passports to support disassembly planning based on building information modelling standards,2024,1,1
+S48,SG06,Benefits derived from WASP (a Grasshopper plugin) to Design for Disassembly Principles in the Built Environment,2024,1,1
+S11,SG07,Bruun et al. - 2022 - Structural rigidity theory applied to the scaffold-free (dis)assembly of space frames using cooperat.pdf,2022,3,1
+S15,SG07,Designing for Robotic (Dis-)Assembly,2023,3,1
+S24,SG07,Multi-Robotic System for Welded Steel Disassembly,2025,4,1
+S26,SG07,BIM-Driven Robotic Disassembly for Resource Recovery in End-of-Life Buildings,2025,3,1
+S33,SG07,Automated robotic deconstruction sequence planning from scan-to-BIM data for reinforced concrete structure reuse,2025,3,1
+S52,SG07,Robot assisted selective disassembly for buildings,2026,2,1
+S10,SG07,Feature modeling for configurable and adaptable modular buildings,2022,0,1
+S27,SG07,Design for Reconfigurability in Digital Timber Construction: A voxel-based approach for light-frame assemblies,2026,2,1
+S43,SG07,Augmenting materials passports to support disassembly planning based on building information modelling standards,2024,1,1
+S54,SG07,Disassembly and Reuse of Demountable Modular Building Systems,2025,1,1
+S03,SG08,Optimizing Disassembly Planning for Aluminium-Framed Windows through Automation and Collision Analysis,2025,3,1
+S04,SG08,A BIM-Based Assessment Method for Reusing Components from Existing Precast Concrete Buildings,2025,2,1
+S05,SG08,Knowledge Graph-based Deconstruction Planning of Building’s Products,2024,3,1
+S06,SG08,Integrating Industry Foundation Classes and Knowledge Graphs for Automated Deconstruction Planning,2025,3,1
+S07,SG08,IFC-based automated deconstructability analysis with market data integration through knowledge graphs,2026,3,1
+S10,SG08,Feature modeling for configurable and adaptable modular buildings,2022,3,1
+S11,SG08,Bruun et al. - 2022 - Structural rigidity theory applied to the scaffold-free (dis)assembly of space frames using cooperat.pdf,2022,3,1
+S13,SG08,Gamified Virtual Reality for Building Material Reuse Planning,2025,0,1
+S14,SG08,Model-based topological assessment for selective deconstruction: Enhancing quantity recovery and reuse accuracy,2025,3,1
+S15,SG08,Designing for Robotic (Dis-)Assembly,2023,3,1
+S18,SG08,Design for Circular Disassembly of High-Performance Facade Systems,2025,3,1
+S19,SG08,"Linking Design, Deconstruction and Characterization: A Digital Ecosystem for Sustainable Reuse of Cast-in-Place Concrete Elements",2026,0,1
+S22,SG08,A Hybrid Genetic Approach for Bi-Level Flexible Job Shops Arising from Selective Deconstruction,2023,3,1
+S23,SG08,Ontology for a Knowledge-Based Deconstruction of Buildings Based on BIM Models and Linked Data Principles,2025,2,1
+S25,SG08,Automatically Transforming Virtual Reality Simulations into Project Schedules,2026,3,1
+S26,SG08,BIM-Driven Robotic Disassembly for Resource Recovery in End-of-Life Buildings,2025,0,1
+S27,SG08,Design for Reconfigurability in Digital Timber Construction: A voxel-based approach for light-frame assemblies,2026,3,1
+S28,SG08,A Hybrid Method for Optimizing Selective Disassembly Sequence Planning in Adaptive Reuse of Buildings,2022,3,1
+S29,SG08,Integrating Complete Disassembly Planning with Deconstructability Assessment to Facilitate Designing Deconstructable Buildings,2024,3,1
+S30,SG08,Circularity of Construction Materials: Precedence Between Elements Based on Digital Models for Demolition and Deconstruction,2026,3,1
+S31,SG08,Design for Deconstruction Using Integrated Lean Principles and BIM Approach,2021,3,1
+S32,SG08,Estimating the recoverable value of in-situ building materials,2023,3,1
+S33,SG08,Automated robotic deconstruction sequence planning from scan-to-BIM data for reinforced concrete structure reuse,2025,3,1
+S35,SG08,BIM Model View Definition (MVD) for disassembly planning of buildings,2024,2,1
+S37,SG08,Multi-objective Optimization Analysis for Selective Disassembly Planning of Buildings,2019,3,1
+S38,SG08,“Deconstruction programming for adaptive reuse of buildings”,2019,3,1
+S39,SG08,A selective disassembly multi-objective optimization approach for adaptive reuse of building components,2020,3,1
+S40,SG08,A framework for BIM-based disassembly models to support reuse of building components,2021,3,1
+S41,SG08,VPL Prototypes for Determining Disassembly Parameters of BIM Models,2022,3,1
+S43,SG08,Augmenting materials passports to support disassembly planning based on building information modelling standards,2024,3,1
+S45,SG08,"Environment-oriented project scheduling for the dismantling of buildings
+Umweltorientierte Projektplanung für die Demontage von Bauwerken",2001,3,1
+S46,SG08,Scheduling of deconstruction projects under resource constraints,2002,3,1
+S48,SG08,Benefits derived from WASP (a Grasshopper plugin) to Design for Disassembly Principles in the Built Environment,2024,3,1
+S49,SG08,BIM uses for deconstruction: an activity-theoretical perspective on reorganising end-of-life practices,2021,4,1
+S50,SG08,Deconstruction project planning of existing buildings based on automated acquisition and reconstruction of building information,2018,3,1
+S52,SG08,Robot assisted selective disassembly for buildings,2026,3,1
+S53,SG08,Block Planning Based on Grid’s Topology for the Dismantling of Long-Span Spatial Lattice Structures,2024,3,1
+S58,SG08,Selective Disassembly Strategy Based on the CAD Model Assembly Building,2012,3,1
+S59,SG08,Prefabricated Buildings Selective Disassembly Strategy,2013,3,1
+S08,SG08,The Framework of Green Deconstruction Planning System in Indonesia: Maximizing the Conservation of Construction Resources,2023,0,1
+S12,SG08,Management of Deconstruction of Construction Objects,2020,0,1
+S36,SG08,Capital project planning for a circular economy,2018,0,1
+S42,SG08,Identifying Key Parameters for BIM-Based Disassembly Planning,2023,3,1
+S44,SG08,Circularity of building stocks: modelling building joints and their disassembly in a 3D city model,2022,2,1
+S54,SG08,Disassembly and Reuse of Demountable Modular Building Systems,2025,4,1
+S56,SG08,GRAPH BASED DISASSEMBLY SEQUENCING WITH STRUCTURAL AND STABILITY CONSTRAINTS,2025,3,1
+S11,SG09,Bruun et al. - 2022 - Structural rigidity theory applied to the scaffold-free (dis)assembly of space frames using cooperat.pdf,2022,3,1
+S15,SG09,Designing for Robotic (Dis-)Assembly,2023,0,1
+S27,SG09,Design for Reconfigurability in Digital Timber Construction: A voxel-based approach for light-frame assemblies,2026,2,1
+S43,SG09,Augmenting materials passports to support disassembly planning based on building information modelling standards,2024,2,1
+S04,SG09,A BIM-Based Assessment Method for Reusing Components from Existing Precast Concrete Buildings,2025,2,1
+S07,SG09,IFC-based automated deconstructability analysis with market data integration through knowledge graphs,2026,2,1
+S12,SG09,Management of Deconstruction of Construction Objects,2020,0,1
+S13,SG09,Gamified Virtual Reality for Building Material Reuse Planning,2025,0,1
+S14,SG09,Model-based topological assessment for selective deconstruction: Enhancing quantity recovery and reuse accuracy,2025,0,1
+S29,SG09,Integrating Complete Disassembly Planning with Deconstructability Assessment to Facilitate Designing Deconstructable Buildings,2024,0,1
+S30,SG09,Circularity of Construction Materials: Precedence Between Elements Based on Digital Models for Demolition and Deconstruction,2026,2,1
+S56,SG09,GRAPH BASED DISASSEMBLY SEQUENCING WITH STRUCTURAL AND STABILITY CONSTRAINTS,2025,3,1
+S21,SG09,Towards Hybridization of Multi-Agent Simulation and Metaheuristics Applied to Selective Deconstruction,2022,0,1
+S33,SG09,Automated robotic deconstruction sequence planning from scan-to-BIM data for reinforced concrete structure reuse,2025,1,1
+S48,SG09,Benefits derived from WASP (a Grasshopper plugin) to Design for Disassembly Principles in the Built Environment,2024,0,1
+S52,SG09,Robot assisted selective disassembly for buildings,2026,1,1
+S53,SG09,Block Planning Based on Grid’s Topology for the Dismantling of Long-Span Spatial Lattice Structures,2024,1,1
+S58,SG09,Selective Disassembly Strategy Based on the CAD Model Assembly Building,2012,0,1
+S59,SG09,Prefabricated Buildings Selective Disassembly Strategy,2013,0,1
+S16,SG10,On the Integration of Diverging Material Flows into Resource-Constrained Project Scheduling,2022,3,1
+S21,SG10,Towards Hybridization of Multi-Agent Simulation and Metaheuristics Applied to Selective Deconstruction,2022,3,1
+S22,SG10,A Hybrid Genetic Approach for Bi-Level Flexible Job Shops Arising from Selective Deconstruction,2023,3,1
+S28,SG10,A Hybrid Method for Optimizing Selective Disassembly Sequence Planning in Adaptive Reuse of Buildings,2022,3,1
+S29,SG10,Integrating Complete Disassembly Planning with Deconstructability Assessment to Facilitate Designing Deconstructable Buildings,2024,3,1
+S33,SG10,Automated robotic deconstruction sequence planning from scan-to-BIM data for reinforced concrete structure reuse,2025,3,1
+S53,SG10,Block Planning Based on Grid’s Topology for the Dismantling of Long-Span Spatial Lattice Structures,2024,3,1
+S58,SG10,Selective Disassembly Strategy Based on the CAD Model Assembly Building,2012,3,1
+S59,SG10,Prefabricated Buildings Selective Disassembly Strategy,2013,3,1
+S44,SG10,Circularity of building stocks: modelling building joints and their disassembly in a 3D city model,2022,2,1
+S56,SG10,GRAPH BASED DISASSEMBLY SEQUENCING WITH STRUCTURAL AND STABILITY CONSTRAINTS,2025,3,1
+S11,SG10,Bruun et al. - 2022 - Structural rigidity theory applied to the scaffold-free (dis)assembly of space frames using cooperat.pdf,2022,2,1
+S15,SG10,Designing for Robotic (Dis-)Assembly,2023,2,1
+S27,SG10,Design for Reconfigurability in Digital Timber Construction: A voxel-based approach for light-frame assemblies,2026,1,1
+S35,SG10,BIM Model View Definition (MVD) for disassembly planning of buildings,2024,1,1
+S39,SG10,A selective disassembly multi-objective optimization approach for adaptive reuse of building components,2020,0,1
+S40,SG10,A framework for BIM-based disassembly models to support reuse of building components,2021,1,1
+S41,SG10,VPL Prototypes for Determining Disassembly Parameters of BIM Models,2022,1,1
+S43,SG10,Augmenting materials passports to support disassembly planning based on building information modelling standards,2024,1,1
+S45,SG10,"Environment-oriented project scheduling for the dismantling of buildings
+Umweltorientierte Projektplanung für die Demontage von Bauwerken",2001,3,1
+S50,SG10,Deconstruction project planning of existing buildings based on automated acquisition and reconstruction of building information,2018,3,1
+S05,SG11,Knowledge Graph-based Deconstruction Planning of Building’s Products,2024,0,1
+S06,SG11,Integrating Industry Foundation Classes and Knowledge Graphs for Automated Deconstruction Planning,2025,2,1
+S07,SG11,IFC-based automated deconstructability analysis with market data integration through knowledge graphs,2026,0,1
+S10,SG11,Feature modeling for configurable and adaptable modular buildings,2022,3,1
+S23,SG11,Ontology for a Knowledge-Based Deconstruction of Buildings Based on BIM Models and Linked Data Principles,2025,3,1
+S35,SG11,BIM Model View Definition (MVD) for disassembly planning of buildings,2024,3,1
+S40,SG11,A framework for BIM-based disassembly models to support reuse of building components,2021,3,1
+S42,SG11,Identifying Key Parameters for BIM-Based Disassembly Planning,2023,3,1
+S43,SG11,Augmenting materials passports to support disassembly planning based on building information modelling standards,2024,3,1
+S49,SG11,BIM uses for deconstruction: an activity-theoretical perspective on reorganising end-of-life practices,2021,3,1
+S52,SG11,Robot assisted selective disassembly for buildings,2026,3,1
+S44,SG11,Circularity of building stocks: modelling building joints and their disassembly in a 3D city model,2022,2,1
+S18,SG11,Design for Circular Disassembly of High-Performance Facade Systems,2025,3,1
+S20,SG11,Developing a Methodological Framework for Adopting Digitalization for Deconstruction Planning,2021,1,1
+S26,SG11,BIM-Driven Robotic Disassembly for Resource Recovery in End-of-Life Buildings,2025,0,1
+S34,SG11,Information Modelling Management and Green Public Procurement for Waste Management and Environmental Renovation of Brownfields,2021,3,1
+S41,SG11,VPL Prototypes for Determining Disassembly Parameters of BIM Models,2022,3,1
+S05,SG12,Knowledge Graph-based Deconstruction Planning of Building’s Products,2024,2,1
+S06,SG12,Integrating Industry Foundation Classes and Knowledge Graphs for Automated Deconstruction Planning,2025,3,1
+S07,SG12,IFC-based automated deconstructability analysis with market data integration through knowledge graphs,2026,3,1
+S19,SG12,"Linking Design, Deconstruction and Characterization: A Digital Ecosystem for Sustainable Reuse of Cast-in-Place Concrete Elements",2026,2,1
+S23,SG12,Ontology for a Knowledge-Based Deconstruction of Buildings Based on BIM Models and Linked Data Principles,2025,3,1
+S25,SG12,Automatically Transforming Virtual Reality Simulations into Project Schedules,2026,3,1
+S26,SG12,BIM-Driven Robotic Disassembly for Resource Recovery in End-of-Life Buildings,2025,3,1
+S30,SG12,Circularity of Construction Materials: Precedence Between Elements Based on Digital Models for Demolition and Deconstruction,2026,3,1
+S35,SG12,BIM Model View Definition (MVD) for disassembly planning of buildings,2024,3,1
+S38,SG12,“Deconstruction programming for adaptive reuse of buildings”,2019,3,1
+S40,SG12,A framework for BIM-based disassembly models to support reuse of building components,2021,3,1
+S41,SG12,VPL Prototypes for Determining Disassembly Parameters of BIM Models,2022,3,1
+S43,SG12,Augmenting materials passports to support disassembly planning based on building information modelling standards,2024,3,1
+S49,SG12,BIM uses for deconstruction: an activity-theoretical perspective on reorganising end-of-life practices,2021,3,1
+S50,SG12,Deconstruction project planning of existing buildings based on automated acquisition and reconstruction of building information,2018,3,1
+S52,SG12,Robot assisted selective disassembly for buildings,2026,3,1
+S54,SG12,Disassembly and Reuse of Demountable Modular Building Systems,2025,2,1
+S20,SG12,Developing a Methodological Framework for Adopting Digitalization for Deconstruction Planning,2021,2,1
+S31,SG12,Design for Deconstruction Using Integrated Lean Principles and BIM Approach,2021,3,1
+S42,SG12,Identifying Key Parameters for BIM-Based Disassembly Planning,2023,3,1
+S44,SG12,Circularity of building stocks: modelling building joints and their disassembly in a 3D city model,2022,2,1
+S34,SG12,Information Modelling Management and Green Public Procurement for Waste Management and Environmental Renovation of Brownfields,2021,2,1
+S23,SG13,Ontology for a Knowledge-Based Deconstruction of Buildings Based on BIM Models and Linked Data Principles,2025,1,1
+S13,SG14,Gamified Virtual Reality for Building Material Reuse Planning,2025,3,1
+S45,SG15,"Environment-oriented project scheduling for the dismantling of buildings
+Umweltorientierte Projektplanung für die Demontage von Bauwerken",2001,4,1
+S46,SG15,Scheduling of deconstruction projects under resource constraints,2002,4,1
+S49,SG15,BIM uses for deconstruction: an activity-theoretical perspective on reorganising end-of-life practices,2021,4,1
+S03,SG15,Optimizing Disassembly Planning for Aluminium-Framed Windows through Automation and Collision Analysis,2025,3,1
+S04,SG15,A BIM-Based Assessment Method for Reusing Components from Existing Precast Concrete Buildings,2025,2,1
+S05,SG15,Knowledge Graph-based Deconstruction Planning of Building’s Products,2024,3,1
+S06,SG15,Integrating Industry Foundation Classes and Knowledge Graphs for Automated Deconstruction Planning,2025,3,1
+S07,SG15,IFC-based automated deconstructability analysis with market data integration through knowledge graphs,2026,3,1
+S09,SG15,The Role of Building Information Modelling (BIM) in Waste Management Deconstruction Plan Via 3D Reconstruction Model,2024,2,1
+S10,SG15,Feature modeling for configurable and adaptable modular buildings,2022,3,1
+S13,SG15,Gamified Virtual Reality for Building Material Reuse Planning,2025,3,1
+S14,SG15,Model-based topological assessment for selective deconstruction: Enhancing quantity recovery and reuse accuracy,2025,3,1
+S15,SG15,Designing for Robotic (Dis-)Assembly,2023,3,1
+S16,SG15,On the Integration of Diverging Material Flows into Resource-Constrained Project Scheduling,2022,3,1
+S17,SG15,Automating building element detection for deconstruction planning and material reuse: A case study,2023,4,1
+S18,SG15,Design for Circular Disassembly of High-Performance Facade Systems,2025,3,1
+S19,SG15,"Linking Design, Deconstruction and Characterization: A Digital Ecosystem for Sustainable Reuse of Cast-in-Place Concrete Elements",2026,2,1
+S21,SG15,Towards Hybridization of Multi-Agent Simulation and Metaheuristics Applied to Selective Deconstruction,2022,3,1
+S22,SG15,A Hybrid Genetic Approach for Bi-Level Flexible Job Shops Arising from Selective Deconstruction,2023,3,1
+S23,SG15,Ontology for a Knowledge-Based Deconstruction of Buildings Based on BIM Models and Linked Data Principles,2025,3,1
+S25,SG15,Automatically Transforming Virtual Reality Simulations into Project Schedules,2026,3,1
+S26,SG15,BIM-Driven Robotic Disassembly for Resource Recovery in End-of-Life Buildings,2025,3,1
+S28,SG15,A Hybrid Method for Optimizing Selective Disassembly Sequence Planning in Adaptive Reuse of Buildings,2022,3,1
+S29,SG15,Integrating Complete Disassembly Planning with Deconstructability Assessment to Facilitate Designing Deconstructable Buildings,2024,3,1
+S30,SG15,Circularity of Construction Materials: Precedence Between Elements Based on Digital Models for Demolition and Deconstruction,2026,3,1
+S31,SG15,Design for Deconstruction Using Integrated Lean Principles and BIM Approach,2021,3,1
+S32,SG15,Estimating the recoverable value of in-situ building materials,2023,3,1
+S33,SG15,Automated robotic deconstruction sequence planning from scan-to-BIM data for reinforced concrete structure reuse,2025,3,1
+S34,SG15,Information Modelling Management and Green Public Procurement for Waste Management and Environmental Renovation of Brownfields,2021,3,1
+S37,SG15,Multi-objective Optimization Analysis for Selective Disassembly Planning of Buildings,2019,3,1
+S38,SG15,“Deconstruction programming for adaptive reuse of buildings”,2019,3,1
+S39,SG15,A selective disassembly multi-objective optimization approach for adaptive reuse of building components,2020,3,1
+S40,SG15,A framework for BIM-based disassembly models to support reuse of building components,2021,3,1
+S41,SG15,VPL Prototypes for Determining Disassembly Parameters of BIM Models,2022,3,1
+S43,SG15,Augmenting materials passports to support disassembly planning based on building information modelling standards,2024,3,1
+S48,SG15,Benefits derived from WASP (a Grasshopper plugin) to Design for Disassembly Principles in the Built Environment,2024,3,1
+S50,SG15,Deconstruction project planning of existing buildings based on automated acquisition and reconstruction of building information,2018,4,1
+S52,SG15,Robot assisted selective disassembly for buildings,2026,3,1
+S53,SG15,Block Planning Based on Grid’s Topology for the Dismantling of Long-Span Spatial Lattice Structures,2024,3,1
+S54,SG15,Disassembly and Reuse of Demountable Modular Building Systems,2025,4,1
+S58,SG15,Selective Disassembly Strategy Based on the CAD Model Assembly Building,2012,3,1
+S59,SG15,Prefabricated Buildings Selective Disassembly Strategy,2013,3,1
+S08,SG15,The Framework of Green Deconstruction Planning System in Indonesia: Maximizing the Conservation of Construction Resources,2023,2,1
+S12,SG15,Management of Deconstruction of Construction Objects,2020,2,1
+S20,SG15,Developing a Methodological Framework for Adopting Digitalization for Deconstruction Planning,2021,2,1
+S35,SG15,BIM Model View Definition (MVD) for disassembly planning of buildings,2024,3,1
+S36,SG15,Capital project planning for a circular economy,2018,2,1
+S42,SG15,Identifying Key Parameters for BIM-Based Disassembly Planning,2023,3,1
+S44,SG15,Circularity of building stocks: modelling building joints and their disassembly in a 3D city model,2022,2,1
+S56,SG15,GRAPH BASED DISASSEMBLY SEQUENCING WITH STRUCTURAL AND STABILITY CONSTRAINTS,2025,3,1
+S49,SG16,BIM uses for deconstruction: an activity-theoretical perspective on reorganising end-of-life practices,2021,4,1
+S19,SG16,"Linking Design, Deconstruction and Characterization: A Digital Ecosystem for Sustainable Reuse of Cast-in-Place Concrete Elements",2026,0,1
+S34,SG16,Information Modelling Management and Green Public Procurement for Waste Management and Environmental Renovation of Brownfields,2021,3,1
+S54,SG16,Disassembly and Reuse of Demountable Modular Building Systems,2025,4,1
+S07,SG16,IFC-based automated deconstructability analysis with market data integration through knowledge graphs,2026,1,1
+S11,SG16,Bruun et al. - 2022 - Structural rigidity theory applied to the scaffold-free (dis)assembly of space frames using cooperat.pdf,2022,3,1
+S33,SG16,Automated robotic deconstruction sequence planning from scan-to-BIM data for reinforced concrete structure reuse,2025,0,1
+S42,SG16,Identifying Key Parameters for BIM-Based Disassembly Planning,2023,1,1
+S43,SG16,Augmenting materials passports to support disassembly planning based on building information modelling standards,2024,1,1
+S44,SG16,Circularity of building stocks: modelling building joints and their disassembly in a 3D city model,2022,1,1
+S52,SG16,Robot assisted selective disassembly for buildings,2026,2,1
+S56,SG16,GRAPH BASED DISASSEMBLY SEQUENCING WITH STRUCTURAL AND STABILITY CONSTRAINTS,2025,0,1
+S24,SG17,Multi-Robotic System for Welded Steel Disassembly,2025,3,1
+S15,SG17,Designing for Robotic (Dis-)Assembly,2023,3,1
+S26,SG17,BIM-Driven Robotic Disassembly for Resource Recovery in End-of-Life Buildings,2025,2,1
+S52,SG17,Robot assisted selective disassembly for buildings,2026,1,1
+S11,SG18,Bruun et al. - 2022 - Structural rigidity theory applied to the scaffold-free (dis)assembly of space frames using cooperat.pdf,2022,3,1
+S24,SG18,Multi-Robotic System for Welded Steel Disassembly,2025,3,1
+S15,SG18,Designing for Robotic (Dis-)Assembly,2023,0,1
+S33,SG18,Automated robotic deconstruction sequence planning from scan-to-BIM data for reinforced concrete structure reuse,2025,3,1
+S52,SG18,Robot assisted selective disassembly for buildings,2026,1,1
+S27,SG19,Design for Reconfigurability in Digital Timber Construction: A voxel-based approach for light-frame assemblies,2026,1,1
+S34,SG20,Information Modelling Management and Green Public Procurement for Waste Management and Environmental Renovation of Brownfields,2021,3,1
+S36,SG20,Capital project planning for a circular economy,2018,2,1
+S54,SG20,Disassembly and Reuse of Demountable Modular Building Systems,2025,2,1
+S32,SG21,Estimating the recoverable value of in-situ building materials,2023,3,1
+S37,SG21,Multi-objective Optimization Analysis for Selective Disassembly Planning of Buildings,2019,3,1
+S39,SG21,A selective disassembly multi-objective optimization approach for adaptive reuse of building components,2020,3,1
+S45,SG21,"Environment-oriented project scheduling for the dismantling of buildings
+Umweltorientierte Projektplanung für die Demontage von Bauwerken",2001,3,1
+S46,SG21,Scheduling of deconstruction projects under resource constraints,2002,3,1
+S53,SG21,Block Planning Based on Grid’s Topology for the Dismantling of Long-Span Spatial Lattice Structures,2024,3,1
+S12,SG21,Management of Deconstruction of Construction Objects,2020,0,1
+S36,SG21,Capital project planning for a circular economy,2018,1,1
+S42,SG21,Identifying Key Parameters for BIM-Based Disassembly Planning,2023,0,1
+S38,SG21,“Deconstruction programming for adaptive reuse of buildings”,2019,1,1
+S40,SG21,A framework for BIM-based disassembly models to support reuse of building components,2021,1,1
+S10,SG22,Feature modeling for configurable and adaptable modular buildings,2022,0,1
+S15,SG22,Designing for Robotic (Dis-)Assembly,2023,3,1
+S18,SG22,Design for Circular Disassembly of High-Performance Facade Systems,2025,3,1
+S27,SG22,Design for Reconfigurability in Digital Timber Construction: A voxel-based approach for light-frame assemblies,2026,2,1
+S48,SG22,Benefits derived from WASP (a Grasshopper plugin) to Design for Disassembly Principles in the Built Environment,2024,3,1
+S54,SG22,Disassembly and Reuse of Demountable Modular Building Systems,2025,4,1
+S58,SG22,Selective Disassembly Strategy Based on the CAD Model Assembly Building,2012,2,1
+S59,SG22,Prefabricated Buildings Selective Disassembly Strategy,2013,2,1
+S40,SG22,A framework for BIM-based disassembly models to support reuse of building components,2021,1,1
+S41,SG22,VPL Prototypes for Determining Disassembly Parameters of BIM Models,2022,0,1
+S43,SG22,Augmenting materials passports to support disassembly planning based on building information modelling standards,2024,2,1
+S06,SG23,Integrating Industry Foundation Classes and Knowledge Graphs for Automated Deconstruction Planning,2025,0,1
+S12,SG23,Management of Deconstruction of Construction Objects,2020,0,1
+S22,SG23,A Hybrid Genetic Approach for Bi-Level Flexible Job Shops Arising from Selective Deconstruction,2023,0,1
+S38,SG23,“Deconstruction programming for adaptive reuse of buildings”,2019,0,1
+S45,SG23,"Environment-oriented project scheduling for the dismantling of buildings
+Umweltorientierte Projektplanung für die Demontage von Bauwerken",2001,0,1
+S46,SG23,Scheduling of deconstruction projects under resource constraints,2002,1,1
+S49,SG23,BIM uses for deconstruction: an activity-theoretical perspective on reorganising end-of-life practices,2021,0,1
+S50,SG23,Deconstruction project planning of existing buildings based on automated acquisition and reconstruction of building information,2018,3,1
+S09,SG24,The Role of Building Information Modelling (BIM) in Waste Management Deconstruction Plan Via 3D Reconstruction Model,2024,3,1
+S17,SG24,Automating building element detection for deconstruction planning and material reuse: A case study,2023,4,1
+S34,SG24,Information Modelling Management and Green Public Procurement for Waste Management and Environmental Renovation of Brownfields,2021,1,1
+S50,SG24,Deconstruction project planning of existing buildings based on automated acquisition and reconstruction of building information,2018,3,1
+S20,SG24,Developing a Methodological Framework for Adopting Digitalization for Deconstruction Planning,2021,2,1
+S44,SG24,Circularity of building stocks: modelling building joints and their disassembly in a 3D city model,2022,0,1
+S30,SG24,Circularity of Construction Materials: Precedence Between Elements Based on Digital Models for Demolition and Deconstruction,2026,0,1
+S52,SG25,Robot assisted selective disassembly for buildings,2026,0,1
+S54,SG25,Disassembly and Reuse of Demountable Modular Building Systems,2025,1,1
+S03,SG02,Optimizing Disassembly Planning for Aluminium-Framed Windows through Automation and Collision Analysis,2025,0,1
+S03,SG03,Optimizing Disassembly Planning for Aluminium-Framed Windows through Automation and Collision Analysis,2025,0,1
+S03,SG04,Optimizing Disassembly Planning for Aluminium-Framed Windows through Automation and Collision Analysis,2025,0,1
+S03,SG05,Optimizing Disassembly Planning for Aluminium-Framed Windows through Automation and Collision Analysis,2025,0,1
+S03,SG07,Optimizing Disassembly Planning for Aluminium-Framed Windows through Automation and Collision Analysis,2025,0,1
+S03,SG09,Optimizing Disassembly Planning for Aluminium-Framed Windows through Automation and Collision Analysis,2025,0,1
+S03,SG10,Optimizing Disassembly Planning for Aluminium-Framed Windows through Automation and Collision Analysis,2025,2,1
+S03,SG11,Optimizing Disassembly Planning for Aluminium-Framed Windows through Automation and Collision Analysis,2025,1,1
+S03,SG12,Optimizing Disassembly Planning for Aluminium-Framed Windows through Automation and Collision Analysis,2025,0,1
+S03,SG13,Optimizing Disassembly Planning for Aluminium-Framed Windows through Automation and Collision Analysis,2025,0,1
+S03,SG14,Optimizing Disassembly Planning for Aluminium-Framed Windows through Automation and Collision Analysis,2025,0,1
+S03,SG16,Optimizing Disassembly Planning for Aluminium-Framed Windows through Automation and Collision Analysis,2025,0,1
+S03,SG17,Optimizing Disassembly Planning for Aluminium-Framed Windows through Automation and Collision Analysis,2025,0,1
+S03,SG18,Optimizing Disassembly Planning for Aluminium-Framed Windows through Automation and Collision Analysis,2025,0,1
+S03,SG19,Optimizing Disassembly Planning for Aluminium-Framed Windows through Automation and Collision Analysis,2025,0,1
+S03,SG20,Optimizing Disassembly Planning for Aluminium-Framed Windows through Automation and Collision Analysis,2025,0,1
+S03,SG21,Optimizing Disassembly Planning for Aluminium-Framed Windows through Automation and Collision Analysis,2025,0,1
+S03,SG22,Optimizing Disassembly Planning for Aluminium-Framed Windows through Automation and Collision Analysis,2025,0,1
+S03,SG23,Optimizing Disassembly Planning for Aluminium-Framed Windows through Automation and Collision Analysis,2025,0,1
+S03,SG24,Optimizing Disassembly Planning for Aluminium-Framed Windows through Automation and Collision Analysis,2025,0,1
+S03,SG25,Optimizing Disassembly Planning for Aluminium-Framed Windows through Automation and Collision Analysis,2025,0,1
+S04,SG01,A BIM-Based Assessment Method for Reusing Components from Existing Precast Concrete Buildings,2025,1,1
+S04,SG03,A BIM-Based Assessment Method for Reusing Components from Existing Precast Concrete Buildings,2025,0,1
+S04,SG07,A BIM-Based Assessment Method for Reusing Components from Existing Precast Concrete Buildings,2025,0,1
+S04,SG10,A BIM-Based Assessment Method for Reusing Components from Existing Precast Concrete Buildings,2025,0,1
+S04,SG11,A BIM-Based Assessment Method for Reusing Components from Existing Precast Concrete Buildings,2025,0,1
+S04,SG12,A BIM-Based Assessment Method for Reusing Components from Existing Precast Concrete Buildings,2025,0,1
+S04,SG13,A BIM-Based Assessment Method for Reusing Components from Existing Precast Concrete Buildings,2025,0,1
+S04,SG14,A BIM-Based Assessment Method for Reusing Components from Existing Precast Concrete Buildings,2025,0,1
+S04,SG16,A BIM-Based Assessment Method for Reusing Components from Existing Precast Concrete Buildings,2025,0,1
+S04,SG17,A BIM-Based Assessment Method for Reusing Components from Existing Precast Concrete Buildings,2025,0,1
+S04,SG18,A BIM-Based Assessment Method for Reusing Components from Existing Precast Concrete Buildings,2025,0,1
+S04,SG19,A BIM-Based Assessment Method for Reusing Components from Existing Precast Concrete Buildings,2025,0,1
+S04,SG20,A BIM-Based Assessment Method for Reusing Components from Existing Precast Concrete Buildings,2025,0,1
+S04,SG21,A BIM-Based Assessment Method for Reusing Components from Existing Precast Concrete Buildings,2025,0,1
+S04,SG22,A BIM-Based Assessment Method for Reusing Components from Existing Precast Concrete Buildings,2025,0,1
+S04,SG23,A BIM-Based Assessment Method for Reusing Components from Existing Precast Concrete Buildings,2025,0,1
+S04,SG24,A BIM-Based Assessment Method for Reusing Components from Existing Precast Concrete Buildings,2025,0,1
+S04,SG25,A BIM-Based Assessment Method for Reusing Components from Existing Precast Concrete Buildings,2025,0,1
+S05,SG02,Knowledge Graph-based Deconstruction Planning of Building’s Products,2024,0,1
+S05,SG03,Knowledge Graph-based Deconstruction Planning of Building’s Products,2024,0,1
+S05,SG07,Knowledge Graph-based Deconstruction Planning of Building’s Products,2024,0,1
+S05,SG09,Knowledge Graph-based Deconstruction Planning of Building’s Products,2024,2,1
+S05,SG10,Knowledge Graph-based Deconstruction Planning of Building’s Products,2024,0,1
+S05,SG13,Knowledge Graph-based Deconstruction Planning of Building’s Products,2024,0,1
+S05,SG14,Knowledge Graph-based Deconstruction Planning of Building’s Products,2024,0,1
+S05,SG16,Knowledge Graph-based Deconstruction Planning of Building’s Products,2024,0,1
+S05,SG17,Knowledge Graph-based Deconstruction Planning of Building’s Products,2024,0,1
+S05,SG18,Knowledge Graph-based Deconstruction Planning of Building’s Products,2024,0,1
+S05,SG19,Knowledge Graph-based Deconstruction Planning of Building’s Products,2024,0,1
+S05,SG20,Knowledge Graph-based Deconstruction Planning of Building’s Products,2024,0,1
+S05,SG21,Knowledge Graph-based Deconstruction Planning of Building’s Products,2024,0,1
+S05,SG22,Knowledge Graph-based Deconstruction Planning of Building’s Products,2024,0,1
+S05,SG23,Knowledge Graph-based Deconstruction Planning of Building’s Products,2024,0,1
+S05,SG24,Knowledge Graph-based Deconstruction Planning of Building’s Products,2024,0,1
+S05,SG25,Knowledge Graph-based Deconstruction Planning of Building’s Products,2024,0,1
+S06,SG02,Integrating Industry Foundation Classes and Knowledge Graphs for Automated Deconstruction Planning,2025,3,1
+S06,SG07,Integrating Industry Foundation Classes and Knowledge Graphs for Automated Deconstruction Planning,2025,0,1
+S06,SG09,Integrating Industry Foundation Classes and Knowledge Graphs for Automated Deconstruction Planning,2025,3,1
+S06,SG10,Integrating Industry Foundation Classes and Knowledge Graphs for Automated Deconstruction Planning,2025,0,1
+S06,SG13,Integrating Industry Foundation Classes and Knowledge Graphs for Automated Deconstruction Planning,2025,0,1
+S06,SG14,Integrating Industry Foundation Classes and Knowledge Graphs for Automated Deconstruction Planning,2025,0,1
+S06,SG16,Integrating Industry Foundation Classes and Knowledge Graphs for Automated Deconstruction Planning,2025,0,1
+S06,SG17,Integrating Industry Foundation Classes and Knowledge Graphs for Automated Deconstruction Planning,2025,0,1
+S06,SG18,Integrating Industry Foundation Classes and Knowledge Graphs for Automated Deconstruction Planning,2025,0,1
+S06,SG19,Integrating Industry Foundation Classes and Knowledge Graphs for Automated Deconstruction Planning,2025,0,1
+S06,SG20,Integrating Industry Foundation Classes and Knowledge Graphs for Automated Deconstruction Planning,2025,0,1
+S06,SG21,Integrating Industry Foundation Classes and Knowledge Graphs for Automated Deconstruction Planning,2025,0,1
+S06,SG22,Integrating Industry Foundation Classes and Knowledge Graphs for Automated Deconstruction Planning,2025,0,1
+S06,SG24,Integrating Industry Foundation Classes and Knowledge Graphs for Automated Deconstruction Planning,2025,0,1
+S06,SG25,Integrating Industry Foundation Classes and Knowledge Graphs for Automated Deconstruction Planning,2025,0,1
+S07,SG03,IFC-based automated deconstructability analysis with market data integration through knowledge graphs,2026,1,1
+S07,SG06,IFC-based automated deconstructability analysis with market data integration through knowledge graphs,2026,0,1
+S07,SG07,IFC-based automated deconstructability analysis with market data integration through knowledge graphs,2026,0,1
+S07,SG10,IFC-based automated deconstructability analysis with market data integration through knowledge graphs,2026,3,1
+S07,SG13,IFC-based automated deconstructability analysis with market data integration through knowledge graphs,2026,0,1
+S07,SG14,IFC-based automated deconstructability analysis with market data integration through knowledge graphs,2026,0,1
+S07,SG17,IFC-based automated deconstructability analysis with market data integration through knowledge graphs,2026,0,1
+S07,SG18,IFC-based automated deconstructability analysis with market data integration through knowledge graphs,2026,0,1
+S07,SG19,IFC-based automated deconstructability analysis with market data integration through knowledge graphs,2026,0,1
+S07,SG20,IFC-based automated deconstructability analysis with market data integration through knowledge graphs,2026,0,1
+S07,SG21,IFC-based automated deconstructability analysis with market data integration through knowledge graphs,2026,0,1
+S07,SG22,IFC-based automated deconstructability analysis with market data integration through knowledge graphs,2026,0,1
+S07,SG23,IFC-based automated deconstructability analysis with market data integration through knowledge graphs,2026,0,1
+S07,SG24,IFC-based automated deconstructability analysis with market data integration through knowledge graphs,2026,0,1
+S07,SG25,IFC-based automated deconstructability analysis with market data integration through knowledge graphs,2026,0,1
+S08,SG01,The Framework of Green Deconstruction Planning System in Indonesia: Maximizing the Conservation of Construction Resources,2023,0,1
+S08,SG03,The Framework of Green Deconstruction Planning System in Indonesia: Maximizing the Conservation of Construction Resources,2023,0,1
+S08,SG06,The Framework of Green Deconstruction Planning System in Indonesia: Maximizing the Conservation of Construction Resources,2023,0,1
+S08,SG07,The Framework of Green Deconstruction Planning System in Indonesia: Maximizing the Conservation of Construction Resources,2023,0,1
+S08,SG09,The Framework of Green Deconstruction Planning System in Indonesia: Maximizing the Conservation of Construction Resources,2023,2,1
+S08,SG10,The Framework of Green Deconstruction Planning System in Indonesia: Maximizing the Conservation of Construction Resources,2023,0,1
+S08,SG11,The Framework of Green Deconstruction Planning System in Indonesia: Maximizing the Conservation of Construction Resources,2023,0,1
+S08,SG12,The Framework of Green Deconstruction Planning System in Indonesia: Maximizing the Conservation of Construction Resources,2023,2,1
+S08,SG13,The Framework of Green Deconstruction Planning System in Indonesia: Maximizing the Conservation of Construction Resources,2023,0,1
+S08,SG14,The Framework of Green Deconstruction Planning System in Indonesia: Maximizing the Conservation of Construction Resources,2023,0,1
+S08,SG16,The Framework of Green Deconstruction Planning System in Indonesia: Maximizing the Conservation of Construction Resources,2023,0,1
+S08,SG17,The Framework of Green Deconstruction Planning System in Indonesia: Maximizing the Conservation of Construction Resources,2023,0,1
+S08,SG18,The Framework of Green Deconstruction Planning System in Indonesia: Maximizing the Conservation of Construction Resources,2023,0,1
+S08,SG19,The Framework of Green Deconstruction Planning System in Indonesia: Maximizing the Conservation of Construction Resources,2023,0,1
+S08,SG20,The Framework of Green Deconstruction Planning System in Indonesia: Maximizing the Conservation of Construction Resources,2023,2,1
+S08,SG21,The Framework of Green Deconstruction Planning System in Indonesia: Maximizing the Conservation of Construction Resources,2023,0,1
+S08,SG22,The Framework of Green Deconstruction Planning System in Indonesia: Maximizing the Conservation of Construction Resources,2023,0,1
+S08,SG23,The Framework of Green Deconstruction Planning System in Indonesia: Maximizing the Conservation of Construction Resources,2023,0,1
+S08,SG24,The Framework of Green Deconstruction Planning System in Indonesia: Maximizing the Conservation of Construction Resources,2023,0,1
+S08,SG25,The Framework of Green Deconstruction Planning System in Indonesia: Maximizing the Conservation of Construction Resources,2023,0,1
+S09,SG03,The Role of Building Information Modelling (BIM) in Waste Management Deconstruction Plan Via 3D Reconstruction Model,2024,0,1
+S09,SG04,The Role of Building Information Modelling (BIM) in Waste Management Deconstruction Plan Via 3D Reconstruction Model,2024,2,1
+S09,SG06,The Role of Building Information Modelling (BIM) in Waste Management Deconstruction Plan Via 3D Reconstruction Model,2024,0,1
+S09,SG07,The Role of Building Information Modelling (BIM) in Waste Management Deconstruction Plan Via 3D Reconstruction Model,2024,0,1
+S09,SG08,The Role of Building Information Modelling (BIM) in Waste Management Deconstruction Plan Via 3D Reconstruction Model,2024,0,1
+S09,SG09,The Role of Building Information Modelling (BIM) in Waste Management Deconstruction Plan Via 3D Reconstruction Model,2024,0,1
+S09,SG10,The Role of Building Information Modelling (BIM) in Waste Management Deconstruction Plan Via 3D Reconstruction Model,2024,0,1
+S09,SG11,The Role of Building Information Modelling (BIM) in Waste Management Deconstruction Plan Via 3D Reconstruction Model,2024,0,1
+S09,SG12,The Role of Building Information Modelling (BIM) in Waste Management Deconstruction Plan Via 3D Reconstruction Model,2024,3,1
+S09,SG13,The Role of Building Information Modelling (BIM) in Waste Management Deconstruction Plan Via 3D Reconstruction Model,2024,0,1
+S09,SG14,The Role of Building Information Modelling (BIM) in Waste Management Deconstruction Plan Via 3D Reconstruction Model,2024,0,1
+S09,SG16,The Role of Building Information Modelling (BIM) in Waste Management Deconstruction Plan Via 3D Reconstruction Model,2024,0,1
+S09,SG17,The Role of Building Information Modelling (BIM) in Waste Management Deconstruction Plan Via 3D Reconstruction Model,2024,0,1
+S09,SG18,The Role of Building Information Modelling (BIM) in Waste Management Deconstruction Plan Via 3D Reconstruction Model,2024,0,1
+S09,SG19,The Role of Building Information Modelling (BIM) in Waste Management Deconstruction Plan Via 3D Reconstruction Model,2024,0,1
+S09,SG20,The Role of Building Information Modelling (BIM) in Waste Management Deconstruction Plan Via 3D Reconstruction Model,2024,0,1
+S09,SG21,The Role of Building Information Modelling (BIM) in Waste Management Deconstruction Plan Via 3D Reconstruction Model,2024,0,1
+S09,SG22,The Role of Building Information Modelling (BIM) in Waste Management Deconstruction Plan Via 3D Reconstruction Model,2024,0,1
+S09,SG23,The Role of Building Information Modelling (BIM) in Waste Management Deconstruction Plan Via 3D Reconstruction Model,2024,0,1
+S09,SG25,The Role of Building Information Modelling (BIM) in Waste Management Deconstruction Plan Via 3D Reconstruction Model,2024,0,1
+S10,SG02,Feature modeling for configurable and adaptable modular buildings,2022,0,1
+S10,SG03,Feature modeling for configurable and adaptable modular buildings,2022,0,1
+S10,SG04,Feature modeling for configurable and adaptable modular buildings,2022,3,1
+S10,SG05,Feature modeling for configurable and adaptable modular buildings,2022,0,1
+S10,SG09,Feature modeling for configurable and adaptable modular buildings,2022,0,1
+S10,SG10,Feature modeling for configurable and adaptable modular buildings,2022,2,1
+S10,SG12,Feature modeling for configurable and adaptable modular buildings,2022,2,1
+S10,SG13,Feature modeling for configurable and adaptable modular buildings,2022,0,1
+S10,SG14,Feature modeling for configurable and adaptable modular buildings,2022,0,1
+S10,SG16,Feature modeling for configurable and adaptable modular buildings,2022,0,1
+S10,SG17,Feature modeling for configurable and adaptable modular buildings,2022,0,1
+S10,SG18,Feature modeling for configurable and adaptable modular buildings,2022,0,1
+S10,SG19,Feature modeling for configurable and adaptable modular buildings,2022,0,1
+S10,SG20,Feature modeling for configurable and adaptable modular buildings,2022,0,1
+S10,SG21,Feature modeling for configurable and adaptable modular buildings,2022,0,1
+S10,SG23,Feature modeling for configurable and adaptable modular buildings,2022,0,1
+S10,SG24,Feature modeling for configurable and adaptable modular buildings,2022,0,1
+S10,SG25,Feature modeling for configurable and adaptable modular buildings,2022,0,1
+S11,SG01,Bruun et al. - 2022 - Structural rigidity theory applied to the scaffold-free (dis)assembly of space frames using cooperat.pdf,2022,0,1
+S11,SG02,Bruun et al. - 2022 - Structural rigidity theory applied to the scaffold-free (dis)assembly of space frames using cooperat.pdf,2022,0,1
+S11,SG03,Bruun et al. - 2022 - Structural rigidity theory applied to the scaffold-free (dis)assembly of space frames using cooperat.pdf,2022,0,1
+S11,SG04,Bruun et al. - 2022 - Structural rigidity theory applied to the scaffold-free (dis)assembly of space frames using cooperat.pdf,2022,0,1
+S11,SG05,Bruun et al. - 2022 - Structural rigidity theory applied to the scaffold-free (dis)assembly of space frames using cooperat.pdf,2022,3,1
+S11,SG11,Bruun et al. - 2022 - Structural rigidity theory applied to the scaffold-free (dis)assembly of space frames using cooperat.pdf,2022,0,1
+S11,SG12,Bruun et al. - 2022 - Structural rigidity theory applied to the scaffold-free (dis)assembly of space frames using cooperat.pdf,2022,0,1
+S11,SG13,Bruun et al. - 2022 - Structural rigidity theory applied to the scaffold-free (dis)assembly of space frames using cooperat.pdf,2022,0,1
+S11,SG14,Bruun et al. - 2022 - Structural rigidity theory applied to the scaffold-free (dis)assembly of space frames using cooperat.pdf,2022,0,1
+S11,SG15,Bruun et al. - 2022 - Structural rigidity theory applied to the scaffold-free (dis)assembly of space frames using cooperat.pdf,2022,3,1
+S11,SG17,Bruun et al. - 2022 - Structural rigidity theory applied to the scaffold-free (dis)assembly of space frames using cooperat.pdf,2022,1,1
+S11,SG19,Bruun et al. - 2022 - Structural rigidity theory applied to the scaffold-free (dis)assembly of space frames using cooperat.pdf,2022,0,1
+S11,SG20,Bruun et al. - 2022 - Structural rigidity theory applied to the scaffold-free (dis)assembly of space frames using cooperat.pdf,2022,0,1
+S11,SG21,Bruun et al. - 2022 - Structural rigidity theory applied to the scaffold-free (dis)assembly of space frames using cooperat.pdf,2022,0,1
+S11,SG22,Bruun et al. - 2022 - Structural rigidity theory applied to the scaffold-free (dis)assembly of space frames using cooperat.pdf,2022,3,1
+S11,SG23,Bruun et al. - 2022 - Structural rigidity theory applied to the scaffold-free (dis)assembly of space frames using cooperat.pdf,2022,0,1
+S11,SG24,Bruun et al. - 2022 - Structural rigidity theory applied to the scaffold-free (dis)assembly of space frames using cooperat.pdf,2022,0,1
+S11,SG25,Bruun et al. - 2022 - Structural rigidity theory applied to the scaffold-free (dis)assembly of space frames using cooperat.pdf,2022,0,1
+S12,SG01,Management of Deconstruction of Construction Objects,2020,0,1
+S12,SG02,Management of Deconstruction of Construction Objects,2020,0,1
+S12,SG03,Management of Deconstruction of Construction Objects,2020,0,1
+S12,SG04,Management of Deconstruction of Construction Objects,2020,2,1
+S12,SG06,Management of Deconstruction of Construction Objects,2020,0,1
+S12,SG07,Management of Deconstruction of Construction Objects,2020,0,1
+S12,SG10,Management of Deconstruction of Construction Objects,2020,0,1
+S12,SG11,Management of Deconstruction of Construction Objects,2020,0,1
+S12,SG12,Management of Deconstruction of Construction Objects,2020,2,1
+S12,SG13,Management of Deconstruction of Construction Objects,2020,0,1
+S12,SG14,Management of Deconstruction of Construction Objects,2020,0,1
+S12,SG16,Management of Deconstruction of Construction Objects,2020,0,1
+S12,SG17,Management of Deconstruction of Construction Objects,2020,0,1
+S12,SG18,Management of Deconstruction of Construction Objects,2020,0,1
+S12,SG19,Management of Deconstruction of Construction Objects,2020,0,1
+S12,SG20,Management of Deconstruction of Construction Objects,2020,0,1
+S12,SG22,Management of Deconstruction of Construction Objects,2020,0,1
+S12,SG24,Management of Deconstruction of Construction Objects,2020,0,1
+S12,SG25,Management of Deconstruction of Construction Objects,2020,0,1
+S13,SG01,Gamified Virtual Reality for Building Material Reuse Planning,2025,0,1
+S13,SG02,Gamified Virtual Reality for Building Material Reuse Planning,2025,0,1
+S13,SG03,Gamified Virtual Reality for Building Material Reuse Planning,2025,0,1
+S13,SG05,Gamified Virtual Reality for Building Material Reuse Planning,2025,0,1
+S13,SG06,Gamified Virtual Reality for Building Material Reuse Planning,2025,0,1
+S13,SG07,Gamified Virtual Reality for Building Material Reuse Planning,2025,0,1
+S13,SG10,Gamified Virtual Reality for Building Material Reuse Planning,2025,0,1
+S13,SG11,Gamified Virtual Reality for Building Material Reuse Planning,2025,0,1
+S13,SG12,Gamified Virtual Reality for Building Material Reuse Planning,2025,0,1
+S13,SG13,Gamified Virtual Reality for Building Material Reuse Planning,2025,0,1
+S13,SG16,Gamified Virtual Reality for Building Material Reuse Planning,2025,0,1
+S13,SG17,Gamified Virtual Reality for Building Material Reuse Planning,2025,0,1
+S13,SG18,Gamified Virtual Reality for Building Material Reuse Planning,2025,0,1
+S13,SG19,Gamified Virtual Reality for Building Material Reuse Planning,2025,0,1
+S13,SG20,Gamified Virtual Reality for Building Material Reuse Planning,2025,0,1
+S13,SG21,Gamified Virtual Reality for Building Material Reuse Planning,2025,0,1
+S13,SG22,Gamified Virtual Reality for Building Material Reuse Planning,2025,0,1
+S13,SG23,Gamified Virtual Reality for Building Material Reuse Planning,2025,0,1
+S13,SG24,Gamified Virtual Reality for Building Material Reuse Planning,2025,0,1
+S13,SG25,Gamified Virtual Reality for Building Material Reuse Planning,2025,0,1
+S14,SG03,Model-based topological assessment for selective deconstruction: Enhancing quantity recovery and reuse accuracy,2025,0,1
+S14,SG05,Model-based topological assessment for selective deconstruction: Enhancing quantity recovery and reuse accuracy,2025,1,1
+S14,SG06,Model-based topological assessment for selective deconstruction: Enhancing quantity recovery and reuse accuracy,2025,1,1
+S14,SG07,Model-based topological assessment for selective deconstruction: Enhancing quantity recovery and reuse accuracy,2025,0,1
+S14,SG10,Model-based topological assessment for selective deconstruction: Enhancing quantity recovery and reuse accuracy,2025,2,1
+S14,SG11,Model-based topological assessment for selective deconstruction: Enhancing quantity recovery and reuse accuracy,2025,0,1
+S14,SG12,Model-based topological assessment for selective deconstruction: Enhancing quantity recovery and reuse accuracy,2025,0,1
+S14,SG13,Model-based topological assessment for selective deconstruction: Enhancing quantity recovery and reuse accuracy,2025,0,1
+S14,SG14,Model-based topological assessment for selective deconstruction: Enhancing quantity recovery and reuse accuracy,2025,0,1
+S14,SG16,Model-based topological assessment for selective deconstruction: Enhancing quantity recovery and reuse accuracy,2025,0,1
+S14,SG17,Model-based topological assessment for selective deconstruction: Enhancing quantity recovery and reuse accuracy,2025,0,1
+S14,SG18,Model-based topological assessment for selective deconstruction: Enhancing quantity recovery and reuse accuracy,2025,0,1
+S14,SG19,Model-based topological assessment for selective deconstruction: Enhancing quantity recovery and reuse accuracy,2025,0,1
+S14,SG20,Model-based topological assessment for selective deconstruction: Enhancing quantity recovery and reuse accuracy,2025,0,1
+S14,SG21,Model-based topological assessment for selective deconstruction: Enhancing quantity recovery and reuse accuracy,2025,3,1
+S14,SG22,Model-based topological assessment for selective deconstruction: Enhancing quantity recovery and reuse accuracy,2025,0,1
+S14,SG23,Model-based topological assessment for selective deconstruction: Enhancing quantity recovery and reuse accuracy,2025,0,1
+S14,SG24,Model-based topological assessment for selective deconstruction: Enhancing quantity recovery and reuse accuracy,2025,0,1
+S14,SG25,Model-based topological assessment for selective deconstruction: Enhancing quantity recovery and reuse accuracy,2025,0,1
+S15,SG02,Designing for Robotic (Dis-)Assembly,2023,0,1
+S15,SG03,Designing for Robotic (Dis-)Assembly,2023,0,1
+S15,SG04,Designing for Robotic (Dis-)Assembly,2023,0,1
+S15,SG05,Designing for Robotic (Dis-)Assembly,2023,3,1
+S15,SG11,Designing for Robotic (Dis-)Assembly,2023,0,1
+S15,SG12,Designing for Robotic (Dis-)Assembly,2023,0,1
+S15,SG13,Designing for Robotic (Dis-)Assembly,2023,0,1
+S15,SG14,Designing for Robotic (Dis-)Assembly,2023,0,1
+S15,SG16,Designing for Robotic (Dis-)Assembly,2023,0,1
+S15,SG19,Designing for Robotic (Dis-)Assembly,2023,0,1
+S15,SG20,Designing for Robotic (Dis-)Assembly,2023,0,1
+S15,SG21,Designing for Robotic (Dis-)Assembly,2023,0,1
+S15,SG23,Designing for Robotic (Dis-)Assembly,2023,0,1
+S15,SG24,Designing for Robotic (Dis-)Assembly,2023,0,1
+S15,SG25,Designing for Robotic (Dis-)Assembly,2023,0,1
+S16,SG01,On the Integration of Diverging Material Flows into Resource-Constrained Project Scheduling,2022,0,1
+S16,SG02,On the Integration of Diverging Material Flows into Resource-Constrained Project Scheduling,2022,0,1
+S16,SG03,On the Integration of Diverging Material Flows into Resource-Constrained Project Scheduling,2022,0,1
+S16,SG04,On the Integration of Diverging Material Flows into Resource-Constrained Project Scheduling,2022,0,1
+S16,SG06,On the Integration of Diverging Material Flows into Resource-Constrained Project Scheduling,2022,0,1
+S16,SG07,On the Integration of Diverging Material Flows into Resource-Constrained Project Scheduling,2022,0,1
+S16,SG08,On the Integration of Diverging Material Flows into Resource-Constrained Project Scheduling,2022,0,1
+S16,SG09,On the Integration of Diverging Material Flows into Resource-Constrained Project Scheduling,2022,0,1
+S16,SG11,On the Integration of Diverging Material Flows into Resource-Constrained Project Scheduling,2022,0,1
+S16,SG12,On the Integration of Diverging Material Flows into Resource-Constrained Project Scheduling,2022,0,1
+S16,SG13,On the Integration of Diverging Material Flows into Resource-Constrained Project Scheduling,2022,0,1
+S16,SG14,On the Integration of Diverging Material Flows into Resource-Constrained Project Scheduling,2022,0,1
+S16,SG16,On the Integration of Diverging Material Flows into Resource-Constrained Project Scheduling,2022,0,1
+S16,SG17,On the Integration of Diverging Material Flows into Resource-Constrained Project Scheduling,2022,0,1
+S16,SG18,On the Integration of Diverging Material Flows into Resource-Constrained Project Scheduling,2022,0,1
+S16,SG19,On the Integration of Diverging Material Flows into Resource-Constrained Project Scheduling,2022,0,1
+S16,SG20,On the Integration of Diverging Material Flows into Resource-Constrained Project Scheduling,2022,0,1
+S16,SG21,On the Integration of Diverging Material Flows into Resource-Constrained Project Scheduling,2022,0,1
+S16,SG22,On the Integration of Diverging Material Flows into Resource-Constrained Project Scheduling,2022,0,1
+S16,SG23,On the Integration of Diverging Material Flows into Resource-Constrained Project Scheduling,2022,0,1
+S16,SG24,On the Integration of Diverging Material Flows into Resource-Constrained Project Scheduling,2022,0,1
+S16,SG25,On the Integration of Diverging Material Flows into Resource-Constrained Project Scheduling,2022,0,1
+S17,SG03,Automating building element detection for deconstruction planning and material reuse: A case study,2023,0,1
+S17,SG04,Automating building element detection for deconstruction planning and material reuse: A case study,2023,0,1
+S17,SG05,Automating building element detection for deconstruction planning and material reuse: A case study,2023,0,1
+S17,SG06,Automating building element detection for deconstruction planning and material reuse: A case study,2023,1,1
+S17,SG07,Automating building element detection for deconstruction planning and material reuse: A case study,2023,0,1
+S17,SG08,Automating building element detection for deconstruction planning and material reuse: A case study,2023,3,1
+S17,SG09,Automating building element detection for deconstruction planning and material reuse: A case study,2023,0,1
+S17,SG10,Automating building element detection for deconstruction planning and material reuse: A case study,2023,2,1
+S17,SG11,Automating building element detection for deconstruction planning and material reuse: A case study,2023,0,1
+S17,SG12,Automating building element detection for deconstruction planning and material reuse: A case study,2023,0,1
+S17,SG13,Automating building element detection for deconstruction planning and material reuse: A case study,2023,0,1
+S17,SG14,Automating building element detection for deconstruction planning and material reuse: A case study,2023,0,1
+S17,SG16,Automating building element detection for deconstruction planning and material reuse: A case study,2023,0,1
+S17,SG17,Automating building element detection for deconstruction planning and material reuse: A case study,2023,0,1
+S17,SG18,Automating building element detection for deconstruction planning and material reuse: A case study,2023,0,1
+S17,SG19,Automating building element detection for deconstruction planning and material reuse: A case study,2023,0,1
+S17,SG20,Automating building element detection for deconstruction planning and material reuse: A case study,2023,0,1
+S17,SG21,Automating building element detection for deconstruction planning and material reuse: A case study,2023,0,1
+S17,SG22,Automating building element detection for deconstruction planning and material reuse: A case study,2023,0,1
+S17,SG23,Automating building element detection for deconstruction planning and material reuse: A case study,2023,0,1
+S17,SG25,Automating building element detection for deconstruction planning and material reuse: A case study,2023,0,1
+S18,SG02,Design for Circular Disassembly of High-Performance Facade Systems,2025,0,1
+S18,SG03,Design for Circular Disassembly of High-Performance Facade Systems,2025,1,1
+S18,SG06,Design for Circular Disassembly of High-Performance Facade Systems,2025,0,1
+S18,SG07,Design for Circular Disassembly of High-Performance Facade Systems,2025,0,1
+S18,SG09,Design for Circular Disassembly of High-Performance Facade Systems,2025,0,1
+S18,SG10,Design for Circular Disassembly of High-Performance Facade Systems,2025,0,1
+S18,SG12,Design for Circular Disassembly of High-Performance Facade Systems,2025,1,1
+S18,SG13,Design for Circular Disassembly of High-Performance Facade Systems,2025,0,1
+S18,SG14,Design for Circular Disassembly of High-Performance Facade Systems,2025,0,1
+S18,SG16,Design for Circular Disassembly of High-Performance Facade Systems,2025,0,1
+S18,SG17,Design for Circular Disassembly of High-Performance Facade Systems,2025,0,1
+S18,SG18,Design for Circular Disassembly of High-Performance Facade Systems,2025,0,1
+S18,SG19,Design for Circular Disassembly of High-Performance Facade Systems,2025,0,1
+S18,SG20,Design for Circular Disassembly of High-Performance Facade Systems,2025,0,1
+S18,SG21,Design for Circular Disassembly of High-Performance Facade Systems,2025,3,1
+S18,SG23,Design for Circular Disassembly of High-Performance Facade Systems,2025,0,1
+S18,SG24,Design for Circular Disassembly of High-Performance Facade Systems,2025,0,1
+S18,SG25,Design for Circular Disassembly of High-Performance Facade Systems,2025,0,1
+S19,SG03,"Linking Design, Deconstruction and Characterization: A Digital Ecosystem for Sustainable Reuse of Cast-in-Place Concrete Elements",2026,2,1
+S19,SG04,"Linking Design, Deconstruction and Characterization: A Digital Ecosystem for Sustainable Reuse of Cast-in-Place Concrete Elements",2026,2,1
+S19,SG06,"Linking Design, Deconstruction and Characterization: A Digital Ecosystem for Sustainable Reuse of Cast-in-Place Concrete Elements",2026,1,1
+S19,SG07,"Linking Design, Deconstruction and Characterization: A Digital Ecosystem for Sustainable Reuse of Cast-in-Place Concrete Elements",2026,0,1
+S19,SG09,"Linking Design, Deconstruction and Characterization: A Digital Ecosystem for Sustainable Reuse of Cast-in-Place Concrete Elements",2026,0,1
+S19,SG10,"Linking Design, Deconstruction and Characterization: A Digital Ecosystem for Sustainable Reuse of Cast-in-Place Concrete Elements",2026,0,1
+S19,SG11,"Linking Design, Deconstruction and Characterization: A Digital Ecosystem for Sustainable Reuse of Cast-in-Place Concrete Elements",2026,2,1
+S19,SG13,"Linking Design, Deconstruction and Characterization: A Digital Ecosystem for Sustainable Reuse of Cast-in-Place Concrete Elements",2026,0,1
+S19,SG14,"Linking Design, Deconstruction and Characterization: A Digital Ecosystem for Sustainable Reuse of Cast-in-Place Concrete Elements",2026,0,1
+S19,SG17,"Linking Design, Deconstruction and Characterization: A Digital Ecosystem for Sustainable Reuse of Cast-in-Place Concrete Elements",2026,0,1
+S19,SG18,"Linking Design, Deconstruction and Characterization: A Digital Ecosystem for Sustainable Reuse of Cast-in-Place Concrete Elements",2026,0,1
+S19,SG19,"Linking Design, Deconstruction and Characterization: A Digital Ecosystem for Sustainable Reuse of Cast-in-Place Concrete Elements",2026,0,1
+S19,SG20,"Linking Design, Deconstruction and Characterization: A Digital Ecosystem for Sustainable Reuse of Cast-in-Place Concrete Elements",2026,2,1
+S19,SG21,"Linking Design, Deconstruction and Characterization: A Digital Ecosystem for Sustainable Reuse of Cast-in-Place Concrete Elements",2026,0,1
+S19,SG22,"Linking Design, Deconstruction and Characterization: A Digital Ecosystem for Sustainable Reuse of Cast-in-Place Concrete Elements",2026,0,1
+S19,SG23,"Linking Design, Deconstruction and Characterization: A Digital Ecosystem for Sustainable Reuse of Cast-in-Place Concrete Elements",2026,1,1
+S19,SG24,"Linking Design, Deconstruction and Characterization: A Digital Ecosystem for Sustainable Reuse of Cast-in-Place Concrete Elements",2026,0,1
+S19,SG25,"Linking Design, Deconstruction and Characterization: A Digital Ecosystem for Sustainable Reuse of Cast-in-Place Concrete Elements",2026,0,1
+S23,SG02,Ontology for a Knowledge-Based Deconstruction of Buildings Based on BIM Models and Linked Data Principles,2025,1,1
+S23,SG03,Ontology for a Knowledge-Based Deconstruction of Buildings Based on BIM Models and Linked Data Principles,2025,0,1
+S23,SG04,Ontology for a Knowledge-Based Deconstruction of Buildings Based on BIM Models and Linked Data Principles,2025,2,1
+S23,SG06,Ontology for a Knowledge-Based Deconstruction of Buildings Based on BIM Models and Linked Data Principles,2025,0,1
+S23,SG07,Ontology for a Knowledge-Based Deconstruction of Buildings Based on BIM Models and Linked Data Principles,2025,0,1
+S23,SG09,Ontology for a Knowledge-Based Deconstruction of Buildings Based on BIM Models and Linked Data Principles,2025,2,1
+S23,SG10,Ontology for a Knowledge-Based Deconstruction of Buildings Based on BIM Models and Linked Data Principles,2025,0,1
+S23,SG14,Ontology for a Knowledge-Based Deconstruction of Buildings Based on BIM Models and Linked Data Principles,2025,0,1
+S23,SG16,Ontology for a Knowledge-Based Deconstruction of Buildings Based on BIM Models and Linked Data Principles,2025,1,1
+S23,SG17,Ontology for a Knowledge-Based Deconstruction of Buildings Based on BIM Models and Linked Data Principles,2025,0,1
+S23,SG18,Ontology for a Knowledge-Based Deconstruction of Buildings Based on BIM Models and Linked Data Principles,2025,0,1
+S23,SG19,Ontology for a Knowledge-Based Deconstruction of Buildings Based on BIM Models and Linked Data Principles,2025,0,1
+S23,SG20,Ontology for a Knowledge-Based Deconstruction of Buildings Based on BIM Models and Linked Data Principles,2025,0,1
+S23,SG21,Ontology for a Knowledge-Based Deconstruction of Buildings Based on BIM Models and Linked Data Principles,2025,2,1
+S23,SG22,Ontology for a Knowledge-Based Deconstruction of Buildings Based on BIM Models and Linked Data Principles,2025,0,1
+S23,SG23,Ontology for a Knowledge-Based Deconstruction of Buildings Based on BIM Models and Linked Data Principles,2025,0,1
+S23,SG24,Ontology for a Knowledge-Based Deconstruction of Buildings Based on BIM Models and Linked Data Principles,2025,0,1
+S23,SG25,Ontology for a Knowledge-Based Deconstruction of Buildings Based on BIM Models and Linked Data Principles,2025,0,1
+S20,SG03,Developing a Methodological Framework for Adopting Digitalization for Deconstruction Planning,2021,2,1
+S20,SG06,Developing a Methodological Framework for Adopting Digitalization for Deconstruction Planning,2021,1,1
+S20,SG07,Developing a Methodological Framework for Adopting Digitalization for Deconstruction Planning,2021,0,1
+S20,SG08,Developing a Methodological Framework for Adopting Digitalization for Deconstruction Planning,2021,0,1
+S20,SG09,Developing a Methodological Framework for Adopting Digitalization for Deconstruction Planning,2021,0,1
+S20,SG10,Developing a Methodological Framework for Adopting Digitalization for Deconstruction Planning,2021,0,1
+S20,SG13,Developing a Methodological Framework for Adopting Digitalization for Deconstruction Planning,2021,0,1
+S20,SG14,Developing a Methodological Framework for Adopting Digitalization for Deconstruction Planning,2021,2,1
+S20,SG16,Developing a Methodological Framework for Adopting Digitalization for Deconstruction Planning,2021,1,1
+S20,SG17,Developing a Methodological Framework for Adopting Digitalization for Deconstruction Planning,2021,0,1
+S20,SG18,Developing a Methodological Framework for Adopting Digitalization for Deconstruction Planning,2021,0,1
+S20,SG19,Developing a Methodological Framework for Adopting Digitalization for Deconstruction Planning,2021,0,1
+S20,SG20,Developing a Methodological Framework for Adopting Digitalization for Deconstruction Planning,2021,2,1
+S20,SG21,Developing a Methodological Framework for Adopting Digitalization for Deconstruction Planning,2021,0,1
+S20,SG22,Developing a Methodological Framework for Adopting Digitalization for Deconstruction Planning,2021,0,1
+S20,SG23,Developing a Methodological Framework for Adopting Digitalization for Deconstruction Planning,2021,0,1
+S20,SG25,Developing a Methodological Framework for Adopting Digitalization for Deconstruction Planning,2021,0,1
+S21,SG01,Towards Hybridization of Multi-Agent Simulation and Metaheuristics Applied to Selective Deconstruction,2022,0,1
+S21,SG02,Towards Hybridization of Multi-Agent Simulation and Metaheuristics Applied to Selective Deconstruction,2022,0,1
+S21,SG03,Towards Hybridization of Multi-Agent Simulation and Metaheuristics Applied to Selective Deconstruction,2022,0,1
+S21,SG04,Towards Hybridization of Multi-Agent Simulation and Metaheuristics Applied to Selective Deconstruction,2022,3,1
+S21,SG06,Towards Hybridization of Multi-Agent Simulation and Metaheuristics Applied to Selective Deconstruction,2022,0,1
+S21,SG07,Towards Hybridization of Multi-Agent Simulation and Metaheuristics Applied to Selective Deconstruction,2022,0,1
+S21,SG08,Towards Hybridization of Multi-Agent Simulation and Metaheuristics Applied to Selective Deconstruction,2022,0,1
+S21,SG11,Towards Hybridization of Multi-Agent Simulation and Metaheuristics Applied to Selective Deconstruction,2022,0,1
+S21,SG12,Towards Hybridization of Multi-Agent Simulation and Metaheuristics Applied to Selective Deconstruction,2022,0,1
+S21,SG13,Towards Hybridization of Multi-Agent Simulation and Metaheuristics Applied to Selective Deconstruction,2022,0,1
+S21,SG14,Towards Hybridization of Multi-Agent Simulation and Metaheuristics Applied to Selective Deconstruction,2022,0,1
+S21,SG16,Towards Hybridization of Multi-Agent Simulation and Metaheuristics Applied to Selective Deconstruction,2022,0,1
+S21,SG17,Towards Hybridization of Multi-Agent Simulation and Metaheuristics Applied to Selective Deconstruction,2022,0,1
+S21,SG18,Towards Hybridization of Multi-Agent Simulation and Metaheuristics Applied to Selective Deconstruction,2022,0,1
+S21,SG19,Towards Hybridization of Multi-Agent Simulation and Metaheuristics Applied to Selective Deconstruction,2022,0,1
+S21,SG20,Towards Hybridization of Multi-Agent Simulation and Metaheuristics Applied to Selective Deconstruction,2022,0,1
+S21,SG21,Towards Hybridization of Multi-Agent Simulation and Metaheuristics Applied to Selective Deconstruction,2022,0,1
+S21,SG22,Towards Hybridization of Multi-Agent Simulation and Metaheuristics Applied to Selective Deconstruction,2022,0,1
+S21,SG23,Towards Hybridization of Multi-Agent Simulation and Metaheuristics Applied to Selective Deconstruction,2022,1,1
+S21,SG24,Towards Hybridization of Multi-Agent Simulation and Metaheuristics Applied to Selective Deconstruction,2022,0,1
+S21,SG25,Towards Hybridization of Multi-Agent Simulation and Metaheuristics Applied to Selective Deconstruction,2022,0,1
+S22,SG01,A Hybrid Genetic Approach for Bi-Level Flexible Job Shops Arising from Selective Deconstruction,2023,0,1
+S22,SG02,A Hybrid Genetic Approach for Bi-Level Flexible Job Shops Arising from Selective Deconstruction,2023,0,1
+S22,SG03,A Hybrid Genetic Approach for Bi-Level Flexible Job Shops Arising from Selective Deconstruction,2023,0,1
+S22,SG04,A Hybrid Genetic Approach for Bi-Level Flexible Job Shops Arising from Selective Deconstruction,2023,3,1
+S22,SG07,A Hybrid Genetic Approach for Bi-Level Flexible Job Shops Arising from Selective Deconstruction,2023,0,1
+S22,SG09,A Hybrid Genetic Approach for Bi-Level Flexible Job Shops Arising from Selective Deconstruction,2023,0,1
+S22,SG11,A Hybrid Genetic Approach for Bi-Level Flexible Job Shops Arising from Selective Deconstruction,2023,0,1
+S22,SG12,A Hybrid Genetic Approach for Bi-Level Flexible Job Shops Arising from Selective Deconstruction,2023,0,1
+S22,SG13,A Hybrid Genetic Approach for Bi-Level Flexible Job Shops Arising from Selective Deconstruction,2023,0,1
+S22,SG14,A Hybrid Genetic Approach for Bi-Level Flexible Job Shops Arising from Selective Deconstruction,2023,0,1
+S22,SG16,A Hybrid Genetic Approach for Bi-Level Flexible Job Shops Arising from Selective Deconstruction,2023,0,1
+S22,SG17,A Hybrid Genetic Approach for Bi-Level Flexible Job Shops Arising from Selective Deconstruction,2023,0,1
+S22,SG18,A Hybrid Genetic Approach for Bi-Level Flexible Job Shops Arising from Selective Deconstruction,2023,0,1
+S22,SG19,A Hybrid Genetic Approach for Bi-Level Flexible Job Shops Arising from Selective Deconstruction,2023,0,1
+S22,SG20,A Hybrid Genetic Approach for Bi-Level Flexible Job Shops Arising from Selective Deconstruction,2023,0,1
+S22,SG21,A Hybrid Genetic Approach for Bi-Level Flexible Job Shops Arising from Selective Deconstruction,2023,0,1
+S22,SG22,A Hybrid Genetic Approach for Bi-Level Flexible Job Shops Arising from Selective Deconstruction,2023,0,1
+S22,SG24,A Hybrid Genetic Approach for Bi-Level Flexible Job Shops Arising from Selective Deconstruction,2023,0,1
+S22,SG25,A Hybrid Genetic Approach for Bi-Level Flexible Job Shops Arising from Selective Deconstruction,2023,0,1
+S24,SG01,Multi-Robotic System for Welded Steel Disassembly,2025,3,1
+S24,SG02,Multi-Robotic System for Welded Steel Disassembly,2025,0,1
+S24,SG03,Multi-Robotic System for Welded Steel Disassembly,2025,4,1
+S24,SG04,Multi-Robotic System for Welded Steel Disassembly,2025,0,1
+S24,SG05,Multi-Robotic System for Welded Steel Disassembly,2025,3,1
+S24,SG06,Multi-Robotic System for Welded Steel Disassembly,2025,1,1
+S24,SG08,Multi-Robotic System for Welded Steel Disassembly,2025,0,1
+S24,SG09,Multi-Robotic System for Welded Steel Disassembly,2025,0,1
+S24,SG10,Multi-Robotic System for Welded Steel Disassembly,2025,0,1
+S24,SG11,Multi-Robotic System for Welded Steel Disassembly,2025,0,1
+S24,SG12,Multi-Robotic System for Welded Steel Disassembly,2025,0,1
+S24,SG13,Multi-Robotic System for Welded Steel Disassembly,2025,0,1
+S24,SG14,Multi-Robotic System for Welded Steel Disassembly,2025,0,1
+S24,SG15,Multi-Robotic System for Welded Steel Disassembly,2025,4,1
+S24,SG16,Multi-Robotic System for Welded Steel Disassembly,2025,4,1
+S24,SG19,Multi-Robotic System for Welded Steel Disassembly,2025,0,1
+S24,SG20,Multi-Robotic System for Welded Steel Disassembly,2025,0,1
+S24,SG21,Multi-Robotic System for Welded Steel Disassembly,2025,0,1
+S24,SG22,Multi-Robotic System for Welded Steel Disassembly,2025,0,1
+S24,SG23,Multi-Robotic System for Welded Steel Disassembly,2025,0,1
+S24,SG24,Multi-Robotic System for Welded Steel Disassembly,2025,3,1
+S24,SG25,Multi-Robotic System for Welded Steel Disassembly,2025,0,1
+S25,SG02,Automatically Transforming Virtual Reality Simulations into Project Schedules,2026,0,1
+S25,SG04,Automatically Transforming Virtual Reality Simulations into Project Schedules,2026,3,1
+S25,SG06,Automatically Transforming Virtual Reality Simulations into Project Schedules,2026,1,1
+S25,SG07,Automatically Transforming Virtual Reality Simulations into Project Schedules,2026,0,1
+S25,SG09,Automatically Transforming Virtual Reality Simulations into Project Schedules,2026,0,1
+S25,SG10,Automatically Transforming Virtual Reality Simulations into Project Schedules,2026,0,1
+S25,SG11,Automatically Transforming Virtual Reality Simulations into Project Schedules,2026,3,1
+S25,SG13,Automatically Transforming Virtual Reality Simulations into Project Schedules,2026,0,1
+S25,SG14,Automatically Transforming Virtual Reality Simulations into Project Schedules,2026,3,1
+S25,SG16,Automatically Transforming Virtual Reality Simulations into Project Schedules,2026,1,1
+S25,SG17,Automatically Transforming Virtual Reality Simulations into Project Schedules,2026,0,1
+S25,SG18,Automatically Transforming Virtual Reality Simulations into Project Schedules,2026,0,1
+S25,SG19,Automatically Transforming Virtual Reality Simulations into Project Schedules,2026,0,1
+S25,SG20,Automatically Transforming Virtual Reality Simulations into Project Schedules,2026,0,1
+S25,SG21,Automatically Transforming Virtual Reality Simulations into Project Schedules,2026,3,1
+S25,SG22,Automatically Transforming Virtual Reality Simulations into Project Schedules,2026,0,1
+S25,SG23,Automatically Transforming Virtual Reality Simulations into Project Schedules,2026,0,1
+S25,SG24,Automatically Transforming Virtual Reality Simulations into Project Schedules,2026,0,1
+S25,SG25,Automatically Transforming Virtual Reality Simulations into Project Schedules,2026,0,1
+S26,SG02,BIM-Driven Robotic Disassembly for Resource Recovery in End-of-Life Buildings,2025,0,1
+S26,SG03,BIM-Driven Robotic Disassembly for Resource Recovery in End-of-Life Buildings,2025,0,1
+S26,SG04,BIM-Driven Robotic Disassembly for Resource Recovery in End-of-Life Buildings,2025,0,1
+S26,SG06,BIM-Driven Robotic Disassembly for Resource Recovery in End-of-Life Buildings,2025,1,1
+S26,SG09,BIM-Driven Robotic Disassembly for Resource Recovery in End-of-Life Buildings,2025,0,1
+S26,SG10,BIM-Driven Robotic Disassembly for Resource Recovery in End-of-Life Buildings,2025,0,1
+S26,SG13,BIM-Driven Robotic Disassembly for Resource Recovery in End-of-Life Buildings,2025,0,1
+S26,SG14,BIM-Driven Robotic Disassembly for Resource Recovery in End-of-Life Buildings,2025,0,1
+S26,SG16,BIM-Driven Robotic Disassembly for Resource Recovery in End-of-Life Buildings,2025,0,1
+S26,SG18,BIM-Driven Robotic Disassembly for Resource Recovery in End-of-Life Buildings,2025,0,1
+S26,SG19,BIM-Driven Robotic Disassembly for Resource Recovery in End-of-Life Buildings,2025,0,1
+S26,SG20,BIM-Driven Robotic Disassembly for Resource Recovery in End-of-Life Buildings,2025,0,1
+S26,SG21,BIM-Driven Robotic Disassembly for Resource Recovery in End-of-Life Buildings,2025,0,1
+S26,SG22,BIM-Driven Robotic Disassembly for Resource Recovery in End-of-Life Buildings,2025,0,1
+S26,SG23,BIM-Driven Robotic Disassembly for Resource Recovery in End-of-Life Buildings,2025,0,1
+S26,SG24,BIM-Driven Robotic Disassembly for Resource Recovery in End-of-Life Buildings,2025,0,1
+S26,SG25,BIM-Driven Robotic Disassembly for Resource Recovery in End-of-Life Buildings,2025,0,1
+S27,SG02,Design for Reconfigurability in Digital Timber Construction: A voxel-based approach for light-frame assemblies,2026,0,1
+S27,SG03,Design for Reconfigurability in Digital Timber Construction: A voxel-based approach for light-frame assemblies,2026,0,1
+S27,SG04,Design for Reconfigurability in Digital Timber Construction: A voxel-based approach for light-frame assemblies,2026,1,1
+S27,SG05,Design for Reconfigurability in Digital Timber Construction: A voxel-based approach for light-frame assemblies,2026,3,1
+S27,SG06,Design for Reconfigurability in Digital Timber Construction: A voxel-based approach for light-frame assemblies,2026,1,1
+S27,SG11,Design for Reconfigurability in Digital Timber Construction: A voxel-based approach for light-frame assemblies,2026,0,1
+S27,SG12,Design for Reconfigurability in Digital Timber Construction: A voxel-based approach for light-frame assemblies,2026,3,1
+S27,SG13,Design for Reconfigurability in Digital Timber Construction: A voxel-based approach for light-frame assemblies,2026,0,1
+S27,SG14,Design for Reconfigurability in Digital Timber Construction: A voxel-based approach for light-frame assemblies,2026,0,1
+S27,SG15,Design for Reconfigurability in Digital Timber Construction: A voxel-based approach for light-frame assemblies,2026,3,1
+S27,SG16,Design for Reconfigurability in Digital Timber Construction: A voxel-based approach for light-frame assemblies,2026,1,1
+S27,SG17,Design for Reconfigurability in Digital Timber Construction: A voxel-based approach for light-frame assemblies,2026,0,1
+S27,SG18,Design for Reconfigurability in Digital Timber Construction: A voxel-based approach for light-frame assemblies,2026,3,1
+S27,SG20,Design for Reconfigurability in Digital Timber Construction: A voxel-based approach for light-frame assemblies,2026,0,1
+S27,SG21,Design for Reconfigurability in Digital Timber Construction: A voxel-based approach for light-frame assemblies,2026,0,1
+S27,SG23,Design for Reconfigurability in Digital Timber Construction: A voxel-based approach for light-frame assemblies,2026,0,1
+S27,SG24,Design for Reconfigurability in Digital Timber Construction: A voxel-based approach for light-frame assemblies,2026,0,1
+S27,SG25,Design for Reconfigurability in Digital Timber Construction: A voxel-based approach for light-frame assemblies,2026,0,1
+S28,SG01,A Hybrid Method for Optimizing Selective Disassembly Sequence Planning in Adaptive Reuse of Buildings,2022,0,1
+S28,SG02,A Hybrid Method for Optimizing Selective Disassembly Sequence Planning in Adaptive Reuse of Buildings,2022,0,1
+S28,SG03,A Hybrid Method for Optimizing Selective Disassembly Sequence Planning in Adaptive Reuse of Buildings,2022,0,1
+S28,SG06,A Hybrid Method for Optimizing Selective Disassembly Sequence Planning in Adaptive Reuse of Buildings,2022,0,1
+S28,SG07,A Hybrid Method for Optimizing Selective Disassembly Sequence Planning in Adaptive Reuse of Buildings,2022,0,1
+S28,SG09,A Hybrid Method for Optimizing Selective Disassembly Sequence Planning in Adaptive Reuse of Buildings,2022,3,1
+S28,SG11,A Hybrid Method for Optimizing Selective Disassembly Sequence Planning in Adaptive Reuse of Buildings,2022,0,1
+S28,SG12,A Hybrid Method for Optimizing Selective Disassembly Sequence Planning in Adaptive Reuse of Buildings,2022,0,1
+S28,SG13,A Hybrid Method for Optimizing Selective Disassembly Sequence Planning in Adaptive Reuse of Buildings,2022,0,1
+S28,SG14,A Hybrid Method for Optimizing Selective Disassembly Sequence Planning in Adaptive Reuse of Buildings,2022,0,1
+S28,SG16,A Hybrid Method for Optimizing Selective Disassembly Sequence Planning in Adaptive Reuse of Buildings,2022,0,1
+S28,SG17,A Hybrid Method for Optimizing Selective Disassembly Sequence Planning in Adaptive Reuse of Buildings,2022,0,1
+S28,SG18,A Hybrid Method for Optimizing Selective Disassembly Sequence Planning in Adaptive Reuse of Buildings,2022,3,1
+S28,SG19,A Hybrid Method for Optimizing Selective Disassembly Sequence Planning in Adaptive Reuse of Buildings,2022,0,1
+S28,SG20,A Hybrid Method for Optimizing Selective Disassembly Sequence Planning in Adaptive Reuse of Buildings,2022,0,1
+S28,SG21,A Hybrid Method for Optimizing Selective Disassembly Sequence Planning in Adaptive Reuse of Buildings,2022,0,1
+S28,SG22,A Hybrid Method for Optimizing Selective Disassembly Sequence Planning in Adaptive Reuse of Buildings,2022,0,1
+S28,SG23,A Hybrid Method for Optimizing Selective Disassembly Sequence Planning in Adaptive Reuse of Buildings,2022,0,1
+S28,SG24,A Hybrid Method for Optimizing Selective Disassembly Sequence Planning in Adaptive Reuse of Buildings,2022,0,1
+S28,SG25,A Hybrid Method for Optimizing Selective Disassembly Sequence Planning in Adaptive Reuse of Buildings,2022,0,1
+S29,SG02,Integrating Complete Disassembly Planning with Deconstructability Assessment to Facilitate Designing Deconstructable Buildings,2024,0,1
+S29,SG03,Integrating Complete Disassembly Planning with Deconstructability Assessment to Facilitate Designing Deconstructable Buildings,2024,0,1
+S29,SG07,Integrating Complete Disassembly Planning with Deconstructability Assessment to Facilitate Designing Deconstructable Buildings,2024,0,1
+S29,SG11,Integrating Complete Disassembly Planning with Deconstructability Assessment to Facilitate Designing Deconstructable Buildings,2024,0,1
+S29,SG12,Integrating Complete Disassembly Planning with Deconstructability Assessment to Facilitate Designing Deconstructable Buildings,2024,0,1
+S29,SG13,Integrating Complete Disassembly Planning with Deconstructability Assessment to Facilitate Designing Deconstructable Buildings,2024,0,1
+S29,SG14,Integrating Complete Disassembly Planning with Deconstructability Assessment to Facilitate Designing Deconstructable Buildings,2024,0,1
+S29,SG16,Integrating Complete Disassembly Planning with Deconstructability Assessment to Facilitate Designing Deconstructable Buildings,2024,0,1
+S29,SG17,Integrating Complete Disassembly Planning with Deconstructability Assessment to Facilitate Designing Deconstructable Buildings,2024,0,1
+S29,SG18,Integrating Complete Disassembly Planning with Deconstructability Assessment to Facilitate Designing Deconstructable Buildings,2024,3,1
+S29,SG19,Integrating Complete Disassembly Planning with Deconstructability Assessment to Facilitate Designing Deconstructable Buildings,2024,0,1
+S29,SG20,Integrating Complete Disassembly Planning with Deconstructability Assessment to Facilitate Designing Deconstructable Buildings,2024,0,1
+S29,SG21,Integrating Complete Disassembly Planning with Deconstructability Assessment to Facilitate Designing Deconstructable Buildings,2024,0,1
+S29,SG22,Integrating Complete Disassembly Planning with Deconstructability Assessment to Facilitate Designing Deconstructable Buildings,2024,0,1
+S29,SG23,Integrating Complete Disassembly Planning with Deconstructability Assessment to Facilitate Designing Deconstructable Buildings,2024,0,1
+S29,SG24,Integrating Complete Disassembly Planning with Deconstructability Assessment to Facilitate Designing Deconstructable Buildings,2024,0,1
+S29,SG25,Integrating Complete Disassembly Planning with Deconstructability Assessment to Facilitate Designing Deconstructable Buildings,2024,0,1
+S30,SG02,Circularity of Construction Materials: Precedence Between Elements Based on Digital Models for Demolition and Deconstruction,2026,1,1
+S30,SG03,Circularity of Construction Materials: Precedence Between Elements Based on Digital Models for Demolition and Deconstruction,2026,0,1
+S30,SG05,Circularity of Construction Materials: Precedence Between Elements Based on Digital Models for Demolition and Deconstruction,2026,2,1
+S30,SG07,Circularity of Construction Materials: Precedence Between Elements Based on Digital Models for Demolition and Deconstruction,2026,0,1
+S30,SG10,Circularity of Construction Materials: Precedence Between Elements Based on Digital Models for Demolition and Deconstruction,2026,0,1
+S30,SG11,Circularity of Construction Materials: Precedence Between Elements Based on Digital Models for Demolition and Deconstruction,2026,0,1
+S30,SG13,Circularity of Construction Materials: Precedence Between Elements Based on Digital Models for Demolition and Deconstruction,2026,0,1
+S30,SG14,Circularity of Construction Materials: Precedence Between Elements Based on Digital Models for Demolition and Deconstruction,2026,0,1
+S30,SG16,Circularity of Construction Materials: Precedence Between Elements Based on Digital Models for Demolition and Deconstruction,2026,0,1
+S30,SG17,Circularity of Construction Materials: Precedence Between Elements Based on Digital Models for Demolition and Deconstruction,2026,0,1
+S30,SG18,Circularity of Construction Materials: Precedence Between Elements Based on Digital Models for Demolition and Deconstruction,2026,0,1
+S30,SG19,Circularity of Construction Materials: Precedence Between Elements Based on Digital Models for Demolition and Deconstruction,2026,0,1
+S30,SG20,Circularity of Construction Materials: Precedence Between Elements Based on Digital Models for Demolition and Deconstruction,2026,0,1
+S30,SG21,Circularity of Construction Materials: Precedence Between Elements Based on Digital Models for Demolition and Deconstruction,2026,0,1
+S30,SG22,Circularity of Construction Materials: Precedence Between Elements Based on Digital Models for Demolition and Deconstruction,2026,0,1
+S30,SG23,Circularity of Construction Materials: Precedence Between Elements Based on Digital Models for Demolition and Deconstruction,2026,0,1
+S30,SG25,Circularity of Construction Materials: Precedence Between Elements Based on Digital Models for Demolition and Deconstruction,2026,0,1
+S31,SG02,Design for Deconstruction Using Integrated Lean Principles and BIM Approach,2021,1,1
+S31,SG03,Design for Deconstruction Using Integrated Lean Principles and BIM Approach,2021,0,1
+S31,SG06,Design for Deconstruction Using Integrated Lean Principles and BIM Approach,2021,1,1
+S31,SG07,Design for Deconstruction Using Integrated Lean Principles and BIM Approach,2021,0,1
+S31,SG09,Design for Deconstruction Using Integrated Lean Principles and BIM Approach,2021,0,1
+S31,SG10,Design for Deconstruction Using Integrated Lean Principles and BIM Approach,2021,0,1
+S31,SG11,Design for Deconstruction Using Integrated Lean Principles and BIM Approach,2021,0,1
+S31,SG13,Design for Deconstruction Using Integrated Lean Principles and BIM Approach,2021,0,1
+S31,SG14,Design for Deconstruction Using Integrated Lean Principles and BIM Approach,2021,0,1
+S31,SG16,Design for Deconstruction Using Integrated Lean Principles and BIM Approach,2021,1,1
+S31,SG17,Design for Deconstruction Using Integrated Lean Principles and BIM Approach,2021,0,1
+S31,SG18,Design for Deconstruction Using Integrated Lean Principles and BIM Approach,2021,0,1
+S31,SG19,Design for Deconstruction Using Integrated Lean Principles and BIM Approach,2021,0,1
+S31,SG20,Design for Deconstruction Using Integrated Lean Principles and BIM Approach,2021,0,1
+S31,SG21,Design for Deconstruction Using Integrated Lean Principles and BIM Approach,2021,0,1
+S31,SG22,Design for Deconstruction Using Integrated Lean Principles and BIM Approach,2021,0,1
+S31,SG23,Design for Deconstruction Using Integrated Lean Principles and BIM Approach,2021,0,1
+S31,SG24,Design for Deconstruction Using Integrated Lean Principles and BIM Approach,2021,0,1
+S31,SG25,Design for Deconstruction Using Integrated Lean Principles and BIM Approach,2021,0,1
+S32,SG02,Estimating the recoverable value of in-situ building materials,2023,1,1
+S32,SG03,Estimating the recoverable value of in-situ building materials,2023,1,1
+S32,SG05,Estimating the recoverable value of in-situ building materials,2023,1,1
+S32,SG07,Estimating the recoverable value of in-situ building materials,2023,0,1
+S32,SG09,Estimating the recoverable value of in-situ building materials,2023,0,1
+S32,SG10,Estimating the recoverable value of in-situ building materials,2023,0,1
+S32,SG11,Estimating the recoverable value of in-situ building materials,2023,0,1
+S32,SG12,Estimating the recoverable value of in-situ building materials,2023,0,1
+S32,SG13,Estimating the recoverable value of in-situ building materials,2023,0,1
+S32,SG14,Estimating the recoverable value of in-situ building materials,2023,0,1
+S32,SG16,Estimating the recoverable value of in-situ building materials,2023,1,1
+S32,SG17,Estimating the recoverable value of in-situ building materials,2023,0,1
+S32,SG18,Estimating the recoverable value of in-situ building materials,2023,0,1
+S32,SG19,Estimating the recoverable value of in-situ building materials,2023,0,1
+S32,SG20,Estimating the recoverable value of in-situ building materials,2023,0,1
+S32,SG22,Estimating the recoverable value of in-situ building materials,2023,0,1
+S32,SG23,Estimating the recoverable value of in-situ building materials,2023,3,1
+S32,SG24,Estimating the recoverable value of in-situ building materials,2023,0,1
+S32,SG25,Estimating the recoverable value of in-situ building materials,2023,0,1
+S33,SG02,Automated robotic deconstruction sequence planning from scan-to-BIM data for reinforced concrete structure reuse,2025,3,1
+S33,SG03,Automated robotic deconstruction sequence planning from scan-to-BIM data for reinforced concrete structure reuse,2025,0,1
+S33,SG04,Automated robotic deconstruction sequence planning from scan-to-BIM data for reinforced concrete structure reuse,2025,3,1
+S33,SG06,Automated robotic deconstruction sequence planning from scan-to-BIM data for reinforced concrete structure reuse,2025,0,1
+S33,SG11,Automated robotic deconstruction sequence planning from scan-to-BIM data for reinforced concrete structure reuse,2025,3,1
+S33,SG12,Automated robotic deconstruction sequence planning from scan-to-BIM data for reinforced concrete structure reuse,2025,3,1
+S33,SG13,Automated robotic deconstruction sequence planning from scan-to-BIM data for reinforced concrete structure reuse,2025,0,1
+S33,SG14,Automated robotic deconstruction sequence planning from scan-to-BIM data for reinforced concrete structure reuse,2025,0,1
+S33,SG17,Automated robotic deconstruction sequence planning from scan-to-BIM data for reinforced concrete structure reuse,2025,1,1
+S33,SG19,Automated robotic deconstruction sequence planning from scan-to-BIM data for reinforced concrete structure reuse,2025,0,1
+S33,SG20,Automated robotic deconstruction sequence planning from scan-to-BIM data for reinforced concrete structure reuse,2025,0,1
+S33,SG21,Automated robotic deconstruction sequence planning from scan-to-BIM data for reinforced concrete structure reuse,2025,0,1
+S33,SG22,Automated robotic deconstruction sequence planning from scan-to-BIM data for reinforced concrete structure reuse,2025,3,1
+S33,SG23,Automated robotic deconstruction sequence planning from scan-to-BIM data for reinforced concrete structure reuse,2025,1,1
+S33,SG24,Automated robotic deconstruction sequence planning from scan-to-BIM data for reinforced concrete structure reuse,2025,0,1
+S33,SG25,Automated robotic deconstruction sequence planning from scan-to-BIM data for reinforced concrete structure reuse,2025,0,1
+S34,SG03,Information Modelling Management and Green Public Procurement for Waste Management and Environmental Renovation of Brownfields,2021,0,1
+S34,SG04,Information Modelling Management and Green Public Procurement for Waste Management and Environmental Renovation of Brownfields,2021,3,1
+S34,SG06,Information Modelling Management and Green Public Procurement for Waste Management and Environmental Renovation of Brownfields,2021,0,1
+S34,SG07,Information Modelling Management and Green Public Procurement for Waste Management and Environmental Renovation of Brownfields,2021,0,1
+S34,SG08,Information Modelling Management and Green Public Procurement for Waste Management and Environmental Renovation of Brownfields,2021,0,1
+S34,SG09,Information Modelling Management and Green Public Procurement for Waste Management and Environmental Renovation of Brownfields,2021,0,1
+S34,SG10,Information Modelling Management and Green Public Procurement for Waste Management and Environmental Renovation of Brownfields,2021,0,1
+S34,SG13,Information Modelling Management and Green Public Procurement for Waste Management and Environmental Renovation of Brownfields,2021,0,1
+S34,SG14,Information Modelling Management and Green Public Procurement for Waste Management and Environmental Renovation of Brownfields,2021,0,1
+S34,SG17,Information Modelling Management and Green Public Procurement for Waste Management and Environmental Renovation of Brownfields,2021,0,1
+S34,SG18,Information Modelling Management and Green Public Procurement for Waste Management and Environmental Renovation of Brownfields,2021,0,1
+S34,SG19,Information Modelling Management and Green Public Procurement for Waste Management and Environmental Renovation of Brownfields,2021,0,1
+S34,SG21,Information Modelling Management and Green Public Procurement for Waste Management and Environmental Renovation of Brownfields,2021,3,1
+S34,SG22,Information Modelling Management and Green Public Procurement for Waste Management and Environmental Renovation of Brownfields,2021,0,1
+S34,SG23,Information Modelling Management and Green Public Procurement for Waste Management and Environmental Renovation of Brownfields,2021,0,1
+S34,SG25,Information Modelling Management and Green Public Procurement for Waste Management and Environmental Renovation of Brownfields,2021,0,1
+S36,SG01,Capital project planning for a circular economy,2018,0,1
+S36,SG02,Capital project planning for a circular economy,2018,1,1
+S36,SG05,Capital project planning for a circular economy,2018,0,1
+S36,SG06,Capital project planning for a circular economy,2018,0,1
+S36,SG07,Capital project planning for a circular economy,2018,0,1
+S36,SG09,Capital project planning for a circular economy,2018,0,1
+S36,SG10,Capital project planning for a circular economy,2018,0,1
+S36,SG11,Capital project planning for a circular economy,2018,0,1
+S36,SG12,Capital project planning for a circular economy,2018,0,1
+S36,SG13,Capital project planning for a circular economy,2018,0,1
+S36,SG14,Capital project planning for a circular economy,2018,0,1
+S36,SG16,Capital project planning for a circular economy,2018,0,1
+S36,SG17,Capital project planning for a circular economy,2018,0,1
+S36,SG18,Capital project planning for a circular economy,2018,0,1
+S36,SG19,Capital project planning for a circular economy,2018,0,1
+S36,SG22,Capital project planning for a circular economy,2018,0,1
+S36,SG23,Capital project planning for a circular economy,2018,0,1
+S36,SG24,Capital project planning for a circular economy,2018,0,1
+S36,SG25,Capital project planning for a circular economy,2018,0,1
+S35,SG03,BIM Model View Definition (MVD) for disassembly planning of buildings,2024,0,1
+S35,SG04,BIM Model View Definition (MVD) for disassembly planning of buildings,2024,2,1
+S35,SG05,BIM Model View Definition (MVD) for disassembly planning of buildings,2024,2,1
+S35,SG07,BIM Model View Definition (MVD) for disassembly planning of buildings,2024,0,1
+S35,SG09,BIM Model View Definition (MVD) for disassembly planning of buildings,2024,0,1
+S35,SG13,BIM Model View Definition (MVD) for disassembly planning of buildings,2024,0,1
+S35,SG14,BIM Model View Definition (MVD) for disassembly planning of buildings,2024,0,1
+S35,SG16,BIM Model View Definition (MVD) for disassembly planning of buildings,2024,0,1
+S35,SG17,BIM Model View Definition (MVD) for disassembly planning of buildings,2024,0,1
+S35,SG18,BIM Model View Definition (MVD) for disassembly planning of buildings,2024,0,1
+S35,SG19,BIM Model View Definition (MVD) for disassembly planning of buildings,2024,0,1
+S35,SG20,BIM Model View Definition (MVD) for disassembly planning of buildings,2024,0,1
+S35,SG21,BIM Model View Definition (MVD) for disassembly planning of buildings,2024,0,1
+S35,SG22,BIM Model View Definition (MVD) for disassembly planning of buildings,2024,2,1
+S35,SG23,BIM Model View Definition (MVD) for disassembly planning of buildings,2024,0,1
+S35,SG24,BIM Model View Definition (MVD) for disassembly planning of buildings,2024,0,1
+S35,SG25,BIM Model View Definition (MVD) for disassembly planning of buildings,2024,0,1
+S38,SG02,“Deconstruction programming for adaptive reuse of buildings”,2019,1,1
+S38,SG03,“Deconstruction programming for adaptive reuse of buildings”,2019,1,1
+S38,SG06,“Deconstruction programming for adaptive reuse of buildings”,2019,1,1
+S38,SG07,“Deconstruction programming for adaptive reuse of buildings”,2019,0,1
+S38,SG09,“Deconstruction programming for adaptive reuse of buildings”,2019,0,1
+S38,SG10,“Deconstruction programming for adaptive reuse of buildings”,2019,3,1
+S38,SG11,“Deconstruction programming for adaptive reuse of buildings”,2019,3,1
+S38,SG13,“Deconstruction programming for adaptive reuse of buildings”,2019,0,1
+S38,SG14,“Deconstruction programming for adaptive reuse of buildings”,2019,0,1
+S38,SG16,“Deconstruction programming for adaptive reuse of buildings”,2019,0,1
+S38,SG17,“Deconstruction programming for adaptive reuse of buildings”,2019,0,1
+S38,SG18,“Deconstruction programming for adaptive reuse of buildings”,2019,0,1
+S38,SG19,“Deconstruction programming for adaptive reuse of buildings”,2019,0,1
+S38,SG20,“Deconstruction programming for adaptive reuse of buildings”,2019,0,1
+S38,SG22,“Deconstruction programming for adaptive reuse of buildings”,2019,0,1
+S38,SG24,“Deconstruction programming for adaptive reuse of buildings”,2019,1,1
+S38,SG25,“Deconstruction programming for adaptive reuse of buildings”,2019,0,1
+S37,SG02,Multi-objective Optimization Analysis for Selective Disassembly Planning of Buildings,2019,0,1
+S37,SG06,Multi-objective Optimization Analysis for Selective Disassembly Planning of Buildings,2019,0,1
+S37,SG07,Multi-objective Optimization Analysis for Selective Disassembly Planning of Buildings,2019,0,1
+S37,SG09,Multi-objective Optimization Analysis for Selective Disassembly Planning of Buildings,2019,0,1
+S37,SG10,Multi-objective Optimization Analysis for Selective Disassembly Planning of Buildings,2019,0,1
+S37,SG11,Multi-objective Optimization Analysis for Selective Disassembly Planning of Buildings,2019,0,1
+S37,SG12,Multi-objective Optimization Analysis for Selective Disassembly Planning of Buildings,2019,3,1
+S37,SG13,Multi-objective Optimization Analysis for Selective Disassembly Planning of Buildings,2019,0,1
+S37,SG14,Multi-objective Optimization Analysis for Selective Disassembly Planning of Buildings,2019,0,1
+S37,SG16,Multi-objective Optimization Analysis for Selective Disassembly Planning of Buildings,2019,0,1
+S37,SG17,Multi-objective Optimization Analysis for Selective Disassembly Planning of Buildings,2019,0,1
+S37,SG18,Multi-objective Optimization Analysis for Selective Disassembly Planning of Buildings,2019,0,1
+S37,SG19,Multi-objective Optimization Analysis for Selective Disassembly Planning of Buildings,2019,0,1
+S37,SG20,Multi-objective Optimization Analysis for Selective Disassembly Planning of Buildings,2019,1,1
+S37,SG22,Multi-objective Optimization Analysis for Selective Disassembly Planning of Buildings,2019,0,1
+S37,SG23,Multi-objective Optimization Analysis for Selective Disassembly Planning of Buildings,2019,0,1
+S37,SG24,Multi-objective Optimization Analysis for Selective Disassembly Planning of Buildings,2019,0,1
+S37,SG25,Multi-objective Optimization Analysis for Selective Disassembly Planning of Buildings,2019,0,1
+S39,SG01,A selective disassembly multi-objective optimization approach for adaptive reuse of building components,2020,0,1
+S39,SG02,A selective disassembly multi-objective optimization approach for adaptive reuse of building components,2020,0,1
+S39,SG05,A selective disassembly multi-objective optimization approach for adaptive reuse of building components,2020,0,1
+S39,SG07,A selective disassembly multi-objective optimization approach for adaptive reuse of building components,2020,0,1
+S39,SG09,A selective disassembly multi-objective optimization approach for adaptive reuse of building components,2020,0,1
+S39,SG11,A selective disassembly multi-objective optimization approach for adaptive reuse of building components,2020,0,1
+S39,SG12,A selective disassembly multi-objective optimization approach for adaptive reuse of building components,2020,0,1
+S39,SG13,A selective disassembly multi-objective optimization approach for adaptive reuse of building components,2020,0,1
+S39,SG14,A selective disassembly multi-objective optimization approach for adaptive reuse of building components,2020,0,1
+S39,SG16,A selective disassembly multi-objective optimization approach for adaptive reuse of building components,2020,0,1
+S39,SG17,A selective disassembly multi-objective optimization approach for adaptive reuse of building components,2020,0,1
+S39,SG18,A selective disassembly multi-objective optimization approach for adaptive reuse of building components,2020,0,1
+S39,SG19,A selective disassembly multi-objective optimization approach for adaptive reuse of building components,2020,0,1
+S39,SG20,A selective disassembly multi-objective optimization approach for adaptive reuse of building components,2020,1,1
+S39,SG22,A selective disassembly multi-objective optimization approach for adaptive reuse of building components,2020,0,1
+S39,SG23,A selective disassembly multi-objective optimization approach for adaptive reuse of building components,2020,0,1
+S39,SG24,A selective disassembly multi-objective optimization approach for adaptive reuse of building components,2020,0,1
+S39,SG25,A selective disassembly multi-objective optimization approach for adaptive reuse of building components,2020,0,1
+S40,SG03,A framework for BIM-based disassembly models to support reuse of building components,2021,0,1
+S40,SG04,A framework for BIM-based disassembly models to support reuse of building components,2021,2,1
+S40,SG05,A framework for BIM-based disassembly models to support reuse of building components,2021,3,1
+S40,SG07,A framework for BIM-based disassembly models to support reuse of building components,2021,0,1
+S40,SG09,A framework for BIM-based disassembly models to support reuse of building components,2021,1,1
+S40,SG13,A framework for BIM-based disassembly models to support reuse of building components,2021,0,1
+S40,SG14,A framework for BIM-based disassembly models to support reuse of building components,2021,0,1
+S40,SG16,A framework for BIM-based disassembly models to support reuse of building components,2021,1,1
+S40,SG17,A framework for BIM-based disassembly models to support reuse of building components,2021,0,1
+S40,SG18,A framework for BIM-based disassembly models to support reuse of building components,2021,0,1
+S40,SG19,A framework for BIM-based disassembly models to support reuse of building components,2021,0,1
+S40,SG20,A framework for BIM-based disassembly models to support reuse of building components,2021,0,1
+S40,SG23,A framework for BIM-based disassembly models to support reuse of building components,2021,0,1
+S40,SG24,A framework for BIM-based disassembly models to support reuse of building components,2021,0,1
+S40,SG25,A framework for BIM-based disassembly models to support reuse of building components,2021,0,1
+S41,SG02,VPL Prototypes for Determining Disassembly Parameters of BIM Models,2022,3,1
+S41,SG03,VPL Prototypes for Determining Disassembly Parameters of BIM Models,2022,0,1
+S41,SG04,VPL Prototypes for Determining Disassembly Parameters of BIM Models,2022,0,1
+S41,SG05,VPL Prototypes for Determining Disassembly Parameters of BIM Models,2022,3,1
+S41,SG07,VPL Prototypes for Determining Disassembly Parameters of BIM Models,2022,0,1
+S41,SG09,VPL Prototypes for Determining Disassembly Parameters of BIM Models,2022,0,1
+S41,SG13,VPL Prototypes for Determining Disassembly Parameters of BIM Models,2022,0,1
+S41,SG14,VPL Prototypes for Determining Disassembly Parameters of BIM Models,2022,0,1
+S41,SG16,VPL Prototypes for Determining Disassembly Parameters of BIM Models,2022,0,1
+S41,SG17,VPL Prototypes for Determining Disassembly Parameters of BIM Models,2022,0,1
+S41,SG18,VPL Prototypes for Determining Disassembly Parameters of BIM Models,2022,0,1
+S41,SG19,VPL Prototypes for Determining Disassembly Parameters of BIM Models,2022,0,1
+S41,SG20,VPL Prototypes for Determining Disassembly Parameters of BIM Models,2022,0,1
+S41,SG21,VPL Prototypes for Determining Disassembly Parameters of BIM Models,2022,0,1
+S41,SG23,VPL Prototypes for Determining Disassembly Parameters of BIM Models,2022,0,1
+S41,SG24,VPL Prototypes for Determining Disassembly Parameters of BIM Models,2022,0,1
+S41,SG25,VPL Prototypes for Determining Disassembly Parameters of BIM Models,2022,0,1
+S42,SG01,Identifying Key Parameters for BIM-Based Disassembly Planning,2023,1,1
+S42,SG04,Identifying Key Parameters for BIM-Based Disassembly Planning,2023,2,1
+S42,SG05,Identifying Key Parameters for BIM-Based Disassembly Planning,2023,2,1
+S42,SG06,Identifying Key Parameters for BIM-Based Disassembly Planning,2023,1,1
+S42,SG07,Identifying Key Parameters for BIM-Based Disassembly Planning,2023,0,1
+S42,SG09,Identifying Key Parameters for BIM-Based Disassembly Planning,2023,1,1
+S42,SG10,Identifying Key Parameters for BIM-Based Disassembly Planning,2023,1,1
+S42,SG13,Identifying Key Parameters for BIM-Based Disassembly Planning,2023,0,1
+S42,SG14,Identifying Key Parameters for BIM-Based Disassembly Planning,2023,0,1
+S42,SG17,Identifying Key Parameters for BIM-Based Disassembly Planning,2023,0,1
+S42,SG18,Identifying Key Parameters for BIM-Based Disassembly Planning,2023,1,1
+S42,SG19,Identifying Key Parameters for BIM-Based Disassembly Planning,2023,0,1
+S42,SG20,Identifying Key Parameters for BIM-Based Disassembly Planning,2023,0,1
+S42,SG22,Identifying Key Parameters for BIM-Based Disassembly Planning,2023,2,1
+S42,SG23,Identifying Key Parameters for BIM-Based Disassembly Planning,2023,0,1
+S42,SG24,Identifying Key Parameters for BIM-Based Disassembly Planning,2023,0,1
+S42,SG25,Identifying Key Parameters for BIM-Based Disassembly Planning,2023,0,1
+S43,SG02,Augmenting materials passports to support disassembly planning based on building information modelling standards,2024,3,1
+S43,SG03,Augmenting materials passports to support disassembly planning based on building information modelling standards,2024,0,1
+S43,SG04,Augmenting materials passports to support disassembly planning based on building information modelling standards,2024,2,1
+S43,SG05,Augmenting materials passports to support disassembly planning based on building information modelling standards,2024,3,1
+S43,SG13,Augmenting materials passports to support disassembly planning based on building information modelling standards,2024,0,1
+S43,SG14,Augmenting materials passports to support disassembly planning based on building information modelling standards,2024,0,1
+S43,SG17,Augmenting materials passports to support disassembly planning based on building information modelling standards,2024,0,1
+S43,SG18,Augmenting materials passports to support disassembly planning based on building information modelling standards,2024,0,1
+S43,SG19,Augmenting materials passports to support disassembly planning based on building information modelling standards,2024,0,1
+S43,SG20,Augmenting materials passports to support disassembly planning based on building information modelling standards,2024,0,1
+S43,SG21,Augmenting materials passports to support disassembly planning based on building information modelling standards,2024,0,1
+S43,SG23,Augmenting materials passports to support disassembly planning based on building information modelling standards,2024,0,1
+S43,SG24,Augmenting materials passports to support disassembly planning based on building information modelling standards,2024,0,1
+S43,SG25,Augmenting materials passports to support disassembly planning based on building information modelling standards,2024,0,1
+S44,SG03,Circularity of building stocks: modelling building joints and their disassembly in a 3D city model,2022,0,1
+S44,SG04,Circularity of building stocks: modelling building joints and their disassembly in a 3D city model,2022,1,1
+S44,SG05,Circularity of building stocks: modelling building joints and their disassembly in a 3D city model,2022,0,1
+S44,SG07,Circularity of building stocks: modelling building joints and their disassembly in a 3D city model,2022,0,1
+S44,SG09,Circularity of building stocks: modelling building joints and their disassembly in a 3D city model,2022,2,1
+S44,SG13,Circularity of building stocks: modelling building joints and their disassembly in a 3D city model,2022,0,1
+S44,SG14,Circularity of building stocks: modelling building joints and their disassembly in a 3D city model,2022,0,1
+S44,SG17,Circularity of building stocks: modelling building joints and their disassembly in a 3D city model,2022,0,1
+S44,SG18,Circularity of building stocks: modelling building joints and their disassembly in a 3D city model,2022,0,1
+S44,SG19,Circularity of building stocks: modelling building joints and their disassembly in a 3D city model,2022,0,1
+S44,SG20,Circularity of building stocks: modelling building joints and their disassembly in a 3D city model,2022,0,1
+S44,SG21,Circularity of building stocks: modelling building joints and their disassembly in a 3D city model,2022,0,1
+S44,SG22,Circularity of building stocks: modelling building joints and their disassembly in a 3D city model,2022,1,1
+S44,SG23,Circularity of building stocks: modelling building joints and their disassembly in a 3D city model,2022,0,1
+S44,SG25,Circularity of building stocks: modelling building joints and their disassembly in a 3D city model,2022,0,1
+S45,SG01,"Environment-oriented project scheduling for the dismantling of buildings
+Umweltorientierte Projektplanung für die Demontage von Bauwerken",2001,0,1
+S45,SG02,"Environment-oriented project scheduling for the dismantling of buildings
+Umweltorientierte Projektplanung für die Demontage von Bauwerken",2001,3,1
+S45,SG06,"Environment-oriented project scheduling for the dismantling of buildings
+Umweltorientierte Projektplanung für die Demontage von Bauwerken",2001,0,1
+S45,SG07,"Environment-oriented project scheduling for the dismantling of buildings
+Umweltorientierte Projektplanung für die Demontage von Bauwerken",2001,0,1
+S45,SG09,"Environment-oriented project scheduling for the dismantling of buildings
+Umweltorientierte Projektplanung für die Demontage von Bauwerken",2001,0,1
+S45,SG11,"Environment-oriented project scheduling for the dismantling of buildings
+Umweltorientierte Projektplanung für die Demontage von Bauwerken",2001,0,1
+S45,SG12,"Environment-oriented project scheduling for the dismantling of buildings
+Umweltorientierte Projektplanung für die Demontage von Bauwerken",2001,0,1
+S45,SG13,"Environment-oriented project scheduling for the dismantling of buildings
+Umweltorientierte Projektplanung für die Demontage von Bauwerken",2001,0,1
+S45,SG14,"Environment-oriented project scheduling for the dismantling of buildings
+Umweltorientierte Projektplanung für die Demontage von Bauwerken",2001,0,1
+S45,SG16,"Environment-oriented project scheduling for the dismantling of buildings
+Umweltorientierte Projektplanung für die Demontage von Bauwerken",2001,4,1
+S45,SG17,"Environment-oriented project scheduling for the dismantling of buildings
+Umweltorientierte Projektplanung für die Demontage von Bauwerken",2001,0,1
+S45,SG18,"Environment-oriented project scheduling for the dismantling of buildings
+Umweltorientierte Projektplanung für die Demontage von Bauwerken",2001,0,1
+S45,SG19,"Environment-oriented project scheduling for the dismantling of buildings
+Umweltorientierte Projektplanung für die Demontage von Bauwerken",2001,0,1
+S45,SG20,"Environment-oriented project scheduling for the dismantling of buildings
+Umweltorientierte Projektplanung für die Demontage von Bauwerken",2001,0,1
+S45,SG22,"Environment-oriented project scheduling for the dismantling of buildings
+Umweltorientierte Projektplanung für die Demontage von Bauwerken",2001,0,1
+S45,SG24,"Environment-oriented project scheduling for the dismantling of buildings
+Umweltorientierte Projektplanung für die Demontage von Bauwerken",2001,0,1
+S45,SG25,"Environment-oriented project scheduling for the dismantling of buildings
+Umweltorientierte Projektplanung für die Demontage von Bauwerken",2001,0,1
+S46,SG01,Scheduling of deconstruction projects under resource constraints,2002,1,1
+S46,SG02,Scheduling of deconstruction projects under resource constraints,2002,3,1
+S46,SG06,Scheduling of deconstruction projects under resource constraints,2002,0,1
+S46,SG07,Scheduling of deconstruction projects under resource constraints,2002,0,1
+S46,SG09,Scheduling of deconstruction projects under resource constraints,2002,0,1
+S46,SG10,Scheduling of deconstruction projects under resource constraints,2002,2,1
+S46,SG11,Scheduling of deconstruction projects under resource constraints,2002,0,1
+S46,SG12,Scheduling of deconstruction projects under resource constraints,2002,0,1
+S46,SG13,Scheduling of deconstruction projects under resource constraints,2002,0,1
+S46,SG14,Scheduling of deconstruction projects under resource constraints,2002,0,1
+S46,SG16,Scheduling of deconstruction projects under resource constraints,2002,4,1
+S46,SG17,Scheduling of deconstruction projects under resource constraints,2002,0,1
+S46,SG18,Scheduling of deconstruction projects under resource constraints,2002,0,1
+S46,SG19,Scheduling of deconstruction projects under resource constraints,2002,0,1
+S46,SG20,Scheduling of deconstruction projects under resource constraints,2002,0,1
+S46,SG22,Scheduling of deconstruction projects under resource constraints,2002,0,1
+S46,SG24,Scheduling of deconstruction projects under resource constraints,2002,0,1
+S46,SG25,Scheduling of deconstruction projects under resource constraints,2002,0,1
+S47,SG01,Research on Modularization Fuzzy Petri Net of Disassembly System,2009,0,0
+S47,SG02,Research on Modularization Fuzzy Petri Net of Disassembly System,2009,0,0
+S47,SG03,Research on Modularization Fuzzy Petri Net of Disassembly System,2009,0,0
+S47,SG04,Research on Modularization Fuzzy Petri Net of Disassembly System,2009,0,0
+S47,SG05,Research on Modularization Fuzzy Petri Net of Disassembly System,2009,0,0
+S47,SG06,Research on Modularization Fuzzy Petri Net of Disassembly System,2009,0,0
+S47,SG07,Research on Modularization Fuzzy Petri Net of Disassembly System,2009,0,0
+S47,SG08,Research on Modularization Fuzzy Petri Net of Disassembly System,2009,0,0
+S47,SG09,Research on Modularization Fuzzy Petri Net of Disassembly System,2009,0,0
+S47,SG10,Research on Modularization Fuzzy Petri Net of Disassembly System,2009,0,0
+S47,SG11,Research on Modularization Fuzzy Petri Net of Disassembly System,2009,0,0
+S47,SG12,Research on Modularization Fuzzy Petri Net of Disassembly System,2009,0,0
+S47,SG13,Research on Modularization Fuzzy Petri Net of Disassembly System,2009,0,0
+S47,SG14,Research on Modularization Fuzzy Petri Net of Disassembly System,2009,0,0
+S47,SG15,Research on Modularization Fuzzy Petri Net of Disassembly System,2009,0,0
+S47,SG16,Research on Modularization Fuzzy Petri Net of Disassembly System,2009,0,0
+S47,SG17,Research on Modularization Fuzzy Petri Net of Disassembly System,2009,0,0
+S47,SG18,Research on Modularization Fuzzy Petri Net of Disassembly System,2009,0,0
+S47,SG19,Research on Modularization Fuzzy Petri Net of Disassembly System,2009,0,0
+S47,SG20,Research on Modularization Fuzzy Petri Net of Disassembly System,2009,0,0
+S47,SG21,Research on Modularization Fuzzy Petri Net of Disassembly System,2009,0,0
+S47,SG22,Research on Modularization Fuzzy Petri Net of Disassembly System,2009,0,0
+S47,SG23,Research on Modularization Fuzzy Petri Net of Disassembly System,2009,0,0
+S47,SG24,Research on Modularization Fuzzy Petri Net of Disassembly System,2009,0,0
+S47,SG25,Research on Modularization Fuzzy Petri Net of Disassembly System,2009,0,0
+S48,SG02,Benefits derived from WASP (a Grasshopper plugin) to Design for Disassembly Principles in the Built Environment,2024,0,1
+S48,SG03,Benefits derived from WASP (a Grasshopper plugin) to Design for Disassembly Principles in the Built Environment,2024,0,1
+S48,SG04,Benefits derived from WASP (a Grasshopper plugin) to Design for Disassembly Principles in the Built Environment,2024,0,1
+S48,SG05,Benefits derived from WASP (a Grasshopper plugin) to Design for Disassembly Principles in the Built Environment,2024,0,1
+S48,SG07,Benefits derived from WASP (a Grasshopper plugin) to Design for Disassembly Principles in the Built Environment,2024,0,1
+S48,SG10,Benefits derived from WASP (a Grasshopper plugin) to Design for Disassembly Principles in the Built Environment,2024,0,1
+S48,SG11,Benefits derived from WASP (a Grasshopper plugin) to Design for Disassembly Principles in the Built Environment,2024,0,1
+S48,SG12,Benefits derived from WASP (a Grasshopper plugin) to Design for Disassembly Principles in the Built Environment,2024,2,1
+S48,SG13,Benefits derived from WASP (a Grasshopper plugin) to Design for Disassembly Principles in the Built Environment,2024,0,1
+S48,SG14,Benefits derived from WASP (a Grasshopper plugin) to Design for Disassembly Principles in the Built Environment,2024,0,1
+S48,SG16,Benefits derived from WASP (a Grasshopper plugin) to Design for Disassembly Principles in the Built Environment,2024,0,1
+S48,SG17,Benefits derived from WASP (a Grasshopper plugin) to Design for Disassembly Principles in the Built Environment,2024,0,1
+S48,SG18,Benefits derived from WASP (a Grasshopper plugin) to Design for Disassembly Principles in the Built Environment,2024,0,1
+S48,SG19,Benefits derived from WASP (a Grasshopper plugin) to Design for Disassembly Principles in the Built Environment,2024,0,1
+S48,SG20,Benefits derived from WASP (a Grasshopper plugin) to Design for Disassembly Principles in the Built Environment,2024,0,1
+S48,SG21,Benefits derived from WASP (a Grasshopper plugin) to Design for Disassembly Principles in the Built Environment,2024,0,1
+S48,SG23,Benefits derived from WASP (a Grasshopper plugin) to Design for Disassembly Principles in the Built Environment,2024,0,1
+S48,SG24,Benefits derived from WASP (a Grasshopper plugin) to Design for Disassembly Principles in the Built Environment,2024,0,1
+S48,SG25,Benefits derived from WASP (a Grasshopper plugin) to Design for Disassembly Principles in the Built Environment,2024,0,1
+S49,SG03,BIM uses for deconstruction: an activity-theoretical perspective on reorganising end-of-life practices,2021,0,1
+S49,SG04,BIM uses for deconstruction: an activity-theoretical perspective on reorganising end-of-life practices,2021,0,1
+S49,SG06,BIM uses for deconstruction: an activity-theoretical perspective on reorganising end-of-life practices,2021,0,1
+S49,SG07,BIM uses for deconstruction: an activity-theoretical perspective on reorganising end-of-life practices,2021,0,1
+S49,SG09,BIM uses for deconstruction: an activity-theoretical perspective on reorganising end-of-life practices,2021,0,1
+S49,SG10,BIM uses for deconstruction: an activity-theoretical perspective on reorganising end-of-life practices,2021,0,1
+S49,SG13,BIM uses for deconstruction: an activity-theoretical perspective on reorganising end-of-life practices,2021,0,1
+S49,SG14,BIM uses for deconstruction: an activity-theoretical perspective on reorganising end-of-life practices,2021,0,1
+S49,SG17,BIM uses for deconstruction: an activity-theoretical perspective on reorganising end-of-life practices,2021,0,1
+S49,SG18,BIM uses for deconstruction: an activity-theoretical perspective on reorganising end-of-life practices,2021,0,1
+S49,SG19,BIM uses for deconstruction: an activity-theoretical perspective on reorganising end-of-life practices,2021,0,1
+S49,SG20,BIM uses for deconstruction: an activity-theoretical perspective on reorganising end-of-life practices,2021,0,1
+S49,SG21,BIM uses for deconstruction: an activity-theoretical perspective on reorganising end-of-life practices,2021,0,1
+S49,SG22,BIM uses for deconstruction: an activity-theoretical perspective on reorganising end-of-life practices,2021,0,1
+S49,SG24,BIM uses for deconstruction: an activity-theoretical perspective on reorganising end-of-life practices,2021,0,1
+S49,SG25,BIM uses for deconstruction: an activity-theoretical perspective on reorganising end-of-life practices,2021,0,1
+S50,SG03,Deconstruction project planning of existing buildings based on automated acquisition and reconstruction of building information,2018,0,1
+S50,SG04,Deconstruction project planning of existing buildings based on automated acquisition and reconstruction of building information,2018,3,1
+S50,SG07,Deconstruction project planning of existing buildings based on automated acquisition and reconstruction of building information,2018,0,1
+S50,SG09,Deconstruction project planning of existing buildings based on automated acquisition and reconstruction of building information,2018,0,1
+S50,SG11,Deconstruction project planning of existing buildings based on automated acquisition and reconstruction of building information,2018,0,1
+S50,SG13,Deconstruction project planning of existing buildings based on automated acquisition and reconstruction of building information,2018,0,1
+S50,SG14,Deconstruction project planning of existing buildings based on automated acquisition and reconstruction of building information,2018,0,1
+S50,SG16,Deconstruction project planning of existing buildings based on automated acquisition and reconstruction of building information,2018,4,1
+S50,SG17,Deconstruction project planning of existing buildings based on automated acquisition and reconstruction of building information,2018,0,1
+S50,SG18,Deconstruction project planning of existing buildings based on automated acquisition and reconstruction of building information,2018,0,1
+S50,SG19,Deconstruction project planning of existing buildings based on automated acquisition and reconstruction of building information,2018,0,1
+S50,SG20,Deconstruction project planning of existing buildings based on automated acquisition and reconstruction of building information,2018,0,1
+S50,SG21,Deconstruction project planning of existing buildings based on automated acquisition and reconstruction of building information,2018,3,1
+S50,SG22,Deconstruction project planning of existing buildings based on automated acquisition and reconstruction of building information,2018,0,1
+S50,SG25,Deconstruction project planning of existing buildings based on automated acquisition and reconstruction of building information,2018,0,1
+S51,SG01,Study on Multi-dimensional Disassembly Planning Strategy based on Disassembly Hive,2009,0,0
+S51,SG02,Study on Multi-dimensional Disassembly Planning Strategy based on Disassembly Hive,2009,0,0
+S51,SG03,Study on Multi-dimensional Disassembly Planning Strategy based on Disassembly Hive,2009,0,0
+S51,SG04,Study on Multi-dimensional Disassembly Planning Strategy based on Disassembly Hive,2009,0,0
+S51,SG05,Study on Multi-dimensional Disassembly Planning Strategy based on Disassembly Hive,2009,0,0
+S51,SG06,Study on Multi-dimensional Disassembly Planning Strategy based on Disassembly Hive,2009,0,0
+S51,SG07,Study on Multi-dimensional Disassembly Planning Strategy based on Disassembly Hive,2009,0,0
+S51,SG08,Study on Multi-dimensional Disassembly Planning Strategy based on Disassembly Hive,2009,0,0
+S51,SG09,Study on Multi-dimensional Disassembly Planning Strategy based on Disassembly Hive,2009,0,0
+S51,SG10,Study on Multi-dimensional Disassembly Planning Strategy based on Disassembly Hive,2009,0,0
+S51,SG11,Study on Multi-dimensional Disassembly Planning Strategy based on Disassembly Hive,2009,0,0
+S51,SG12,Study on Multi-dimensional Disassembly Planning Strategy based on Disassembly Hive,2009,0,0
+S51,SG13,Study on Multi-dimensional Disassembly Planning Strategy based on Disassembly Hive,2009,0,0
+S51,SG14,Study on Multi-dimensional Disassembly Planning Strategy based on Disassembly Hive,2009,0,0
+S51,SG15,Study on Multi-dimensional Disassembly Planning Strategy based on Disassembly Hive,2009,0,0
+S51,SG16,Study on Multi-dimensional Disassembly Planning Strategy based on Disassembly Hive,2009,0,0
+S51,SG17,Study on Multi-dimensional Disassembly Planning Strategy based on Disassembly Hive,2009,0,0
+S51,SG18,Study on Multi-dimensional Disassembly Planning Strategy based on Disassembly Hive,2009,0,0
+S51,SG19,Study on Multi-dimensional Disassembly Planning Strategy based on Disassembly Hive,2009,0,0
+S51,SG20,Study on Multi-dimensional Disassembly Planning Strategy based on Disassembly Hive,2009,0,0
+S51,SG21,Study on Multi-dimensional Disassembly Planning Strategy based on Disassembly Hive,2009,0,0
+S51,SG22,Study on Multi-dimensional Disassembly Planning Strategy based on Disassembly Hive,2009,0,0
+S51,SG23,Study on Multi-dimensional Disassembly Planning Strategy based on Disassembly Hive,2009,0,0
+S51,SG24,Study on Multi-dimensional Disassembly Planning Strategy based on Disassembly Hive,2009,0,0
+S51,SG25,Study on Multi-dimensional Disassembly Planning Strategy based on Disassembly Hive,2009,0,0
+S52,SG02,Robot assisted selective disassembly for buildings,2026,0,1
+S52,SG03,Robot assisted selective disassembly for buildings,2026,0,1
+S52,SG04,Robot assisted selective disassembly for buildings,2026,0,1
+S52,SG06,Robot assisted selective disassembly for buildings,2026,1,1
+S52,SG10,Robot assisted selective disassembly for buildings,2026,0,1
+S52,SG13,Robot assisted selective disassembly for buildings,2026,0,1
+S52,SG14,Robot assisted selective disassembly for buildings,2026,0,1
+S52,SG19,Robot assisted selective disassembly for buildings,2026,0,1
+S52,SG20,Robot assisted selective disassembly for buildings,2026,0,1
+S52,SG21,Robot assisted selective disassembly for buildings,2026,0,1
+S52,SG22,Robot assisted selective disassembly for buildings,2026,0,1
+S52,SG23,Robot assisted selective disassembly for buildings,2026,0,1
+S52,SG24,Robot assisted selective disassembly for buildings,2026,0,1
+S53,SG02,Block Planning Based on Grid’s Topology for the Dismantling of Long-Span Spatial Lattice Structures,2024,0,1
+S53,SG03,Block Planning Based on Grid’s Topology for the Dismantling of Long-Span Spatial Lattice Structures,2024,0,1
+S53,SG07,Block Planning Based on Grid’s Topology for the Dismantling of Long-Span Spatial Lattice Structures,2024,0,1
+S53,SG11,Block Planning Based on Grid’s Topology for the Dismantling of Long-Span Spatial Lattice Structures,2024,0,1
+S53,SG12,Block Planning Based on Grid’s Topology for the Dismantling of Long-Span Spatial Lattice Structures,2024,0,1
+S53,SG13,Block Planning Based on Grid’s Topology for the Dismantling of Long-Span Spatial Lattice Structures,2024,0,1
+S53,SG14,Block Planning Based on Grid’s Topology for the Dismantling of Long-Span Spatial Lattice Structures,2024,0,1
+S53,SG16,Block Planning Based on Grid’s Topology for the Dismantling of Long-Span Spatial Lattice Structures,2024,0,1
+S53,SG17,Block Planning Based on Grid’s Topology for the Dismantling of Long-Span Spatial Lattice Structures,2024,0,1
+S53,SG18,Block Planning Based on Grid’s Topology for the Dismantling of Long-Span Spatial Lattice Structures,2024,0,1
+S53,SG19,Block Planning Based on Grid’s Topology for the Dismantling of Long-Span Spatial Lattice Structures,2024,0,1
+S53,SG20,Block Planning Based on Grid’s Topology for the Dismantling of Long-Span Spatial Lattice Structures,2024,0,1
+S53,SG22,Block Planning Based on Grid’s Topology for the Dismantling of Long-Span Spatial Lattice Structures,2024,3,1
+S53,SG23,Block Planning Based on Grid’s Topology for the Dismantling of Long-Span Spatial Lattice Structures,2024,0,1
+S53,SG24,Block Planning Based on Grid’s Topology for the Dismantling of Long-Span Spatial Lattice Structures,2024,0,1
+S53,SG25,Block Planning Based on Grid’s Topology for the Dismantling of Long-Span Spatial Lattice Structures,2024,0,1
+S54,SG01,Disassembly and Reuse of Demountable Modular Building Systems,2025,0,1
+S54,SG02,Disassembly and Reuse of Demountable Modular Building Systems,2025,0,1
+S54,SG06,Disassembly and Reuse of Demountable Modular Building Systems,2025,1,1
+S54,SG09,Disassembly and Reuse of Demountable Modular Building Systems,2025,1,1
+S54,SG10,Disassembly and Reuse of Demountable Modular Building Systems,2025,0,1
+S54,SG11,Disassembly and Reuse of Demountable Modular Building Systems,2025,2,1
+S54,SG13,Disassembly and Reuse of Demountable Modular Building Systems,2025,0,1
+S54,SG14,Disassembly and Reuse of Demountable Modular Building Systems,2025,0,1
+S54,SG17,Disassembly and Reuse of Demountable Modular Building Systems,2025,0,1
+S54,SG18,Disassembly and Reuse of Demountable Modular Building Systems,2025,0,1
+S54,SG19,Disassembly and Reuse of Demountable Modular Building Systems,2025,0,1
+S54,SG21,Disassembly and Reuse of Demountable Modular Building Systems,2025,4,1
+S54,SG23,Disassembly and Reuse of Demountable Modular Building Systems,2025,0,1
+S54,SG24,Disassembly and Reuse of Demountable Modular Building Systems,2025,0,1
+S55,SG01,Research on Disassembly Sequence Planning in DFD,2012,0,0
+S55,SG02,Research on Disassembly Sequence Planning in DFD,2012,0,0
+S55,SG03,Research on Disassembly Sequence Planning in DFD,2012,0,0
+S55,SG04,Research on Disassembly Sequence Planning in DFD,2012,0,0
+S55,SG05,Research on Disassembly Sequence Planning in DFD,2012,0,0
+S55,SG06,Research on Disassembly Sequence Planning in DFD,2012,0,0
+S55,SG07,Research on Disassembly Sequence Planning in DFD,2012,0,0
+S55,SG08,Research on Disassembly Sequence Planning in DFD,2012,0,0
+S55,SG09,Research on Disassembly Sequence Planning in DFD,2012,0,0
+S55,SG10,Research on Disassembly Sequence Planning in DFD,2012,0,0
+S55,SG11,Research on Disassembly Sequence Planning in DFD,2012,0,0
+S55,SG12,Research on Disassembly Sequence Planning in DFD,2012,0,0
+S55,SG13,Research on Disassembly Sequence Planning in DFD,2012,0,0
+S55,SG14,Research on Disassembly Sequence Planning in DFD,2012,0,0
+S55,SG15,Research on Disassembly Sequence Planning in DFD,2012,0,0
+S55,SG16,Research on Disassembly Sequence Planning in DFD,2012,0,0
+S55,SG17,Research on Disassembly Sequence Planning in DFD,2012,0,0
+S55,SG18,Research on Disassembly Sequence Planning in DFD,2012,0,0
+S55,SG19,Research on Disassembly Sequence Planning in DFD,2012,0,0
+S55,SG20,Research on Disassembly Sequence Planning in DFD,2012,0,0
+S55,SG21,Research on Disassembly Sequence Planning in DFD,2012,0,0
+S55,SG22,Research on Disassembly Sequence Planning in DFD,2012,0,0
+S55,SG23,Research on Disassembly Sequence Planning in DFD,2012,0,0
+S55,SG24,Research on Disassembly Sequence Planning in DFD,2012,0,0
+S55,SG25,Research on Disassembly Sequence Planning in DFD,2012,0,0
+S56,SG01,GRAPH BASED DISASSEMBLY SEQUENCING WITH STRUCTURAL AND STABILITY CONSTRAINTS,2025,3,1
+S56,SG02,GRAPH BASED DISASSEMBLY SEQUENCING WITH STRUCTURAL AND STABILITY CONSTRAINTS,2025,1,1
+S56,SG03,GRAPH BASED DISASSEMBLY SEQUENCING WITH STRUCTURAL AND STABILITY CONSTRAINTS,2025,0,1
+S56,SG04,GRAPH BASED DISASSEMBLY SEQUENCING WITH STRUCTURAL AND STABILITY CONSTRAINTS,2025,0,1
+S56,SG05,GRAPH BASED DISASSEMBLY SEQUENCING WITH STRUCTURAL AND STABILITY CONSTRAINTS,2025,0,1
+S56,SG06,GRAPH BASED DISASSEMBLY SEQUENCING WITH STRUCTURAL AND STABILITY CONSTRAINTS,2025,0,1
+S56,SG07,GRAPH BASED DISASSEMBLY SEQUENCING WITH STRUCTURAL AND STABILITY CONSTRAINTS,2025,1,1
+S56,SG11,GRAPH BASED DISASSEMBLY SEQUENCING WITH STRUCTURAL AND STABILITY CONSTRAINTS,2025,0,1
+S56,SG12,GRAPH BASED DISASSEMBLY SEQUENCING WITH STRUCTURAL AND STABILITY CONSTRAINTS,2025,0,1
+S56,SG13,GRAPH BASED DISASSEMBLY SEQUENCING WITH STRUCTURAL AND STABILITY CONSTRAINTS,2025,0,1
+S56,SG14,GRAPH BASED DISASSEMBLY SEQUENCING WITH STRUCTURAL AND STABILITY CONSTRAINTS,2025,0,1
+S56,SG17,GRAPH BASED DISASSEMBLY SEQUENCING WITH STRUCTURAL AND STABILITY CONSTRAINTS,2025,0,1
+S56,SG18,GRAPH BASED DISASSEMBLY SEQUENCING WITH STRUCTURAL AND STABILITY CONSTRAINTS,2025,1,1
+S56,SG19,GRAPH BASED DISASSEMBLY SEQUENCING WITH STRUCTURAL AND STABILITY CONSTRAINTS,2025,0,1
+S56,SG20,GRAPH BASED DISASSEMBLY SEQUENCING WITH STRUCTURAL AND STABILITY CONSTRAINTS,2025,0,1
+S56,SG21,GRAPH BASED DISASSEMBLY SEQUENCING WITH STRUCTURAL AND STABILITY CONSTRAINTS,2025,0,1
+S56,SG22,GRAPH BASED DISASSEMBLY SEQUENCING WITH STRUCTURAL AND STABILITY CONSTRAINTS,2025,0,1
+S56,SG23,GRAPH BASED DISASSEMBLY SEQUENCING WITH STRUCTURAL AND STABILITY CONSTRAINTS,2025,0,1
+S56,SG24,GRAPH BASED DISASSEMBLY SEQUENCING WITH STRUCTURAL AND STABILITY CONSTRAINTS,2025,0,1
+S56,SG25,GRAPH BASED DISASSEMBLY SEQUENCING WITH STRUCTURAL AND STABILITY CONSTRAINTS,2025,0,1
+S57,SG01,Disassembly sequence planning using a fast and effective precedence-based disassembly subset-generation method,2020,0,0
+S57,SG02,Disassembly sequence planning using a fast and effective precedence-based disassembly subset-generation method,2020,0,0
+S57,SG03,Disassembly sequence planning using a fast and effective precedence-based disassembly subset-generation method,2020,0,0
+S57,SG04,Disassembly sequence planning using a fast and effective precedence-based disassembly subset-generation method,2020,0,0
+S57,SG05,Disassembly sequence planning using a fast and effective precedence-based disassembly subset-generation method,2020,0,0
+S57,SG06,Disassembly sequence planning using a fast and effective precedence-based disassembly subset-generation method,2020,0,0
+S57,SG07,Disassembly sequence planning using a fast and effective precedence-based disassembly subset-generation method,2020,0,0
+S57,SG08,Disassembly sequence planning using a fast and effective precedence-based disassembly subset-generation method,2020,0,0
+S57,SG09,Disassembly sequence planning using a fast and effective precedence-based disassembly subset-generation method,2020,0,0
+S57,SG10,Disassembly sequence planning using a fast and effective precedence-based disassembly subset-generation method,2020,0,0
+S57,SG11,Disassembly sequence planning using a fast and effective precedence-based disassembly subset-generation method,2020,0,0
+S57,SG12,Disassembly sequence planning using a fast and effective precedence-based disassembly subset-generation method,2020,0,0
+S57,SG13,Disassembly sequence planning using a fast and effective precedence-based disassembly subset-generation method,2020,0,0
+S57,SG14,Disassembly sequence planning using a fast and effective precedence-based disassembly subset-generation method,2020,0,0
+S57,SG15,Disassembly sequence planning using a fast and effective precedence-based disassembly subset-generation method,2020,0,0
+S57,SG16,Disassembly sequence planning using a fast and effective precedence-based disassembly subset-generation method,2020,0,0
+S57,SG17,Disassembly sequence planning using a fast and effective precedence-based disassembly subset-generation method,2020,0,0
+S57,SG18,Disassembly sequence planning using a fast and effective precedence-based disassembly subset-generation method,2020,0,0
+S57,SG19,Disassembly sequence planning using a fast and effective precedence-based disassembly subset-generation method,2020,0,0
+S57,SG20,Disassembly sequence planning using a fast and effective precedence-based disassembly subset-generation method,2020,0,0
+S57,SG21,Disassembly sequence planning using a fast and effective precedence-based disassembly subset-generation method,2020,0,0
+S57,SG22,Disassembly sequence planning using a fast and effective precedence-based disassembly subset-generation method,2020,0,0
+S57,SG23,Disassembly sequence planning using a fast and effective precedence-based disassembly subset-generation method,2020,0,0
+S57,SG24,Disassembly sequence planning using a fast and effective precedence-based disassembly subset-generation method,2020,0,0
+S57,SG25,Disassembly sequence planning using a fast and effective precedence-based disassembly subset-generation method,2020,0,0
+S58,SG01,Selective Disassembly Strategy Based on the CAD Model Assembly Building,2012,0,1
+S58,SG02,Selective Disassembly Strategy Based on the CAD Model Assembly Building,2012,0,1
+S58,SG03,Selective Disassembly Strategy Based on the CAD Model Assembly Building,2012,0,1
+S58,SG05,Selective Disassembly Strategy Based on the CAD Model Assembly Building,2012,0,1
+S58,SG06,Selective Disassembly Strategy Based on the CAD Model Assembly Building,2012,0,1
+S58,SG07,Selective Disassembly Strategy Based on the CAD Model Assembly Building,2012,0,1
+S58,SG11,Selective Disassembly Strategy Based on the CAD Model Assembly Building,2012,0,1
+S58,SG12,Selective Disassembly Strategy Based on the CAD Model Assembly Building,2012,0,1
+S58,SG13,Selective Disassembly Strategy Based on the CAD Model Assembly Building,2012,0,1
+S58,SG14,Selective Disassembly Strategy Based on the CAD Model Assembly Building,2012,0,1
+S58,SG16,Selective Disassembly Strategy Based on the CAD Model Assembly Building,2012,0,1
+S58,SG17,Selective Disassembly Strategy Based on the CAD Model Assembly Building,2012,0,1
+S58,SG18,Selective Disassembly Strategy Based on the CAD Model Assembly Building,2012,0,1
+S58,SG19,Selective Disassembly Strategy Based on the CAD Model Assembly Building,2012,0,1
+S58,SG20,Selective Disassembly Strategy Based on the CAD Model Assembly Building,2012,0,1
+S58,SG21,Selective Disassembly Strategy Based on the CAD Model Assembly Building,2012,0,1
+S58,SG23,Selective Disassembly Strategy Based on the CAD Model Assembly Building,2012,0,1
+S58,SG24,Selective Disassembly Strategy Based on the CAD Model Assembly Building,2012,0,1
+S58,SG25,Selective Disassembly Strategy Based on the CAD Model Assembly Building,2012,0,1
+S59,SG02,Prefabricated Buildings Selective Disassembly Strategy,2013,0,1
+S59,SG03,Prefabricated Buildings Selective Disassembly Strategy,2013,0,1
+S59,SG05,Prefabricated Buildings Selective Disassembly Strategy,2013,0,1
+S59,SG06,Prefabricated Buildings Selective Disassembly Strategy,2013,0,1
+S59,SG07,Prefabricated Buildings Selective Disassembly Strategy,2013,0,1
+S59,SG11,Prefabricated Buildings Selective Disassembly Strategy,2013,0,1
+S59,SG12,Prefabricated Buildings Selective Disassembly Strategy,2013,0,1
+S59,SG13,Prefabricated Buildings Selective Disassembly Strategy,2013,0,1
+S59,SG14,Prefabricated Buildings Selective Disassembly Strategy,2013,0,1
+S59,SG16,Prefabricated Buildings Selective Disassembly Strategy,2013,0,1
+S59,SG17,Prefabricated Buildings Selective Disassembly Strategy,2013,0,1
+S59,SG18,Prefabricated Buildings Selective Disassembly Strategy,2013,0,1
+S59,SG19,Prefabricated Buildings Selective Disassembly Strategy,2013,0,1
+S59,SG20,Prefabricated Buildings Selective Disassembly Strategy,2013,0,1
+S59,SG21,Prefabricated Buildings Selective Disassembly Strategy,2013,0,1
+S59,SG23,Prefabricated Buildings Selective Disassembly Strategy,2013,0,1
+S59,SG24,Prefabricated Buildings Selective Disassembly Strategy,2013,0,1
+S59,SG25,Prefabricated Buildings Selective Disassembly Strategy,2013,0,1
